@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Belgrade Municipality building</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4081</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0168</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:341"><ref type="context" target="info:fedora/context:siba.341">Architecture</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:186"><ref type="context" target="info:fedora/context:siba.186">Cultural Identity and Pride</ref><term type="broader" key="ocm:180"><ref type="context" target="info:fedora/context:siba.180">Total Culture</ref></term></term><term key="ocm:344"><ref type="context" target="info:fedora/context:siba.344">Public Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:653"><ref type="context" target="info:fedora/context:siba.653">Public Works</ref><term type="broader" key="ocm:650"><ref type="context" target="info:fedora/context:siba.650">Government Activities</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1928</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Exterior of the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B8">Beogradska opština</ref> taken from the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=V1">Velika pijaca</ref> square. A few workers are either constructing or dismantling scaffolding around the ground floor of the building. Some barely visible road workers can be seen at work in Uzun Mirko Street.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph was published in the newspaper Vreme on a page dealing with urban development, though without a specific text. The shop on the left is Avram Filipović's hardware store.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1928"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Uzun Mirkova ulica</note></placeName></ab>
+    <listBibl><bibl>Nova opštinska zgrada. Vreme 2459, 27 Oktober 1928, 8.</bibl><bibl> Zgrada Beogradske opštine. Source: http://beogradskonasledje.rs/kd/zavod/stari_grad/zgrada_beogradske_opstine.html (accessed 23.04.2016)</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4081.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.341">Architecture</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.186">Cultural Identity and Pride</ref><ref type="context" target="info:fedora/context:vase.ocm.180">Total Culture</ref><ref type="context" target="info:fedora/context:vase.ocm.344">Public Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.653">Public Works</ref><ref type="context" target="info:fedora/context:vase.ocm.650">Government Activities</ref></ab></div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>"Targovska Street 1890 - Sofia."</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.5</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Държавен архив - Пловдив</orgName>
+          <orgName xml:lang="en">State Archives - Plovdiv</orgName>
+          <idno type="invNo">ЧП № 754, л. 1</idno>
+          <ptr target="http://www.archives.government.bg/441-РДА_Пловдив" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:340">
+            <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+          </term>
+          <term key="ocm:360">
+            <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+          </term>
+          <term key="ocm:370">
+            <ref target="info:fedora/context:vase.370" type="context">Energy and Power</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2014-01-23" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Postcard</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1890</date>
+        <persName>
+          <forename>Ivan Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c3834c" type="context">Karastoyanov, Ivan Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Panorama picture of a street corner. In the foreground there is a woman and a couple in folk attire. In the background, there are people in urban clothes, buildings with boards, and a mosque. Recto: printed title in Bulgarian "Commerce Street 1890".</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet" />
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">89</height>
+          <width unit="mm">139</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1890" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+        <name type="publisher">I. A. Karastoyanov</name>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <listBibl>
+        <bibl>Kassabova, Anelia (2013): Inclusion and Exclusion: The Role of Photography in the Nation-Building Process in Bulgaria from Approximately 1860 to World War I. In: Demski, Dagnosław, Ildikó Sz. Kristóf, and Kamila Baraniecka-Olszewska (Eds.): Competing Eyes: Visual Encounters with Alterity in Central and Eastern Europe. Budapest: L‘ Harmattan, 125.</bibl>
+      </listBibl>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.5-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.5-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

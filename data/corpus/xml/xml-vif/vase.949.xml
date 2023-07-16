@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Wedding portrait of Nevyanka and Atanas Enchev</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.949</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национален Политехнически Музей</orgName>
+          <orgName xml:lang="en">National Polytechnic Museum</orgName>
+          <idno type="invNo">OF № 07517</idno>
+          <ptr target="http://www.polytechnicmuseum.org/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:292">
+            <ref target="info:fedora/context:vase.292" type="context">Special Garments</ref>
+            <term key="ocm:290" type="broader">
+              <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+            </term>
+          </term>
+          <term key="ocm:377">
+            <ref target="info:fedora/context:vase.377" type="context">Electric Power</ref>
+            <term key="ocm:370" type="broader">
+              <ref target="info:fedora/context:vase.370" type="context">Energy and Power</ref>
+            </term>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:400">
+            <ref target="info:fedora/context:vase.400" type="context">Machines</ref>
+          </term>
+          <term key="ocm:533">
+            <ref target="info:fedora/context:vase.533" type="context">Music</ref>
+            <term key="ocm:530" type="broader">
+              <ref target="info:fedora/context:vase.530" type="context">Arts</ref>
+            </term>
+          </term>
+          <term key="ocm:580">
+            <ref target="info:fedora/context:vase.580" type="context">Marrige</ref>
+          </term>
+          <term key="ocm:658">
+            <ref target="info:fedora/context:vase.658" type="context">Public Education</ref>
+            <term key="ocm:650" type="broader">
+              <ref target="info:fedora/context:vase.650" type="context">Government Activities</ref>
+            </term>
+          </term>
+          <term key="ocm:870">
+            <ref target="info:fedora/context:vase.870" type="context">Education</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName> 
+       <date>1911</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Half length studio photograph of a couple. The woman, wearing a light-coloured high-necked urban dress, is leaning against a man who is standing next to her in a dark suit and overcoat.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Atanas Enchev (1879 - 1948) went to high school in Russe and then studied Mathematics and Mechanical Engineering at the Imperial Institute in St. Petersburg, graduating in 1908. He became an employee at the Bulgarian Ministry of Trade, Industry and Labor and headmaster of the State High School of Mechanoelectric in Sofia (1910 - 1938). In 1911 he married Nevyanka Vasileva Todorova X After her graduation from the Royal Milan Conservatory of Music (Conservatorio di musica “Giuseppe Verdi” di Milano) and study stays in Paris and Vienna, their daughter Lyuba Encheva (1914 - 1989) became one of the most prominent Bulgarian pianists and music educators. She was a professor at the Bulgarian State Conservatory of Music (as of 1950) and guest professor at the Musashino Academia Musicae in Tokyo (1981 - 1982).</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Cabinet</seg>
+        <dimensions type="artefact">
+          <height unit="mm">165</height>
+          <width unit="mm">105</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">145</height>
+          <width unit="mm">102</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1911" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <linkGrp>
+        <ptr target="vase.948" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.949-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.949-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

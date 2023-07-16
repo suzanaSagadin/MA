@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Poster advertising the feature film ‘Slavica’</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>BACI – Balkan Cinema</edition>
+        <respStmt>
+          <name>Karl Kaser</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:baci.1132</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Jugoslovenska kinoteka</orgName>
+          <name type="collection" xml:lang="en">Fototeka</name>
+          <idno type="invNo">Posters 13</idno>
+          <ptr target="http://www.kinoteka.org.rs/wp/" />
+        </ab>
+        <ab type="copyright">Jugoslovenska kinoteka, Belgrade</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:546">
+            <ref target="info:fedora/context:baci.546" type="context">Motion Picture Industry</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:baci.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Poster</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1947</date>
+      </ab>
+      <ab type="lido:objectDescriptionSet">The poster features two armed men in front of a five-pointed red star. In the top right corner, a woman’s head is seen wearing a military cap with a five-pointed star. The signature ‘Petrov 47’ is displayed to her right. Below are the names of director Vjeko(slav) Afrić, cameraman Georgije Skrigin and composer Silvije Bombardelli. The name of the Yugoslav production company ‘Avala film’ appears in the top left corner and below those of the leading actors. The film title is printed below with the addition ‘the first domestic feature film, shot in Split and vicinity’.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">‘Slavica’ was the first feature film to be made in socialist Yugoslavia and was released in 1947.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1947" />
+        <country type="contemporary">unknown</country>
+        <country type="historical">Yugoslavia</country>
+        <placeName xml:id="SID.1">
+          <ref target="info:fedora/context:baci.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+      <linkGrp type="relations">
+        <ptr target="baci.1001" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///baci.1132-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+      <div type="ocm-contexts">
+        <ab>
+          <ref target="info:fedora/context:vase.ocm.546" type="context">Motion Picture Industry</ref>
+          <ref target="info:fedora/context:vase.ocm.540" type="context">Commercialized Entertainment</ref>
+        </ab>
+      </div>
+    </back>
+  </text>
+</TEI>

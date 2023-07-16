@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of the Zlatarski brothers</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.396</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Научен архив на Българската академия на науките</orgName>
+          <orgName xml:lang="en">Scientific Archive of the Bulgarian Academy of Sciences</orgName>
+          <idno type="invNo">Ф. 71К, а.е. 21-2</idno>
+          <ptr target="http://www.bas.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:133">
+            <ref target="info:fedora/context:vase.133" type="context">Topography and Geology</ref>
+            <term key="ocm:130" type="broader">
+              <ref target="info:fedora/context:vase.130" type="context">Geography</ref>
+            </term>
+          </term>
+          <term key="ocm:156">
+            <ref target="info:fedora/context:vase.156" type="context">Social Personality</ref>
+            <term key="ocm:150" type="broader">
+              <ref target="info:fedora/context:vase.150" type="context">Behavior Processes and Personality</ref>
+            </term>
+          </term>
+          <term key="ocm:590">
+            <ref target="info:fedora/context:vase.590" type="context">Familiy</ref>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:810">
+            <ref target="info:fedora/context:vase.810" type="context">Science and Humanities</ref>
+          </term>
+          <term key="ocm:5310">
+            <ref target="info:fedora/context:vase.5310" type="context">Verbal Arts</ref>
+            <term key="ocm:530" type="broader">
+              <ref target="info:fedora/context:vase.530" type="context">Arts</ref>
+            </term>
+          </term>
+          <term key="ocm:450">
+            <ref target="info:fedora/context:vase.450" type="context">Finance</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1885-1887</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full length shot of two men in urban clothes sitting at a small round table. Another man in military uniform is standing between them. A painted canvas backdrop is creating the illusion of the scene being set on a veranda.</ab>  
+    <ab subtype="comment" type="lido:objectDescriptionSet">Georgi Nikolov Zlatarski (1854 - 1909) was a Bulgarian geologist, Professor of Geology and Mineralogy, Dean of the Faculty of Physics and Mathematics at the University of Sofia (1903 - 1904) and the university's Rector (1897 - 1898; 1901 -1902). He was also a member of the Bulgarian Literary Society (renamed "Bulgarian Academy of Sciences" in 1911). Vasil Zlatarski (1866 - 1935) was a Bulgarian historian and medievalist, archaeologist, and epigraphist. He was a professor at, and vice president of, the Bulgarian Academy of Sciences (1926 - 1935). Alexander Zlatarski was among the founders of the Bulgarian Audit Office.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">216</height>
+          <width unit="mm">153</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">205</height>
+          <width unit="mm">149</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1887" notBefore="1885" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <linkGrp>
+        <ptr target="vase.395" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.396-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.396-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

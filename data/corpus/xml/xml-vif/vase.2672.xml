@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Portrait of the Franciscan padre Vladimir and a Catholic couple</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="BD">
+          <name>Barbara Derler</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.2672</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Österreichisches Museum für Volkskunde</orgName>
+          <orgName xml:lang="en">The Austrian Museum of Folk Life and Folk Art</orgName>
+          <idno type="invNo">ÖMV/pos/2672</idno>
+          <ptr target="http://www.volkskundemuseum.at/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:571">
+            <ref target="info:fedora/context:vase.571" type="context">Social Relationships and Groups</ref>
+            <term key="ocm:570" type="broader">
+              <ref target="info:fedora/context:vase.570" type="context">Interpersonal Relations</ref>
+            </term>
+          </term>
+          <term key="ocm:793">
+            <ref target="info:fedora/context:vase.793" type="context">Priesthood</ref>
+            <term key="ocm:790" type="broader">
+              <ref target="info:fedora/context:vase.790" type="context">Ecclesiatical Organization</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bosnia and Herzegovina</country>
+                <settlement>Jajce</settlement>
+                <name ref="http://geonames.org/3198934" type="fcode:PPL">Jajce</name>
+                <location>
+                  <geo>17.27059,44.34203</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#BD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1912 before</date>
+        <persName>
+          <forename>Edmund</forename>
+          <surname>Schneeweis</surname>
+          <ref target="info:fedora/context:vase.pn.cf3ac82b" type="context">Schneeweis, Edmund</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">A man in clerical clothing and a Croat couple wearing traditional clothes are sitting in front of a house.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Donated to the The Austrian Museum of Folk Life and Folk Art by Dr. E. Schneeweis.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">87</height>
+          <width unit="mm">87</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1912" />
+        <country type="contemporary">Bosnia and Herzegovina</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4407d95" type="context">Jajce</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <linkGrp>  
+      <ptr target="vase.2659" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.2672-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

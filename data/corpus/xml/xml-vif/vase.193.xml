@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>"Commemoration of the 25. Anniversary of the Liberation of Bulgaria"</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.193</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национален Военноисторически Музей</orgName>
+          <orgName xml:lang="en">National Museum of Military History Sofia</orgName>
+          <idno type="invNo">58</idno>
+          <ptr target="http://www.militarymuseum.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:640">
+            <ref target="info:fedora/context:vase.640" type="context">State</ref>
+          </term>
+          <term key="ocm:714">
+            <ref target="info:fedora/context:vase.714" type="context">Uniform and Accouterment</ref>
+            <term key="ocm:710" type="broader">
+              <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+            </term>
+          </term>
+          <term key="ocm:720">
+            <ref target="info:fedora/context:vase.720" type="context">War</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <name ref="http://geonames.org/6204277" type="fcode:LK">Lake Unknown</name>
+                <location>
+                  <geo>168.27006,-44.62835</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Court photographer</roleName>
+        <date>1902</date>
+        <persName>
+          <forename>Ivan Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c3834c" type="context">Karastoyanov, Ivan Anastasov</ref>
+        </persName>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Outdoor photograph of a large group of men taken in front of a building. Most men are wearing different kinds of military uniforms and hats with cockades. Some are wearing plain city clothes.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Bulgarian and Russian officers. In Bulgarian historiography, the term Liberation of Bulgaria is used to denote the events of the Russo-Ottoman War of 1877 - 1878 that led to the (re-)establishment of the Bulgarian state. Title is a translation of the given by the National Museum of Military History title in Bulgarian.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">261</height>
+          <width unit="mm">367</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">261</height>
+          <width unit="mm">367</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1902" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <certainty cert="medium" locus="value" target="persName" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.193-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.193-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

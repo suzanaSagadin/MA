@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>St. George's Day celebration in Kokalyane monastery</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.618</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национална Библиотека "Св. св. Кирил и Методий"</orgName>
+          <orgName xml:lang="en">St. Cyril and St. Methodius National Library</orgName>
+          <idno type="invNo">C II  549</idno>
+          <ptr target="http://www.nationallibrary.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:215">
+            <ref target="info:fedora/context:vase.215" type="context">Photography</ref>
+            <term key="ocm:210" type="broader">
+              <ref target="info:fedora/context:vase.210" type="context">Records</ref>
+            </term>
+          </term>
+          <term key="ocm:260">
+            <ref target="info:fedora/context:vase.260" type="context">Food Consumption</ref>
+          </term>
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:438">
+            <ref target="info:fedora/context:vase.438" type="context">Domestic Trade</ref>
+            <term key="ocm:430" type="broader">
+              <ref target="info:fedora/context:vase.430" type="context">Exchange</ref>
+            </term>
+          </term>
+          <term key="ocm:439">
+            <ref target="info:fedora/context:vase.439" type="context">Foreign Trade</ref>
+            <term key="ocm:430" type="broader">
+              <ref target="info:fedora/context:vase.430" type="context">Exchange</ref>
+            </term>
+          </term>
+          <term key="ocm:527">
+            <ref target="info:fedora/context:vase.527" type="context">Rest Days and Holidays</ref>
+            <term key="ocm:520" type="broader">
+              <ref target="info:fedora/context:vase.520" type="context">Recreation</ref>
+            </term>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:570">
+            <ref target="info:fedora/context:vase.570" type="context">Interpersonal Relations</ref>
+          </term>
+          <term key="ocm:640">
+            <ref target="info:fedora/context:vase.640" type="context">State</ref>
+          </term>
+          <term key="ocm:770">
+            <ref target="info:fedora/context:vase.770" type="context">Religious Beliefs</ref>
+          </term>
+          <term key="ocm:780">
+            <ref target="info:fedora/context:vase.780" type="context">Religious Practices</ref>
+          </term>
+          <term key="ocm:793">
+            <ref target="info:fedora/context:vase.793" type="context">Priesthood</ref>
+            <term key="ocm:790" type="broader">
+              <ref target="info:fedora/context:vase.790" type="context">Ecclesiatical Organization</ref>
+            </term>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <name ref="http://geonames.org/8521273" type="fcode:CAPE">Kokalyane Point</name>
+                <location>
+                  <geo>-61.29611,-62.63528</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Court photographer</roleName>
+        <date>1888 after</date>
+        <persName>
+          <forename>Ivan Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c3834c" type="context">Karastoyanov, Ivan Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Outdoor group photograph: in the center there is a group of men of different ages seated in a circle, mostly in urban clothes, one in military uniform, and one in an Orthodox priest garb, some of them are eating. Around this group five men are standing: on the left there are two young men in rural clothes with traditional peasant shoes (tsarvuli) and leggings, one is holding a drum or traditional wine vessel (bakliza); on the right there is a man with a lamb on stake.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">St. George's Day is one of the most celebrated name days in Bulgaria. St. George's Day is also the Day of the Bulgarian Army, made official with a Decree issued by Prince (Knyaz) Aleksander of Bulgaria on January 9, 1880. Parades are organized in the capital Sofia. A common ritual is to prepare and eat a whole lamb, possibly related to the fact that St. George is the patron saint of shepherds. Among the photographed are: Ivan Geshov, Ivan Karastoyanov, Iv. Grozev, Aleko Konstantinov, M. Sarafov and Georgi Zlatarksi.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">90</height>
+          <width unit="mm">122</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">85</height>
+          <width unit="mm">119</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1888" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.429a3791" type="context">Kokalyane</ref>
+          <note>Vicinity of Kokalyane monastery</note>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <listBibl>
+        <bibl>Boev, Petar (1983): Fotografskoto izkustvo v Balgaria /1856 - 1944/. Sofia: DI "Septemvri", 113.</bibl>
+      </listBibl>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.618-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.618-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

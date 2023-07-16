@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Break in the shooting of the film ‘Sa verom u Boga’</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>BACI – Balkan Cinema</edition>
+        <respStmt>
+          <name>Karl Kaser</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:baci.1116</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Jugoslovenska kinoteka</orgName>
+          <name type="collection" xml:lang="en">Fototeka</name>
+          <idno type="invNo">Photo-Cinema and movies 15</idno>
+          <ptr target="http://www.kinoteka.org.rs/wp/" />
+        </ab>
+        <ab type="copyright">Jugoslovenska kinoteka, Belgrade</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:546">
+            <ref target="info:fedora/context:baci.546" type="context">Motion Picture Industry</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:baci.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1932</date>
+      </ab>
+      <ab type="lido:objectDescriptionSet">The photograph features the film crew of the Yugoslav silent movie ‘Sa verom u Boga’ (In God we trust). There is a damaged black car in the centre of the picture driven into a roadside ditch. In the background are some trees and a two-storey house; in the forefront a road.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The silent feature film ‘Sa verom u Boga’ (In God we trust) was shot in Serbia in 1932, when sound movies were already on the rise. The film was directed by the young Mihajlo A. Popović (1908–1990).</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1932" />
+        <country type="contemporary">unknown</country>
+        <country type="historical">Yugoslavia</country>
+        <placeName xml:id="SID.1">
+          <ref target="info:fedora/context:baci.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///baci.1116-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+      <div type="ocm-contexts">
+        <ab>
+          <ref target="info:fedora/context:vase.ocm.546" type="context">Motion Picture Industry</ref>
+          <ref target="info:fedora/context:vase.ocm.540" type="context">Commercialized Entertainment</ref>
+        </ab>
+      </div>
+    </back>
+  </text>
+</TEI>

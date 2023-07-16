@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Day labourers at Sebilj Fountain II</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Mehmed A. Akšamija</name><resp>editor</resp></respStmt><respStmt><name>Kristina Ilić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4866</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Alija M. Akšamija private collection, Sarajevo</orgName>
+          <name xml:lang="en" type="collection">Sarajevski ciklus 1938./39. - Težaci II</name>
+          <idno type="invNo">A.M.A. N P 17 38</idno>
+        </ab>
+        <ab type="copyright">Mehmed A. Akšamija</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:103"><ref type="context" target="info:fedora/context:siba.103">Place Names</ref><term type="broader" key="ocm:100"><ref type="context" target="info:fedora/context:siba.100">Orientation</ref></term></term><term key="ocm:292"><ref type="context" target="info:fedora/context:siba.292">Special Garments</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term><term key="ocm:341"><ref type="context" target="info:fedora/context:siba.341">Architecture</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:461"><ref type="context" target="info:fedora/context:siba.461">Labor and Leisure</ref><term type="broader" key="ocm:460"><ref type="context" target="info:fedora/context:siba.460">Labor</ref></term></term><term key="ocm:564"><ref type="context" target="info:fedora/context:siba.564">Castes</ref><term type="broader" key="ocm:560"><ref type="context" target="info:fedora/context:siba.560">Social Stratification</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1938</date>
+      <persName role="Photographer"><forename>Alija M.</forename><surname>Akšamija</surname><ref type="context" target="info:fedora/context:siba.pn.be7b6d09">Akšamija, Alija M.</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Two men are sitting on the stone bench of the Sebilj fountain in <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B4">Baščaršija</ref>. They are dressed in shabby dark suits and <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=F4">fes</ref>, and have their right legs crossed over their left knees. The man in the foreground is wearing <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=O1">opanci</ref> and has a large moustache. His battered <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=F4">fes</ref> has lost its form. The young lad sitting behind him is seen in profile. His <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=F4">fes</ref> is in perfect shape and pushed far back on his head, giving way to some curly locks on his forehead. He is bent over his leg, scratching his ankle. In the background, the goods of a nearby shop are on display.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The two men are day labourers (težak, pl. težaci). The older man obviously cannot afford to have his <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=F4">fes</ref> steam-cleaned back into shape. Analogue photographic process, negative-positive (Agfa Isopan 17 DIN). Original preserved as a negative and positive on silver bromine paper.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">60</height><width unit="mm">60</width></dimensions><dimensions type="positive"><height unit="mm">120</height><width unit="mm">120</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1938"></date>
+      <country type="contemporary">Bosnia and Herzegovina</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.814f17d1" type="context">Sarajevo</ref><note>Baščaršija</note></placeName></ab>
+    <listBibl><bibl>Akšamija, Mehmed A. (2015): Alija M. Akšamija – Monografija arhivografije. Sarajevo: BANU. Vol. I, 49.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4866.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.103">Place Names</ref><ref type="context" target="info:fedora/context:vase.ocm.100">Orientation</ref><ref type="context" target="info:fedora/context:vase.ocm.292">Special Garments</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.341">Architecture</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.461">Labor and Leisure</ref><ref type="context" target="info:fedora/context:vase.ocm.460">Labor</ref><ref type="context" target="info:fedora/context:vase.ocm.564">Castes</ref><ref type="context" target="info:fedora/context:vase.ocm.560">Social Stratification</ref></ab></div>
+    </back>
+  </text>
+</TEI>

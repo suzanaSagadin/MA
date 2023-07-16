@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Film set of 'Za čast otadžbine' in Kalemegdan</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4070</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba1041</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:207"><ref type="context" target="info:fedora/context:siba.207">Radio and Television</ref><term type="broader" key="ocm:200"><ref type="context" target="info:fedora/context:siba.200">Communication</ref></term></term><term key="ocm:546"><ref type="context" target="info:fedora/context:siba.546">Motion Picture Industry</ref><term type="broader" key="ocm:540"><ref type="context" target="info:fedora/context:siba.540">Commercialized Entertainment</ref></term></term><term key="ocm:367"><ref type="context" target="info:fedora/context:siba.367">Parks</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term><term key="ocm:447"><ref type="context" target="info:fedora/context:siba.447">Advertising</ref><term type="broader" key="ocm:440"><ref type="context" target="info:fedora/context:siba.440">Marketing</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1930-01-21</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Picture of an outdoor film shoot in <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K3">Kalemegdan</ref>. In the foreground, four soldiers in the pre-war uniforms of the Serbian Kingdom are lying on a slope with a machine gun positioned in front of them. A camera is directed on them from the background, operated by a dark-haired man in a suit. The scene is being watched by two other men standing next to the cameraman, one in a hat and a long dark coat, the other in an officer's uniform. More soldiers are seen lying on the ground in the background.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph was published as part of a report in the newspaper Vreme on the shooting of the first Yugoslav war movie 'Za čast otadžbine' (For the Honour of the Fatherland) about the defence of Belgrade and its fortress against Austrian attack in 1914–15, at the beginning of World War I. The film was directed by Stanislav Krakow, a writer and editor with Vreme, who also operated the camera.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1930-01-21"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Kalemegdan</note></placeName></ab>
+    <listBibl><bibl>Vojska radi za film. Vreme 2900, 22 January 1930, 5.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4070.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.207">Radio and Television</ref><ref type="context" target="info:fedora/context:vase.ocm.200">Communication</ref><ref type="context" target="info:fedora/context:vase.ocm.546">Motion Picture Industry</ref><ref type="context" target="info:fedora/context:vase.ocm.540">Commercialized Entertainment</ref><ref type="context" target="info:fedora/context:vase.ocm.367">Parks</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref><ref type="context" target="info:fedora/context:vase.ocm.447">Advertising</ref><ref type="context" target="info:fedora/context:vase.ocm.440">Marketing</ref></ab></div>
+    </back>
+  </text>
+</TEI>

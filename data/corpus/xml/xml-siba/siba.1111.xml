@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Storyteller Aşki Efendi reading a newspaper in a coffeehouse</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1111</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">ASKI - MEDDAH - CAM NGTF - NAMIK</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:173"><ref type="context" target="info:fedora/context:siba.173">Traditional History</ref><term type="broader" key="ocm:170"><ref type="context" target="info:fedora/context:siba.170">History and Culture Change</ref></term></term><term key="ocm:5310"><ref type="context" target="info:fedora/context:siba.5310">Verbal Arts</ref><term type="broader" key="ocm:530"><ref type="context" target="info:fedora/context:siba.530">Arts</ref></term></term><term key="ocm:275"><ref type="context" target="info:fedora/context:siba.275">Drinking Establishments</ref><term type="broader" key="ocm:270"><ref type="context" target="info:fedora/context:siba.270">Drink, Drugs, and Indulgence</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1924</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">The well-known storyteller (meddah) Aşki Efendi is sitting on a wooden bench in a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K2">kahvehane</ref>, looking at a newspaper he is holding with both hands. The text is in Ottoman script. Aşki Efendi is wearing a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=F4">fes</ref>, a wide collarless jacket made of the same material as his trousers, a collarless white shirt, and a handkerchief around his neck. He is sitting between two marble-topped tables with his elbow propped on the one to his right, which is covered with more newspapers.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The scene takes place in a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K2">kahvehane</ref> in the Kadırga neighbourhood, Fatih. Ottoman script was in use in the Turkish Republic until 1928.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1924"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Kadırga, Fatih</note></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1111.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.173">Traditional History</ref><ref type="context" target="info:fedora/context:vase.ocm.170">History and Culture Change</ref><ref type="context" target="info:fedora/context:vase.ocm.5310">Verbal Arts</ref><ref type="context" target="info:fedora/context:vase.ocm.530">Arts</ref><ref type="context" target="info:fedora/context:vase.ocm.275">Drinking Establishments</ref><ref type="context" target="info:fedora/context:vase.ocm.270">Drink, Drugs, and Indulgence</ref></ab></div>
+    </back>
+  </text>
+</TEI>

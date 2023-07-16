@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of a small child with flowers</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AD">
+          <name>Ana Djordjevic</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.1263</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Miloš Jurišić</orgName>
+          <orgName xml:lang="en">Miloš Jurišić</orgName>
+          <idno type="invNo">atelje milan jovanovic (79x164mm)_0007</idno>
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:850">
+            <ref target="info:fedora/context:vase.850" type="context">Infancy and Childhood</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Serbia</country>
+                <settlement>Belgrade</settlement>
+                <name ref="http://geonames.org/792680" type="fcode:PPLC">Belgrade</name>
+                <location>
+                  <geo>20.46513,44.80401</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1910 before</date>
+        <persName>
+          <forename>Milan</forename>
+          <surname>Jovanović</surname>
+          <ref target="info:fedora/context:vase.pn.4622c1ba" type="context">Jovanović, Milan</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full-length shot of a young child with bangs dressed in a white tunic. He or she is sitting on a wooden desk and holding flowers in his or her right arm.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet" />
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Cabinet</seg>
+        <dimensions type="artefact">
+          <height unit="mm">79</height>
+          <width unit="mm">164</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1910" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.650f150e" type="context">Belgrade</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.1263-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

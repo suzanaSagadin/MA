@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of Yanko Draganov</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.73</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Централен Държавен Архив</orgName>
+          <orgName xml:lang="en">Central State Archives</orgName>
+          <idno type="invNo">Ф. 1905К, оп. 1, a.е. 45, л. 2</idno>
+          <ptr target="http://www.archives.government.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:704">
+            <ref target="info:fedora/context:vase.704" type="context">Ground Combat Forces</ref>
+            <term key="ocm:700" type="broader">
+              <ref target="info:fedora/context:vase.700" type="context">Armed Forces</ref>
+            </term>
+          </term>
+          <term key="ocm:714">
+            <ref target="info:fedora/context:vase.714" type="context">Uniform and Accouterment</ref>
+            <term key="ocm:710" type="broader">
+              <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+            </term>
+          </term>
+          <term key="ocm:720">
+            <ref target="info:fedora/context:vase.720" type="context">War</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1892-1900</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Half length shot of a man in military uniform with a hat with a cockade, insignia of honour, and a sword.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Yanko Draganov (1859 - 1932) was a Bulgarian volunteer (opaltchenets) in the Russo-Ottoman War 1877 - 1878, Bulgarian officer, and since 1917 Lieutenant General.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Carte de visite</seg>
+        <dimensions type="artefact">  
+        <height unit="mm">109</height>
+          <width unit="mm">68</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">92</height>
+          <width unit="mm">63</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1900" notBefore="1892" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <linkGrp>
+        <ptr target="vase.72" />
+        <ptr target="vase.74" />
+        <ptr target="vase.75" />
+        <ptr target="vase.76" />
+        <ptr target="vase.77" />
+        <ptr target="vase.78" />
+        <ptr target="vase.79" />
+        <ptr target="vase.80" />
+        <ptr target="vase.81" />
+        <ptr target="vase.82" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.73-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.73-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

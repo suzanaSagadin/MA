@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cavalry. Historical re-enactment of the Battle of Shipka Pass</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.181</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национален Военноисторически Музей</orgName>
+          <orgName xml:lang="en">National Museum of Military History Sofia</orgName>
+          <idno type="invNo">46</idno>
+          <ptr target="http://www.militarymuseum.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:231">
+            <ref target="info:fedora/context:vase.231" type="context">Domesticated Animals</ref>
+            <term key="ocm:230" type="broader">
+              <ref target="info:fedora/context:vase.230" type="context">Animal Husbandry</ref>
+            </term>
+          </term>
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:700">
+            <ref target="info:fedora/context:vase.700" type="context">Armed Forces</ref>
+          </term>
+          <term key="ocm:710">
+            <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+          </term>
+          <term key="ocm:720">
+            <ref target="info:fedora/context:vase.720" type="context">War</ref>
+          </term>
+          <term key="ocm:648">
+            <ref target="info:fedora/context:vase.648" type="context">International Relations</ref>
+            <term key="ocm:640" type="broader">
+              <ref target="info:fedora/context:vase.640" type="context">State</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <name ref="http://geonames.org/6625209" type="fcode:PASS">Shipka Saddle</name>
+                <location>
+                  <geo>-60.131,-62.664</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1902</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">High angle panorama shot of a mountainous terrain with a group of men in back view. Most of them are on horseback. They are wearing military uniforms and carry their accouterments.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">During the Russo-Ottoman War of 1877 - 1878, Shipka Peak in Stara planina was the site of a series of armed conflicts, collectively referred to as "The Battle of Shipka Pass", between the Russians (aided by Bulgarian volunteers) and the Ottoman Empire. On the occasion of the 25th anniversary of the Russo-Ottoman War a historical re-enactment of the battles took place.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">185</height>
+          <width unit="mm">270</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">185</height>
+          <width unit="mm">251</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1902" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.938d34b2" type="context">Shipka</ref>
+          <note>Mountain peak in Stara planina.</note>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <linkGrp>
+        <ptr target="vase.175" />
+        <ptr target="vase.176" />
+        <ptr target="vase.177" />
+        <ptr target="vase.178" />
+        <ptr target="vase.179" />
+        <ptr target="vase.180" />
+        <ptr target="vase.189" />
+        <ptr target="vase.182" />
+        <ptr target="vase.183" />
+        <ptr target="vase.184" />
+        <ptr target="vase.185" />
+        <ptr target="vase.186" />
+        <ptr target="vase.187" />
+        <ptr target="vase.188" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.181-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.181-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

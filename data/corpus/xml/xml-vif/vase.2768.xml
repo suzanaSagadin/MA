@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>"Sarajevo / Street Scene"</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="BD">
+          <name>Barbara Derler</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.2768</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Bošnjački institut - Fondacija Adila Zulfikarpašića</orgName>
+          <orgName xml:lang="en">Bosniac Institute - Adil Zulfikarpašić Foundation</orgName>
+          <idno type="invNo">Not inventoried</idno>
+          <ptr target="http://www.bosnjackiinstitut.ba/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:347">
+            <ref target="info:fedora/context:vase.347" type="context">Business Structures</ref>
+            <term key="ocm:340" type="broader">
+              <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+            </term>
+          </term>
+          <term key="ocm:363">
+            <ref target="info:fedora/context:vase.363" type="context">Streets and Traffic</ref>
+            <term key="ocm:360" type="broader">
+              <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+            </term>
+          </term>
+          <term key="ocm:432">
+            <ref target="info:fedora/context:vase.432" type="context">Buying and Selling</ref>
+            <term key="ocm:430" type="broader">
+              <ref target="info:fedora/context:vase.430" type="context">Exchange</ref>
+            </term>
+          </term>
+          <term key="ocm:438">
+            <ref target="info:fedora/context:vase.438" type="context">Domestic Trade</ref>
+            <term key="ocm:430" type="broader">
+              <ref target="info:fedora/context:vase.430" type="context">Exchange</ref>
+            </term>
+          </term>
+          <term key="ocm:340">
+            <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+          </term>
+          <term key="ocm:462">
+            <ref target="info:fedora/context:vase.462" type="context">Division of Labor by Gender</ref>
+            <term key="ocm:460" type="broader">
+              <ref target="info:fedora/context:vase.460" type="context">Labor</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bosnia and Herzegovina</country>
+                <settlement>Sarajevo</settlement>
+                <name ref="http://geonames.org/3191281" type="fcode:PPLC">Sarajevo</name>
+                <location>
+                  <geo>18.35644,43.84864</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#BD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Postcard</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1904.11.01-1918</date>
+        <persName>
+          <surname>Unknown</surname>
+          <ref target="info:fedora/context:vase.pn.unknown" type="context">unknown</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Street vendors selling corn while two women in urban clothes and a salep drink pedlar are passing by. In the background: open-fronted shops and the Sebilj fountain.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Uncirculated postcard.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">95</height>
+          <width unit="mm">140</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1918" notBefore="1904.11.01" />
+        <country type="contemporary">Bosnia and Herzegovina</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.814f17d1" type="context">Sarajevo</ref>
+        </placeName>
+        <name type="publisher">SMD Modiano, Trieste</name>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.2768-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2768-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

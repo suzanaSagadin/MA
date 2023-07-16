@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bozhidar Karastoyanov, Konstantin Shtarkelov, and a friend in Thessaloniki</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.754</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Личен Архив Биляна Брайкова Карастоянова</orgName>
+          <orgName xml:lang="en">Bilyana Braykova Karastoyanova</orgName>
+          <idno type="invNo">BK_032</idno>
+          <ptr target="Personal Archive of Bilyana Braykova Karastoyanova" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:215">
+            <ref target="info:fedora/context:vase.215" type="context">Photography</ref>
+            <term key="ocm:210" type="broader">
+              <ref target="info:fedora/context:vase.210" type="context">Records</ref>
+            </term>
+          </term>
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:410">
+            <ref target="info:fedora/context:vase.410" type="context">Tools and Appliances</ref>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:714">
+            <ref target="info:fedora/context:vase.714" type="context">Uniform and Accouterment</ref>
+            <term key="ocm:710" type="broader">
+              <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+            </term>
+          </term>
+          <term key="ocm:5311">
+            <ref target="info:fedora/context:vase.5311" type="context">Visual Arts</ref>
+            <term key="ocm:530" type="broader">
+              <ref target="info:fedora/context:vase.530" type="context">Arts</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Greece</country>
+                <settlement>Thessaloniki</settlement>
+                <name ref="http://geonames.org/734077" type="fcode:PPLA">Thessaloniki</name>
+                <location>
+                  <geo>22.93086,40.64362</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1941-1942</date>
+        <persName>
+          <forename>Bozhidar Dimitrov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c5c735fb" type="context">Karastoyanov, Bozhidar Dimitrov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Outdoor photograph of three men on a balcony. One of them is wearing a military uniform and a hat with a cockade and insignia of honour. He is standing between two other men in plain city clothes. In the background: the sea with boats and small ships.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">
+        <ref target="info:fedora/context:vase.pn.c5c735fb">Bozhidar Dimitrov Karastoyanov</ref>. Konstantin (Kocho) Shtarkelov (1889 - 1961) was a Bulgarian water-colour painter.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">160</height>
+          <width unit="mm">220</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1942" notBefore="1941" />
+        <country type="contemporary">Greece</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.72e9286c" type="context">Thessaloniki</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.754-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

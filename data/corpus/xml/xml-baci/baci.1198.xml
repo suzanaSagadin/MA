@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bulgarian film director Binka Željazkova (1923–2011)</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>BACI – Balkan Cinema</edition>
+        <respStmt>
+          <name>Karl Kaser</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:baci.1198</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Bălgarskata nacionalna filmoteka</orgName>
+          <name type="collection" xml:lang="en">Fototeka</name>
+          <idno type="invNo">Fototeka 10</idno>
+          <ptr target="http://bnf.bg/bg/film" />
+        </ab>
+        <ab type="copyright">Bălgarskata nacionalna filmoteka</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:546">
+            <ref target="info:fedora/context:baci.546" type="context">Motion Picture Industry</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:baci.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1960 after</date>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Black-and whiteportrait photograph of Binka Željazkova taken in the 1960s/1970s. She has dark hair and is wearing a dark shirt and dark-rimmed glasses.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Binka Željazkova was the first Bulgarian woman to direct a feature film and one of the few women worldwide to direct feature films in the 1950s. An active member of the anti-fascist youth movement during World War II, she soon became disillusioned with post-war realities, which had little to do with her ideals. Her work often reflected her struggles, and four of her nine films were banned from distribution and reached audiences only after the fall of communism.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1960" />
+        <country type="contemporary">unknown</country>
+        <country type="historical">Bulgaria</country>
+        <placeName xml:id="SID.1">
+          <ref target="info:fedora/context:baci.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+      <linkGrp type="relations">
+        <ptr target="baci.1196" />
+        <ptr target="baci.1197" />
+        <ptr target="baci.1209" />
+        <ptr target="baci.1210" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///baci.1198-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+      <div type="ocm-contexts">
+        <ab>
+          <ref target="info:fedora/context:vase.ocm.546" type="context">Motion Picture Industry</ref>
+          <ref target="info:fedora/context:vase.ocm.540" type="context">Commercialized Entertainment</ref>
+        </ab>
+      </div>
+    </back>
+  </text>
+</TEI>

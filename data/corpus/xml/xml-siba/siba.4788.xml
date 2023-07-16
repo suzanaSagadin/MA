@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Children listening to orchestra in Kalemegdan</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4788</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej primenjene umetnosti, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Aca Simić</name>
+          <idno type="invNo">N 21583</idno>
+        <ptr target="http://mpu.rs" /></ab>
+        <ab type="copyright">The Museum of Applied Art</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term><term key="ocm:545"><ref type="context" target="info:fedora/context:siba.545">Musical and Theatrical Productions</ref><term type="broader" key="ocm:540"><ref type="context" target="info:fedora/context:siba.540">Commercialized Entertainment</ref></term></term><term key="ocm:857"><ref type="context" target="info:fedora/context:siba.857">Childhood Activities</ref><term type="broader" key="ocm:850"><ref type="context" target="info:fedora/context:siba.850">Infancy and Childhood</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1930-1940</date>
+      <persName role="Press Photographer Politika"><forename>Aleksandar-Aca</forename><surname>Simić</surname><ref type="context" target="info:fedora/context:siba.pn.9c67532d">Simić, Aleksandar-Aca</ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">A small girl is dancing to the music of a military band giving an outdoor concert in <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K3">Kalemegdan</ref> Park. The band is surrounded by numerous listeners, one of them a soldier. An older girl and a younger boy watch the scene.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment"></ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="positive"><height unit="mm">182</height><width unit="mm">240</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date notBefore="1930" notAfter="1940"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4788.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref><ref type="context" target="info:fedora/context:vase.ocm.545">Musical and Theatrical Productions</ref><ref type="context" target="info:fedora/context:vase.ocm.540">Commercialized Entertainment</ref><ref type="context" target="info:fedora/context:vase.ocm.857">Childhood Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.850">Infancy and Childhood</ref></ab></div>
+    </back>
+  </text>
+</TEI>

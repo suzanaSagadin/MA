@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>"Les Femmes de Yadar"</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AD">
+          <name>Ana Djordjevic</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.1543</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Narodna Biblioteka Srbije</orgName>
+          <orgName xml:lang="en">National Library of Serbia</orgName>
+          <idno type="invNo">LJDRg922</idno>
+          <ptr target="http://www.nb.rs/index.php?change_lang=en" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:292">
+            <ref target="info:fedora/context:vase.292" type="context">Special Garments</ref>
+            <term key="ocm:290" type="broader">
+              <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+            </term>
+          </term>
+          <term key="ocm:360">
+            <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+          </term>
+          <term key="ocm:363">
+            <ref target="info:fedora/context:vase.363" type="context">Streets and Traffic</ref>
+            <term key="ocm:360" type="broader">
+              <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+            </term>
+          </term>
+          <term key="ocm:411">
+            <ref target="info:fedora/context:vase.411" type="context">Weapons</ref>
+            <term key="ocm:410" type="broader">
+              <ref target="info:fedora/context:vase.410" type="context">Tools and Appliances</ref>
+            </term>
+          </term>
+          <term key="ocm:700">
+            <ref target="info:fedora/context:vase.700" type="context">Armed Forces</ref>
+          </term>
+          <term key="ocm:714">
+            <ref target="info:fedora/context:vase.714" type="context">Uniform and Accouterment</ref>
+            <term key="ocm:710" type="broader">
+              <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+            </term>
+          </term>
+          <term key="ocm:720">
+            <ref target="info:fedora/context:vase.720" type="context">War</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <name ref="http://geonames.org/3198974" type="fcode:RGN">Jadar</name>
+                <location>
+                  <geo>19.42538,44.52375</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Postcard</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1914 before</date>
+        <persName>
+          <forename>Rista</forename>
+          <surname>Marjanović</surname>
+          <ref target="info:fedora/context:vase.pn.78ab9ab" type="context">Marjanović, Rista</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full-length shot of women in traditional clothes helping soldiers push carriages up a hill.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">During World War I, the 'Battle of Cer', also known as the 'Battle of the Jadar River', was fought in 1914. It was a major battle between the Austro-Hungarian and Serbian Armies, in which the Serbs defeated the Austrians. It was the first victory of Entente Powers in World War I.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">90</height>
+          <width unit="mm">140</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1914" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.44066de" type="context">Jadar</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.1543-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

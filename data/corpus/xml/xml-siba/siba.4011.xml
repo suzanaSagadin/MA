@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vreme book shop</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4011</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba.knjizaravreme</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:204"><ref type="context" target="info:fedora/context:siba.204">Press</ref><term type="broader" key="ocm:200"><ref type="context" target="info:fedora/context:siba.200">Communication</ref></term></term><term key="ocm:344"><ref type="context" target="info:fedora/context:siba.344">Public Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:432"><ref type="context" target="info:fedora/context:siba.432">Buying and Selling</ref><term type="broader" key="ocm:430"><ref type="context" target="info:fedora/context:siba.430">Exchange</ref></term></term><term key="ocm:447"><ref type="context" target="info:fedora/context:siba.447">Advertising</ref><term type="broader" key="ocm:440"><ref type="context" target="info:fedora/context:siba.440">Marketing</ref></term></term><term key="ocm:512"><ref type="context" target="info:fedora/context:siba.512">Daily Routine</ref><term type="broader" key="ocm:510"><ref type="context" target="info:fedora/context:siba.510">Living Standards and Routines</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1920-1940</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Pedestrians in front of the Vreme book shop on a wet winter day. Some are standing on the pavement’s curb, looking into the camera. Behind them, a group of mostly men is turned towards the shop window, reading a bulletin on display next to the entrance door. The shop windows are trimmed with illustrations, books and papers.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment"></ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date notBefore="1920" notAfter="1940"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4011.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.204">Press</ref><ref type="context" target="info:fedora/context:vase.ocm.200">Communication</ref><ref type="context" target="info:fedora/context:vase.ocm.344">Public Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.432">Buying and Selling</ref><ref type="context" target="info:fedora/context:vase.ocm.430">Exchange</ref><ref type="context" target="info:fedora/context:vase.ocm.447">Advertising</ref><ref type="context" target="info:fedora/context:vase.ocm.440">Marketing</ref><ref type="context" target="info:fedora/context:vase.ocm.512">Daily Routine</ref><ref type="context" target="info:fedora/context:vase.ocm.510">Living Standards and Routines</ref></ab></div>
+    </back>
+  </text>
+</TEI>

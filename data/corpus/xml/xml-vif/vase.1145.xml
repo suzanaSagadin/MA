@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Group portrait of five men playing cards</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AD">
+          <name>Ana Djordjevic</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.1145</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej Primenjene Umetnosti</orgName>
+          <orgName xml:lang="en">Museum of Applied Art</orgName>
+          <idno type="invNo">20172</idno>
+          <ptr target="http://www.mpu.org.rs" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:190">
+            <ref target="info:fedora/context:vase.190" type="context">Language</ref>
+          </term>
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:517">
+            <ref target="info:fedora/context:vase.517" type="context">Leisure Time Activities</ref>
+            <term key="ocm:510" type="broader">
+              <ref target="info:fedora/context:vase.510" type="context">Living Standards and Routines</ref>
+            </term>
+          </term>
+          <term key="ocm:525">
+            <ref target="info:fedora/context:vase.525" type="context">Gambling</ref>
+            <term key="ocm:520" type="broader">
+              <ref target="info:fedora/context:vase.520" type="context">Recreation</ref>
+            </term>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:572">
+            <ref target="info:fedora/context:vase.572" type="context">Friendships</ref>
+            <term key="ocm:570" type="broader">
+              <ref target="info:fedora/context:vase.570" type="context">Interpersonal Relations</ref>
+            </term>
+          </term>
+          <term key="ocm:633">
+            <ref target="info:fedora/context:vase.633" type="context">Cities</ref>
+            <term key="ocm:630" type="broader">
+              <ref target="info:fedora/context:vase.630" type="context">Territorial Organisation</ref>
+            </term>
+          </term>
+          <term key="ocm:650">
+            <ref target="info:fedora/context:vase.650" type="context">Government Activities</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Serbia</country>
+                <settlement>Belgrade</settlement>
+                <name ref="http://geonames.org/792680" type="fcode:PPLC">Belgrade</name>             
+   <location>
+                  <geo>20.46513,44.80401</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1913</date>
+        <persName>
+          <forename>Milan</forename>
+          <surname>Jovanović</surname>
+          <ref target="info:fedora/context:vase.pn.4622c1ba" type="context">Jovanović, Milan</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full-length shot of five elderly men seated around a table with coffee cups and a glass of water. Three of them are holding playing cards in their hands, while one is smoking a cigarette. The fifth's one's hands cannot be seen. At the bottom of the photograph there are numbers referring to the individual people portrayed, whose names are given on the back of the picture. A painted canvas backdrop is creating the impression of the scene being set in a drawing room with a large bookshelf.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Among the people in the photograph is Nikola Stevanović, retired Mayor of the Municipality of Belgrade and of the Assembly of the City of Belgrade, who served in this function twice (1896–1896 and 1897–1899). The text on the verso is written in German.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Cabinet</seg>
+        <dimensions type="artefact">
+          <height unit="mm">107</height>
+          <width unit="mm">163</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1913" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.650f150e" type="context">Belgrade</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.1145-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.1145-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

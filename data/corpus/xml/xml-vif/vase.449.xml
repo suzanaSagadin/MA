@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The priests Petar Draganov and Petko Frangov, and Prodan Tishkov</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.449</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национална Библиотека "Св. св. Кирил и Методий"</orgName>
+          <orgName xml:lang="en">St. Cyril and St. Methodius National Library</orgName>
+          <idno type="invNo">С ІІ 197</idno>
+          <ptr target="http://www.nationallibrary.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:156">
+            <ref target="info:fedora/context:vase.156" type="context">Social Personality</ref>
+            <term key="ocm:150" type="broader">
+              <ref target="info:fedora/context:vase.150" type="context">Behavior Processes and Personality</ref>
+            </term>
+          </term>
+          <term key="ocm:700">
+            <ref target="info:fedora/context:vase.700" type="context">Armed Forces</ref>
+          </term>
+          <term key="ocm:714">
+            <ref target="info:fedora/context:vase.714" type="context">Uniform and Accouterment</ref>
+            <term key="ocm:710" type="broader">
+              <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+            </term>
+          </term>
+          <term key="ocm:669">
+            <ref target="info:fedora/context:vase.669" type="context">Revolution</ref>
+            <term key="ocm:660" type="broader">
+              <ref target="info:fedora/context:vase.660" type="context">Political Behavior</ref>
+            </term>
+          </term>
+          <term key="ocm:720">
+            <ref target="info:fedora/context:vase.720" type="context">War</ref>
+          </term>
+          <term key="ocm:770">
+            <ref target="info:fedora/context:vase.770" type="context">Religious Beliefs</ref>
+          </term>
+          <term key="ocm:780">
+            <ref target="info:fedora/context:vase.780" type="context">Religious Practices</ref>
+          </term>
+          <term key="ocm:790">
+            <ref target="info:fedora/context:vase.790" type="context">Ecclesiatical Organization</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1886-1888</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Studio portrait of two men wearing Orthodox priests' vestments with medals, and of a man carrying a sword and wearing a military uniform with insignias of honour and a hat with a cockade. They are sitting around a small table on which a book and some sheets of paper have been placed.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Priests Petar Draganov (1843 - 1913), Petko Frangov, and Prodan Tishkov, known as Chardafon Velikiy (1860 - 1906). Tishkov was a Bulgarian volunteer in the Russo-Ottoman War of 1877 - 1878, sergeant major in the East Rumelia militia in Golyamo Konare (now Saedinenie). He actively took part in the preparation and proclamation of the Unification of Bulgaria in 1885. After the unification he became a major in the cavalry.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Cabinet</seg>
+        <dimensions type="artefact">
+          <height unit="mm">166</height>
+          <width unit="mm">111</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">136</height>
+          <width unit="mm">96</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1888" notBefore="1886" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.449-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.449-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

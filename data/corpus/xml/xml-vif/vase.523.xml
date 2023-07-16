@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Deathbed of Dimitar Petkov</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.523</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национална Библиотека "Св. св. Кирил и Методий"</orgName>
+          <orgName xml:lang="en">St. Cyril and St. Methodius National Library</orgName>
+          <idno type="invNo">C IV 387</idno>
+          <ptr target="http://www.nationallibrary.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:764">
+            <ref target="info:fedora/context:vase.764" type="context">Burial Practices and Funerals</ref>
+            <term key="ocm:760" type="broader">
+              <ref target="info:fedora/context:vase.760" type="context">Death</ref>
+            </term>
+          </term>
+          <term key="ocm:780">
+            <ref target="info:fedora/context:vase.780" type="context">Religious Practices</ref>
+          </term>
+          <term key="ocm:640">
+            <ref target="info:fedora/context:vase.640" type="context">State</ref>
+          </term>
+          <term key="ocm:660">
+            <ref target="info:fedora/context:vase.660" type="context">Political Behavior</ref>
+          </term>
+          <term key="ocm:682">
+            <ref target="info:fedora/context:vase.682" type="context">Offenses against Life</ref>
+            <term key="ocm:680" type="broader">
+              <ref target="info:fedora/context:vase.680" type="context">Offenses and Sanctions</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1907.03</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Indoor photograph of a deathbed of a man, surrounded by flowers, wreaths and candles. An icon is laid on top of the white coverlet over him.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Dimitar Nikolov Petkov (1858 - 1907) was a Bulgarian publicist and politician, Mayor of Sofia (1888 - 1893), leading member of the Bulgarian People's Liberal Party and the country's Prime Minister from November 5, 1906 until he was assassinated in Sofia on March 11, 1907.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">258</height>
+          <width unit="mm">341</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">203</height>
+          <width unit="mm">267</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1907.03" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.523-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.523-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

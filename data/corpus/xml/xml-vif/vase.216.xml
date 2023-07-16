@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of a man in folk costume</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.216</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Научен архив на Българската Академия на Науките</orgName>
+          <orgName xml:lang="en">Scientific Archive of the Bulgarian Academy of Sciences</orgName>
+          <idno type="invNo">Ф. 3К, оп. 1, а.е. 1289-2</idno>
+          <ptr target="http://www.bas.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:156">
+            <ref target="info:fedora/context:vase.156" type="context">Social Personality</ref>
+            <term key="ocm:150" type="broader">
+              <ref target="info:fedora/context:vase.150" type="context">Behavior Processes and Personality</ref>
+            </term>
+          </term>
+          <term key="ocm:292">
+            <ref target="info:fedora/context:vase.292" type="context">Special Garments</ref>
+            <term key="ocm:290" type="broader">
+              <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:565">
+            <ref target="info:fedora/context:vase.565" type="context">Classes</ref>
+            <term key="ocm:560" type="broader">
+              <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+            </term>
+          </term>
+          <term key="ocm:5310">
+            <ref target="info:fedora/context:vase.5310" type="context">Verbal Arts</ref>
+            <term key="ocm:530" type="broader">
+              <ref target="info:fedora/context:vase.530" type="context">Arts</ref>
+            </term>
+          </term>
+          <term key="ocm:814">
+            <ref target="info:fedora/context:vase.814" type="context">Humanistic Studies</ref>
+            <term key="ocm:810" type="broader">
+              <ref target="info:fedora/context:vase.810" type="context">Science and Humanities</ref>
+            </term>
+          </term>
+          <term key="ocm:640">
+            <ref target="info:fedora/context:vase.640" type="context">State</ref>
+          </term>
+          <term key="ocm:648">
+            <ref target="info:fedora/context:vase.648" type="context">International Relations</ref>
+            <term key="ocm:640" type="broader">
+              <ref target="info:fedora/context:vase.640" type="context">State</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>    
+  <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1878-1880</date>
+        <persName>
+          <forename>Anastas Nikolov</forename>
+          <surname>Stojanović/Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.df754e76" type="context">Stojanović/Karastoyanov, Anastas Nikolov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full length shot of a standing man in folk costume with a fur cap, leaned on an umbrella. He is standing next to a cloth-covered table. Painted canvas backdrop depicting columns and a park scenery.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Verso: hand-written inscription [from K. Jireček]: "Slatina bei Sofia / Sopi Sofijski (od Slatiny)." The photograph is kept in the personal archive of Konstantin Jireček. Konstantin Josef Jireček (1854 - 1918) was a Czech historian, diplomat and Slavist. He entered the Bulgarian service in 1879, and in 1881 became Minister of Education in Sofia. In 1884 he became Professor of Universal History in Czech at the Charles University in Prague, and in 1893 Professor of Slavonic Antiquities at the University of Vienna.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Carte de visite</seg>
+        <dimensions type="artefact">
+          <height unit="mm">104</height>
+          <width unit="mm">65</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">96</height>
+          <width unit="mm">58</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1880" notBefore="1878" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.216-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.216-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

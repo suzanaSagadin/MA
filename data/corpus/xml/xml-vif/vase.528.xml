@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of the married couple Shatev</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.528</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национална Библиотека "Св. св. Кирил и Методий"</orgName>
+          <orgName xml:lang="en">St. Cyril and St. Methodius National Library</orgName>
+          <idno type="invNo">C IV 611</idno>
+          <ptr target="http://www.nationallibrary.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:590">
+            <ref target="info:fedora/context:vase.590" type="context">Familiy</ref>
+          </term>
+          <term key="ocm:660">
+            <ref target="info:fedora/context:vase.660" type="context">Political Behavior</ref>
+          </term>
+          <term key="ocm:669">
+            <ref target="info:fedora/context:vase.669" type="context">Revolution</ref>
+            <term key="ocm:660" type="broader">
+              <ref target="info:fedora/context:vase.660" type="context">Political Behavior</ref>
+            </term>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <region>Oblast Kardzhali</region>
+                <name ref="http://geonames.org/864553" type="fcode:ADM1">Oblast Kardzhali</name>
+                <location>
+                  <geo>25.43333,41.53333</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1921.03.12 before</date>
+        <persName>
+          <forename>Ivan Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c3834c" type="context">Karastoyanov, Ivan Anastasov</ref>
+        </persName>
+        <persName>
+          <forename>Toma K.</forename>
+          <surname>Apostolov</surname>
+          <ref target="info:fedora/context:vase.pn.f4b1d8f" type="context">Apostolov, Toma K.</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Oval framed half length shot of a woman and a man with glasses, standing next to each other, both in urban clothes. Under the photograph on the overlay, there are two different stamps with the names of different photographers: "Iv. A. Karastoyanov / court photographer" and "T. K. Apostolov". Recto: hand-written dedication in Bulgarian: "To the Boycevi family as a keepsake and appreciation. Kardzali, 12.III.1921, Verka and N. Shatevi."</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Pavel Potsev Shatev (1882 - 1951) - a revolutionary and member of the left wing of the Internal Macedonian-Adrianople Revolutionary Organization (IMARO), BMARC before 1902), with his wife Vera.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">336</height>
+          <width unit="mm">262</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">224</height>
+          <width unit="mm">173</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1921.03.12" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.c717a88" type="context">Kardzhali</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <certainty cert="medium" locus="value" target="persName" />
+      <certainty cert="medium" locus="value" target="placeName" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.528-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.528-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

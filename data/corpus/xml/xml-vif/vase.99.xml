@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A women's choir and teachers</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.99</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Централен Държавен Архив</orgName>
+          <orgName xml:lang="en">Central State Archives</orgName>
+          <idno type="invNo">Ф. 3К, оп. 15, а.е. 643</idno>
+          <ptr target="http://www.archives.government.bg/old/www.archives.government.bg/index.php@lang=bg&amp;page=12" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:346">
+            <ref target="info:fedora/context:vase.346" type="context">Religious and Educational Structures</ref>
+            <term key="ocm:340" type="broader">
+              <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+            </term>
+          </term>
+          <term key="ocm:533">
+            <ref target="info:fedora/context:vase.533" type="context">Music</ref>
+            <term key="ocm:530" type="broader">
+              <ref target="info:fedora/context:vase.530" type="context">Arts</ref>
+            </term>
+          </term>
+          <term key="ocm:658">
+            <ref target="info:fedora/context:vase.658" type="context">Public Education</ref>
+            <term key="ocm:650" type="broader">
+              <ref target="info:fedora/context:vase.650" type="context">Government Activities</ref>
+            </term>
+          </term>
+          <term key="ocm:870">
+            <ref target="info:fedora/context:vase.870" type="context">Education</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1919 before</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Studio portrait of a large group of people: There are three men in suits and six women in town clothes sitting in the second row from the front. Another four men are standing in the third row. Sitting on the carpet in front of them, as well as standing around and behind them, is a group of young women wearing skirts and blouses (probably school uniforms). Some of the young women in the first row are holding books or scrolls.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet" />
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">416</height>
+          <width unit="mm">542</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">274</height>
+          <width unit="mm">382</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1919" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.99-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

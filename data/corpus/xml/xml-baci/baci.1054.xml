@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Advertisement for the feature film ‘Pervoklassnitsa’</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>BACI – Balkan Cinema</edition>
+        <respStmt>
+          <name>Karl Kaser</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:baci.1054</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Jugoslovenska kinoteka</orgName>
+          <name type="collection" xml:lang="en">Fototeka</name>
+          <idno type="invNo">Commercial material 30</idno>
+          <ptr target="http://www.kinoteka.org.rs/wp/" />
+        </ab>
+        <ab type="copyright">Jugoslovenska kinoteka, Belgrade</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:546">
+            <ref target="info:fedora/context:baci.546" type="context">Motion Picture Industry</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:baci.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+          <term key="ocm:447">
+            <ref target="info:fedora/context:baci.447" type="context">Advertising</ref>
+            <term key="ocm:440" type="broader">
+              <ref target="info:fedora/context:baci.440" type="context">Marketing</ref>
+            </term>
+          </term>
+          <term key="ocm:857">
+            <ref target="info:fedora/context:baci.857" type="context">Childhood Activities</ref>
+            <term key="ocm:850" type="broader">
+              <ref target="info:fedora/context:baci.850" type="context">Infancy and Childhood</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Leaflet</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1948 after</date>
+      </ab>
+      <ab type="lido:objectDescriptionSet">The leaflet features a framed photograph of a sitting girl in half-profile. Her hair is done in a plait, she is wearing a dark dress with a white collar and white cuffs. She is sitting at a school desk holding a quill in her right hand and is writing something in her exercise book. Below, the Serbian version of the Russian film title, ‘Первоклассница’ (The first-former), is displayed: ‘Učenica osnovne škole’ (The primary school pupil).</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The film was directed by Илья Фрэз (Ilya Frez) and released in 1948.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1948" />
+        <country type="contemporary">unknown</country>
+        <country type="historical">Yugoslavia</country>
+        <placeName xml:id="SID.1">
+          <ref target="info:fedora/context:baci.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///baci.1054-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+      <div type="ocm-contexts">
+        <ab>
+          <ref target="info:fedora/context:vase.ocm.546" type="context">Motion Picture Industry</ref>
+          <ref target="info:fedora/context:vase.ocm.540" type="context">Commercialized Entertainment</ref>
+          <ref target="info:fedora/context:vase.ocm.447" type="context">Advertising</ref>
+          <ref target="info:fedora/context:vase.ocm.440" type="context">Marketing</ref>
+          <ref target="info:fedora/context:vase.ocm.857" type="context">Childhood Activities</ref>
+          <ref target="info:fedora/context:vase.ocm.850" type="context">Infancy and Childhood</ref>
+        </ab>
+      </div>
+    </back>
+  </text>
+</TEI>

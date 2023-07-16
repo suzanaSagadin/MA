@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Four men and a nargile pipe in a coffeehouse</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1069</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">NARGILE KAHVESI</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:345"><ref type="context" target="info:fedora/context:siba.345">Recreational Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term><term key="ocm:275"><ref type="context" target="info:fedora/context:siba.275">Drinking Establishments</ref><term type="broader" key="ocm:270"><ref type="context" target="info:fedora/context:siba.270">Drink, Drugs, and Indulgence</ref></term></term><term key="ocm:354"><ref type="context" target="info:fedora/context:siba.354">Heating and Lighting Equipment</ref><term type="broader" key="ocm:350"><ref type="context" target="info:fedora/context:siba.350">Equipment and Maintenance of BLDGS</ref></term></term><term key="ocm:517"><ref type="context" target="info:fedora/context:siba.517">Leisure Time Activities</ref><term type="broader" key="ocm:510"><ref type="context" target="info:fedora/context:siba.510">Living Standards and Routines</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1931-01</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Four men are sitting in a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K2">kahvehane</ref>, all dressed in coats and flat caps. Three of them are sitting on a bench facing towards the camera, a fourth is sitting around the corner on the left margin of the picture and is seen in profile. He is wearing a dark <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K4">kalpak</ref> and is holding a cup of coffee in his left hand and a saucer in his right. The bearded man on the opposite end of the bench is smoking a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=N2">nargile</ref> that is placed on a small wooden table with a marble top. On the bench between the two, a man holding a cigarette in his hand looks directly into the camera. Sitting close to him, a fourth man with his hands resting on his upper legs has turned his head towards his neighbour’s cigarette. Firewood is piled up underneath the bench on which the man smoking the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=N2">nargile</ref> is sitting. Behind is a wooden wall and a damaged decorative textile band. The wallpaper above is in a poor state. A coat hook, a framed picture and an electrical installation are fastened on the wall. A stove with tongs placed on top stands in the lower left corner of the photograph.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The picture appeard in the newspaper Yeni Gün on 26 January 1931 as part of a series with the title,  ‘İstanbul'un Köşe, Bucağı’ (Corners and nooks of Istanbul), authored by Osman Cemal (Kaygılı). The accompanying article presented the urban characteristics and some features of daily life in the Karagümrük neighbourhood, and introduced readers to several local shopkeepers. According to the article, the photograph shows one of several coffeehouses <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K2">kahvehane</ref> that are often frequented by milkmen.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1931-01"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Karagümrük, Fatih</note></placeName></ab>
+    <listBibl><bibl>(Kaygılı), Osman Cemal: 'İstanbul'un Köşe, Bucağı – İstikbalin Şişlisi: Karagümrük!' Yeni Gün, 26 January 1931, 8.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1069.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.345">Recreational Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref><ref type="context" target="info:fedora/context:vase.ocm.275">Drinking Establishments</ref><ref type="context" target="info:fedora/context:vase.ocm.270">Drink, Drugs, and Indulgence</ref><ref type="context" target="info:fedora/context:vase.ocm.354">Heating and Lighting Equipment</ref><ref type="context" target="info:fedora/context:vase.ocm.350">Equipment and Maintenance of BLDGS</ref><ref type="context" target="info:fedora/context:vase.ocm.517">Leisure Time Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.510">Living Standards and Routines</ref></ab></div>
+    </back>
+  </text>
+</TEI>

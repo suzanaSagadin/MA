@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The ‘Imperiale’ cinema in Tirana</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>BACI – Balkan Cinema</edition>
+        <respStmt>
+          <name>Karl Kaser</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:baci.1157</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Arkivi Qëndror i Shtetit </orgName>
+          <name type="collection" xml:lang="en">Fototeka</name>
+          <idno type="invNo">Fototeka 10</idno>
+          <ptr target="http://www.albarchive.gov.al/" />
+        </ab>
+        <ab type="copyright">Arkivi Qëndror i Shtetit, Tirana </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:546">
+            <ref target="info:fedora/context:baci.546" type="context">Motion Picture Industry</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:baci.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1939-1943</date>
+      </ab>
+      <ab type="lido:objectDescriptionSet">The picture shows the construction of the ‘Imperiale’ cinema in Tirana in approximately 1940. A pile of bricks is seen in the bottom right corner, while three bricklayers are working on the left.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The inserted name ‘Luce’ (an Italian film and photo production company) indicates that the photograph was taken during the Italian occupation of Albania between 1939 and 1943.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1943" notBefore="1939" />
+        <country type="contemporary">unknown</country>
+        <country type="historical">Albania</country>
+        <placeName xml:id="SID.1">
+          <ref target="info:fedora/context:baci.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+      <linkGrp type="relations">
+        <ptr target="baci.1155" />
+        <ptr target="baci.1156" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///baci.1157-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+      <div type="ocm-contexts">
+        <ab>
+          <ref target="info:fedora/context:vase.ocm.546" type="context">Motion Picture Industry</ref>
+          <ref target="info:fedora/context:vase.ocm.540" type="context">Commercialized Entertainment</ref>
+        </ab>
+      </div>
+    </back>
+  </text>
+</TEI>

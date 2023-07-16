@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A view over Peshtera town</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.802</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Институт за етнология и фолклористика с Етнографски музей - АЕИМ, БАН</orgName>
+          <orgName xml:lang="en">Institute for Ethnology and Folklore Studies with Ethnographic Museum - AEIM, BAS</orgName>
+          <idno type="invNo">aeim 270</idno>
+          <ptr target="http://folklor.bas.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:340">
+            <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+          </term>
+          <term key="ocm:360">
+            <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Romania</country>
+                <region>Comuna Peştera</region>
+                <name ref="http://geonames.org/671063" type="fcode:ADM2">Comuna Peştera</name>
+                <location>
+                  <geo>28.10722,44.18951</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Court photographer</roleName>
+        <date>1892</date>
+        <persName>
+          <forename>Ivan Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c3834c" type="context">Karastoyanov, Ivan Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Panorama view of a settlement. Two men in military uniforms and a boy (probably) are standing in the foreground. Hand-written inscriptions in Bulgarian and French: "Vue de la ville Pestera. / Départment de Tat. Bazardjik."</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The earliest document of the town's name dates from 1479 from the Ottoman Empire. The first official Bulgarian census in 1880 stated 758 households and 3,871 inhabitants, five years later, in 1885, Peshtera had a population of 4,704 and 876 households.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">330</height>
+          <width unit="mm">380</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">195</height>
+          <width unit="mm">233</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1892" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.3ad6ce5e" type="context">Pestera</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure> 
+         <graphic url="file:///vase.802-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

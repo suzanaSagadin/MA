@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="motivtitle">Company staff meeting</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>Picturing Migrants Lives - Jovan Ritopečki’s photographic documentation of Yugoslav labour migration in Austria (1970–89)</edition>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="VB">
+                  <forename>Vida</forename>
+                  <surname>Bakondy</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="DS">
+                  <forename>Darko</forename>
+                  <surname>Stojanov-Leitner</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="MS">
+                  <forename>Martina</forename>
+                  <surname>Scholger</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="SS">
+                  <forename>Suzana</forename>
+                  <surname>Sagadin</surname>
+               </persName>
+            </respStmt>
+            <!--Vida fragen, ob es so passt-->
+            <funder>
+               <orgName ref="https://www.fwf.ac.at/">Fonds zur Förderung wissenschaftlicher Forschung</orgName>
+               <num>FWF T 1083-G</num>
+            </funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><!--Mit Vida besprechen-->
+               <ref target="https://www.oeaw.ac.at"/>
+               <orgName ref="http://d-nb.info/gnd/1001454-8">Austrian Academy of Sciences</orgName>
+            </publisher>
+            <authority>
+               <ref target="https://informationsmodellierung.uni-graz.at"/>
+               <orgName ref="http://d-nb.info/gnd/1137284463">Institute Centre for Information Modelling - Austrian Centre for Digital Humanities</orgName>
+            </authority>
+            <distributor>
+               <ref target="https://gams.uni-graz.at"/>
+               <orgName>GAMS - Humanities’ Asset Management System</orgName>
+            </distributor>
+            <availability><!--Mit Vida reden-->
+               <licence n="text" target="https://creativecommons.org/licenses/by/4.0">Creative Commons BY 4.0</licence>
+               <licence n="facsimile"
+                        target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</licence>
+            </availability>
+            <date ana="dcterms:issued" when="2023">2023</date>
+            <pubPlace>Graz, Austria</pubPlace>
+            <idno type="PID">o:vismig.m.2039.8</idno>
+            <ref target="context:vismig.s.2039" type="context" subtype="Series">The Goldix Company</ref>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="series_description">The series shows a day at the factory, portraying workers (mostly women), management and a meeting.</ab>
+            <ab type="copyright">NL Jovan Ritopečki</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="context:vismig" type="context">vismig</ref>
+               <!--Projektbeschreibung-->
+            </p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <persName role="Photographer">
+               <forename>Jovan</forename>
+               <surname>Ritopečki</surname>
+               <ref target="context:vismig.pn.ritopecki" type="context">Ritopečki, Jovan</ref>
+            </persName>
+            <date ana="dcterms:created"
+                  type="creation"
+                  notBefore="1971"
+                  notAfter="1972">1971-1972</date>
+            <country type="contemporary">Austria</country>
+            <placeName>
+               <ref target="context:vismig.gn.vienna" type="context">Vienna</ref>
+            </placeName>
+         </creation>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         <textClass>
+            <keywords resp="VB">
+               <term key="S002">
+                  <ref target="context:vismig.vb.s002" type="context">Arbeit</ref>
+               </term>
+               <term key="S009">
+                  <ref target="context:vismig.vb.s009" type="context">Frauen</ref>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="1"
+                  url="../img/2039_img17.jpg"
+                  xml:id="IMAGE.1"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="2"
+                  url="../img/2039_img18.jpg"
+                  xml:id="IMAGE.2"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="3"
+                  url="../img/2039_img19.jpg"
+                  xml:id="IMAGE.3"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="4"
+                  url="../img/2039_img20.jpg"
+                  xml:id="IMAGE.4"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="5"
+                  url="../img/2039_img21.jpg"
+                  xml:id="IMAGE.5"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="6"
+                  url="../img/2039_img22.jpg"
+                  xml:id="IMAGE.6"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="7"
+                  url="../img/2039_img23.jpg"
+                  xml:id="IMAGE.7"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="8"
+                  url="../img/2039_img24.jpg"
+                  xml:id="IMAGE.8"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <listObject>
+            <object type="motiv" xml:id="m.2039.8">
+               <objectIdentifier>
+                  <idno type="invNo"/>
+               </objectIdentifier>
+               <objectContents>
+                  <ab type="description">19 people are attending a meeting in the factory cafeteria. It is dark outside, so it is probably an after-work meeting. On one side of the table there is a man in a suite, who (together with few others next to him) might be a/the manager. On the other side of the table there are the workers (mostly women), who are listening to the man talking. A difference in dress between workers and management is noticeable. On the table, we can see an ashtray, folders, magazines, and a flower. In the background, there are more tables and chairs, and other equipment which makes it clear that the space is the factory cafeteria. Two women are standing in the kitchen, behind a counter, and are observing the meeting from a far.</ab>
+               </objectContents>
+               <physDesc>
+                  <objectDesc>
+                     <p>Motiv beinhaltet TODO Fotos und gehört zur Serie TODO.</p>
+                  </objectDesc>
+               </physDesc>
+               <object type="image" facs="#IMAGE.1">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2039.8/IMAGE.1</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.2">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2039.8/IMAGE.2</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.3">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2039.8/IMAGE.3</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.4">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2039.8/IMAGE.4</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.5">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2039.8/IMAGE.5</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.6">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2039.8/IMAGE.6</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.7">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2039.8/IMAGE.7</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.8">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2039.8/IMAGE.8</idno>
+                  </objectIdentifier>
+               </object>
+            </object>
+         </listObject>
+      </body>
+   </text>
+</TEI>

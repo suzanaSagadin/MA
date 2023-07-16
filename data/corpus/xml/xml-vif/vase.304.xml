@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of Krastyo Krastev</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.304</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Научен архив на Българската академия на науките</orgName>
+          <orgName xml:lang="en">Scientific Archive of the Bulgarian Academy of Sciences</orgName>
+          <idno type="invNo">Ф. 47К, оп. 1, а.е. 303</idno>
+          <ptr target="http://www.bas.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:156">
+            <ref target="info:fedora/context:vase.156" type="context">Social Personality</ref>
+            <term key="ocm:150" type="broader">
+              <ref target="info:fedora/context:vase.150" type="context">Behavior Processes and Personality</ref>
+            </term>
+          </term>
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:5310">
+            <ref target="info:fedora/context:vase.5310" type="context">Verbal Arts</ref>
+            <term key="ocm:530" type="broader">
+              <ref target="info:fedora/context:vase.530" type="context">Arts</ref>
+            </term>
+          </term>
+          <term key="ocm:544">
+            <ref target="info:fedora/context:vase.544" type="context">Public Lectures</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:vase.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+          <term key="ocm:660">
+            <ref target="info:fedora/context:vase.660" type="context">Political Behavior</ref>
+          </term>
+          <term key="ocm:658">
+            <ref target="info:fedora/context:vase.658" type="context">Public Education</ref>
+            <term key="ocm:650" type="broader">
+              <ref target="info:fedora/context:vase.650" type="context">Government Activities</ref>
+            </term>
+          </term>
+          <term key="ocm:870">
+            <ref target="info:fedora/context:vase.870" type="context">Education</ref>
+          </term>
+          <term key="ocm:810">
+            <ref target="info:fedora/context:vase.810" type="context">Science and Humanities</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>  
+    <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1900.06.12</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Vignetted head and shoulder shot of a man wearing a suit and glasses.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Krastyo Kotev Krastev (1866 - 1919), commonly known as Dr. Krastev, was a Bulgarian writer, translator, philosopher and public figure. He was most notably Bulgaria's first professional literary critic. Krastev became headmaster of the Kazanlak pedagogical school (1888 – 1890) and then a teacher of logic, psychology and ethics at the First Sofia High School for Boys (1890 – 1891). He was a lecturer in philosophy at Sofia University (1895 – 1896, 1899 – 1907, 1908 – 1919). In 1898 he became correspondent member of the Bulgarian Literary Society (renamed "Bulgarian Academy of Sciences" in 1911) and a full member in 1900. Krastev was an influential member of the modernist "Misal" (Thought) circle and editor in chief of the literary "Misal" magazine.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Cabinet</seg>
+        <dimensions type="artefact">
+          <height unit="mm">164</height>
+          <width unit="mm">109</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">144</height>
+          <width unit="mm">99</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1900.06.12" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.304-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.304-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

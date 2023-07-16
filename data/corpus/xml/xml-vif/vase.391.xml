@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of Tseko Petkovich</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.391</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Научен архив на Българската академия на науките</orgName>
+          <orgName xml:lang="en">Scientific Archive of the Bulgarian Academy of Sciences</orgName>
+          <idno type="invNo">Ф. 3К, оп. 1, а.е. 1212-87</idno>
+          <ptr target="http://www.bas.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:669">
+            <ref target="info:fedora/context:vase.669" type="context">Revolution</ref>
+            <term key="ocm:660" type="broader">
+              <ref target="info:fedora/context:vase.660" type="context">Political Behavior</ref>
+            </term>
+          </term>
+          <term key="ocm:714">
+            <ref target="info:fedora/context:vase.714" type="context">Uniform and Accouterment</ref>
+            <term key="ocm:710" type="broader">
+              <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+            </term>
+          </term>
+          <term key="ocm:640">
+            <ref target="info:fedora/context:vase.640" type="context">State</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Serbia</country>
+                <settlement>Belgrade</settlement>
+                <name ref="http://geonames.org/792680" type="fcode:PPLC">Belgrade</name>
+                <location>
+                  <geo>20.46513,44.80401</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1862-1877</date>
+        <persName>
+          <forename>Anastas Nikolov</forename>
+          <surname>Stojanović/Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.df754e76" type="context">Stojanović/Karastoyanov, Anastas Nikolov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full length shot of a man in folk attire with a fur cap, holding a sword.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Tseko Petkov, or Tseko Petkovich, (1807 - 1881), also known as Dedo Tseko Voyvoda, was a revolutionary and a volunteer in the Crimean War (1853 - 1856) as well as in the Russo-Ottoman War (1877 - 1878). He was deputy at the Constituent and the first Bulgarian assembly (1879). Verso: hand-written inscriptions in Cyrillic and in Latin letters [probably by Konstantin Jireček]: "Ceko Petkovic vojvoda". The photograph is kept in the personal archive of Konstantin Jireček.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Carte de visite</seg>     
+   <dimensions type="artefact">
+          <height unit="mm">106</height>
+          <width unit="mm">64</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">98</height>
+          <width unit="mm">60</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1877" notBefore="1862" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.650f150e" type="context">Belgrade</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <listBibl>
+        <bibl>Ivanova, Evgenia (2008): Foto Stoyanovich. Sofia: Balkani, 47.</bibl>
+      </listBibl>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.391-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.391-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

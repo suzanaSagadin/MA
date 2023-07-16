@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Female beggar in 'Cvetni trg'</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4047</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0082</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:344"><ref type="context" target="info:fedora/context:siba.344">Public Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:156"><ref type="context" target="info:fedora/context:siba.156">Social Personality</ref><term type="broader" key="ocm:150"><ref type="context" target="info:fedora/context:siba.150">Behavior Processes and Personality</ref></term></term><term key="ocm:735"><ref type="context" target="info:fedora/context:siba.735">Poverty</ref><term type="broader" key="ocm:730"><ref type="context" target="info:fedora/context:siba.730">Social Problems</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1920-1940</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">A woman in peasant clothes, felt slippers and a headscarf is sitting on the pavement of Kralj Milan Street next to the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=C17">Cvetni trg</ref> market. She is looking into the camera, leaning against an avenue tree. Several men are standing around the next tree, at some distance. More men are sitting against the wall in the background, which marks the higher level of the market.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment"></ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date notBefore="1920" notAfter="1940"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Cvetni trg</note></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4047.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.344">Public Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.156">Social Personality</ref><ref type="context" target="info:fedora/context:vase.ocm.150">Behavior Processes and Personality</ref><ref type="context" target="info:fedora/context:vase.ocm.735">Poverty</ref><ref type="context" target="info:fedora/context:vase.ocm.730">Social Problems</ref></ab></div>
+    </back>
+  </text>
+</TEI>

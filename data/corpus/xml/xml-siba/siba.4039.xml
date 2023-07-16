@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dinner reception at the House of the Guard</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4039</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0056</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:186"><ref type="context" target="info:fedora/context:siba.186">Cultural Identity and Pride</ref><term type="broader" key="ocm:180"><ref type="context" target="info:fedora/context:siba.180">Total Culture</ref></term></term><term key="ocm:353"><ref type="context" target="info:fedora/context:siba.353">Building Interiors and Arrangement</ref><term type="broader" key="ocm:350"><ref type="context" target="info:fedora/context:siba.350">Equipment and Maintenance of BLDGS</ref></term></term><term key="ocm:554"><ref type="context" target="info:fedora/context:siba.554">Status, Role, and Prestige</ref><term type="broader" key="ocm:550"><ref type="context" target="info:fedora/context:siba.550">Individuation and Mobility</ref></term></term><term key="ocm:624"><ref type="context" target="info:fedora/context:siba.624">Local Officials</ref><term type="broader" key="ocm:620"><ref type="context" target="info:fedora/context:siba.620">Community</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1920-1940</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Partial view of a dinner reception at 'Dom garde' (House of the Guard). The camera’s gaze follows the axis of an l-shaped dinner table along one side of a spacious, grand hall. At the far end of the table, men in formal suits are sitting on both sides, while the part nearest the photographer is empty but for a few decorations. Under the crystal chandeliers fixed along the wall to the left, ten formally dressed waiters in white gloves are lined up in a row. Most of the men are looking towards the camera.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The 'Dom garde' (House of the Guard) is part of a large military complex in <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=T8">Topčider</ref> constructed in the interwar period of the 20th century. It served as a venue for large formal functions, among others for receiving the official guests of a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=S13">slava</ref> ceremony. Officers of the Royal and later Tito's Guard and their families used to be housed in adjoining buildings. The 'Dom garde' is still in use today as part of the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=T8">Topčider</ref> barracks, but four buildings belonging to the initial complex were destroyed during the NATO bombing of 1999.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date notBefore="1920" notAfter="1940"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Topčider</note></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4039.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.186">Cultural Identity and Pride</ref><ref type="context" target="info:fedora/context:vase.ocm.180">Total Culture</ref><ref type="context" target="info:fedora/context:vase.ocm.353">Building Interiors and Arrangement</ref><ref type="context" target="info:fedora/context:vase.ocm.350">Equipment and Maintenance of BLDGS</ref><ref type="context" target="info:fedora/context:vase.ocm.554">Status, Role, and Prestige</ref><ref type="context" target="info:fedora/context:vase.ocm.550">Individuation and Mobility</ref><ref type="context" target="info:fedora/context:vase.ocm.624">Local Officials</ref><ref type="context" target="info:fedora/context:vase.ocm.620">Community</ref></ab></div>
+    </back>
+  </text>
+</TEI>

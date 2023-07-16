@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Open market in Gabrovo</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.790</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Институт за етнология и фолклористика с Етнографски музей - АЕИМ, БАН</orgName>
+          <orgName xml:lang="en">Institute for Ethnology and Folklore Studies with Ethnographic Museum - AEIM, BAS</orgName>
+          <idno type="invNo">aeim 167</idno>
+          <ptr target="http://folklor.bas.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:340">
+            <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+          </term>
+          <term key="ocm:360">
+            <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+          </term>
+          <term key="ocm:432">
+            <ref target="info:fedora/context:vase.432" type="context">Buying and Selling</ref>
+            <term key="ocm:430" type="broader">
+              <ref target="info:fedora/context:vase.430" type="context">Exchange</ref>
+            </term>
+          </term>
+          <term key="ocm:438">
+            <ref target="info:fedora/context:vase.438" type="context">Domestic Trade</ref>
+            <term key="ocm:430" type="broader">
+              <ref target="info:fedora/context:vase.430" type="context">Exchange</ref>
+            </term>
+          </term>
+          <term key="ocm:460">
+            <ref target="info:fedora/context:vase.460" type="context">Labor</ref>
+          </term>
+          <term key="ocm:648">
+            <ref target="info:fedora/context:vase.648" type="context">International Relations</ref>
+            <term key="ocm:640" type="broader">
+              <ref target="info:fedora/context:vase.640" type="context">State</ref>
+            </term>
+          </term>
+          <term key="ocm:770">
+            <ref target="info:fedora/context:vase.770" type="context">Religious Beliefs</ref>
+          </term>
+          <term key="ocm:780">
+            <ref target="info:fedora/context:vase.780" type="context">Religious Practices</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Gabrovo</settlement>
+                <name ref="http://geonames.org/731549" type="fcode:PPLA">Gabrovo</name>
+                <location>
+                  <geo>25.33417,42.87472</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1909 before</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>  
+    <ab type="lido:objectDescriptionSet">Panorama photograph of a square, framed by two- and three-storied buildings. Around the square a lot of people are standing: men, women and children, mostly in rural clothes, some men are in military uniforms. On the right side some women are holding wicker baskets.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The so-called "Women's Market". The photograph was a gift from the Bulgarian Ethnographic Society (Balgarsko narodoucno druzhestvo) to the National Ethnographic Museum.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">328</height>
+          <width unit="mm">390</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">198</height>
+          <width unit="mm">262</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1909" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.56fb045e" type="context">Gabrovo</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.790-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

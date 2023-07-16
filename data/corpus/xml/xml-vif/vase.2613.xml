@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Workspace</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="BD">
+          <name>Barbara Derler</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.2613</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej Sarajeva</orgName>
+          <orgName xml:lang="en">Museum of City of Sarajevo</orgName>
+          <idno type="invNo">8806</idno>
+          <ptr target="http://muzejsarajeva.ba/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:231">
+            <ref target="info:fedora/context:vase.231" type="context">Domesticated Animals</ref>
+            <term key="ocm:230" type="broader">
+              <ref target="info:fedora/context:vase.230" type="context">Animal Husbandry</ref>
+            </term>
+          </term>
+          <term key="ocm:314">
+            <ref target="info:fedora/context:vase.314" type="context">Forest Products</ref>
+            <term key="ocm:310" type="broader">
+              <ref target="info:fedora/context:vase.310" type="context">Exploitative Activities</ref>
+            </term>
+          </term>
+          <term key="ocm:415">
+            <ref target="info:fedora/context:vase.415" type="context">Utensils</ref>
+            <term key="ocm:410" type="broader">
+              <ref target="info:fedora/context:vase.410" type="context">Tools and Appliances</ref>
+            </term>
+          </term>
+          <term key="ocm:482">
+            <ref target="info:fedora/context:vase.482" type="context">Burden Carrying</ref>
+            <term key="ocm:480" type="broader">
+              <ref target="info:fedora/context:vase.480" type="context">Travel and Transportation</ref>
+            </term>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bosnia and Herzegovina</country>
+                <settlement>Sarajevo</settlement>
+                <name ref="http://geonames.org/3191281" type="fcode:PPLC">Sarajevo</name>
+                <location>
+                  <geo>18.35644,43.84864</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#BD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1918 after</date>
+        <persName>
+          <forename>Nusret</forename>
+          <surname>Halačević</surname>
+          <ref target="info:fedora/context:vase.pn.10cd5463" type="context">Halačević, Nusret</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">A peasant woman wearing dark rural clothes (typical of the rural Christian population) is sitting by the wayside. A tin jug is placed in front of her and two packhorses are feeding next to her.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The picture was taken in Kovači street next to the old Muslim graveyard.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">60</height>
+          <width unit="mm">90</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1918" />
+        <country type="contemporary">Bosnia and Herzegovina</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.814f17d1" type="context">Sarajevo</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.2613-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2613-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beyazıt Square on the Day of the Republic</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1134</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">BEYAZIT MEYDANI - HAVUZ - CUMHURIYET BAYRAMI - 29 EKIM 1933</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:527"><ref type="context" target="info:fedora/context:siba.527">Rest Days and Holidays</ref><term type="broader" key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term></term><term key="ocm:186"><ref type="context" target="info:fedora/context:siba.186">Cultural Identity and Pride</ref><term type="broader" key="ocm:180"><ref type="context" target="info:fedora/context:siba.180">Total Culture</ref></term></term><term key="ocm:349"><ref type="context" target="info:fedora/context:siba.349">Miscellaneous Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:363"><ref type="context" target="info:fedora/context:siba.363">Streets and Traffic</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term><term key="ocm:365"><ref type="context" target="info:fedora/context:siba.365">Public Utilities</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1930-10-29-1935-10-29</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">View of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B10">Beyazıt meydanı</ref> crowded with spectators at the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=C14">Cumhuriyet bayramı</ref> parade, taken from an elevated position. In the foreground, a wide area has been freed for the parade. It is empty except for a few soldiers, on foot or on horseback, who are passing in front of the waiting crowd. Further down the street, two cars are following a parade formation. In the centre background, the University Gate can be seen with a pavilion in front, also crowded. Behind are <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=D1">Darülfünun</ref> (İstanbul Üniversitesi) and the Beyazıt Tower topped with a large Turkish flag. An electrical street light is prominent in the lower right corner, with its bulb in front of the camera.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">With the exception of 1934 and 1938, when the official parade was restricted to <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=T2">Taksim</ref> Square, the parade in Istanbul during the twenties and thirties followed a well-established scheme: The parading soldiers and students would gather and form up in front of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=D1">Darülfünun</ref> (İstanbul Üniversitesi) , thereafter starting the parade on <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B10">Beyazıt meydanı</ref> at around 11 a.m. The parade would then set out to Hagia Sophia, cross Galata Bridge and finally reach <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=T2">Taksim</ref> Square via <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=I4">İstiklal Caddesi</ref>.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1930-10-29" notAfter="1935-10-29"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Beyazıt, Fatih</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1080" /><ptr target="siba.1081" /><ptr target="siba.1132" /><ptr target="siba.1135" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1134.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.527">Rest Days and Holidays</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref><ref type="context" target="info:fedora/context:vase.ocm.186">Cultural Identity and Pride</ref><ref type="context" target="info:fedora/context:vase.ocm.180">Total Culture</ref><ref type="context" target="info:fedora/context:vase.ocm.349">Miscellaneous Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.363">Streets and Traffic</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref><ref type="context" target="info:fedora/context:vase.ocm.365">Public Utilities</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref></ab></div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of Milan A. Medović</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AD">
+          <name>Ana Djordjevic</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.1047</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej Primenjene Umetnosti</orgName>
+          <orgName xml:lang="en">Museum of Applied Art</orgName>
+          <idno type="invNo">10671</idno>
+          <ptr target="http://www.mpu.org.rs" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:292">
+            <ref target="info:fedora/context:vase.292" type="context">Special Garments</ref>
+            <term key="ocm:290" type="broader">
+              <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+            </term>
+          </term>
+          <term key="ocm:411">
+            <ref target="info:fedora/context:vase.411" type="context">Weapons</ref>
+            <term key="ocm:410" type="broader">
+              <ref target="info:fedora/context:vase.410" type="context">Tools and Appliances</ref>
+            </term>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:714">
+            <ref target="info:fedora/context:vase.714" type="context">Uniform and Accouterment</ref>
+            <term key="ocm:710" type="broader">
+              <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+            </term>
+          </term>
+          <term key="ocm:814">
+            <ref target="info:fedora/context:vase.814" type="context">Humanistic Studies</ref>
+            <term key="ocm:810" type="broader">
+              <ref target="info:fedora/context:vase.810" type="context">Science and Humanities</ref>
+            </term>
+          </term>
+          <term key="ocm:870">
+            <ref target="info:fedora/context:vase.870" type="context">Education</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Serbia</country>
+                <settlement>Belgrade</settlement>
+                <name ref="http://geonames.org/792680" type="fcode:PPLC">Belgrade</name>
+                <location>
+                  <geo>20.46513,44.80401</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event"> 
+       <roleName>Photographer</roleName>
+        <date>1889</date>
+        <persName>
+          <forename>Milan</forename>
+          <surname>Jovanović</surname>
+          <ref target="info:fedora/context:vase.pn.4622c1ba" type="context">Jovanović, Milan</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full-length shot of a man in a Hussar's uniform. He is resting his right hand on the backrest of a padded wooden armchair. In the other hand he is holding a sabre. A painted canvas backdrop depicting a palace is adding depth to the scene. There is a signature in black ink in the lower right corner, reading: "M. Mедовић 1889".</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Milan A. Medović was the son of Ačim Medović, who was a professor at the Belgrade Higher School (which later became the University of Belgrade) and the first person in the Principality of Serbia to write a scientific paper in zoology. Photograph kept in the collection of Division General Milivoj J. Nikolajević (1861, Belgrade – ?), Court Marshal under the Obrenović dynasty, Chief Executive of the Geographical Department of the Serbian Army's General Staff.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Boudoir</seg>
+        <dimensions type="artefact">
+          <height unit="mm">208</height>
+          <width unit="mm">135</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1889" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.650f150e" type="context">Belgrade</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.1047-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.1047-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

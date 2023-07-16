@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of writer Stevan Sremac</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AD">
+          <name>Ana Djordjevic</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.1432</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej Pozorišne Umetnosti Srbije</orgName>
+          <orgName xml:lang="en">Museum of Theater Art of Serbia</orgName>
+          <idno type="invNo">II-750</idno>
+          <ptr target="http://www.mpus.org.rs" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:184">
+            <ref target="info:fedora/context:vase.184" type="context">Cultural Participation</ref>
+            <term key="ocm:180" type="broader">
+              <ref target="info:fedora/context:vase.180" type="context">Total Culture</ref>
+            </term>
+          </term>
+          <term key="ocm:212">
+            <ref target="info:fedora/context:vase.212" type="context">Writing</ref>
+            <term key="ocm:210" type="broader">
+              <ref target="info:fedora/context:vase.210" type="context">Records</ref>
+            </term>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:654">
+            <ref target="info:fedora/context:vase.654" type="context">Research and Development</ref>
+            <term key="ocm:650" type="broader">
+              <ref target="info:fedora/context:vase.650" type="context">Government Activities</ref>
+            </term>
+          </term>
+          <term key="ocm:741">
+            <ref target="info:fedora/context:vase.741" type="context">Philanthropic Foundations</ref>
+            <term key="ocm:740" type="broader">
+              <ref target="info:fedora/context:vase.740" type="context">Health and Welfare</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Serbia</country>
+                <settlement>Belgrade</settlement>
+                <name ref="http://geonames.org/792680" type="fcode:PPLC">Belgrade</name>
+                <location>
+                  <geo>20.46513,44.80401</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1901</date>
+        <persName>
+          <forename>Milan</forename>
+          <surname>Jovanović</surname>
+          <ref target="info:fedora/context:vase.pn.4622c1ba" type="context">Jovanović, Milan</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Half-length shot of a man sitting on a chair. He is wearing a suit and resting his right arm on a table beside him. There are sheets of paper on the table.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Stevan Sremac (1855–1906) was a famous writer and member of the Royal Serbian Academy of Sciences. He was also a member of the 'Pobratim' (blood brother) Masonic Lodge.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Cabinet</seg>
+        <dimensions type="artefact">
+          <height unit="mm">163</height>
+          <width unit="mm">108</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1901" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.650f150e" type="context">Belgrade</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.1432-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.1432-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

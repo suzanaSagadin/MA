@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Portrait of a man and a woman</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AD">
+          <name>Ana Djordjevic</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.1044</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej Primenjene Umetnosti</orgName>
+          <orgName xml:lang="en">Museum of Applied Art</orgName>
+          <idno type="invNo">10668</idno>
+          <ptr target="http://www.mpu.org.rs" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:570">
+            <ref target="info:fedora/context:vase.570" type="context">Interpersonal Relations</ref>
+          </term>
+          <term key="ocm:580">
+            <ref target="info:fedora/context:vase.580" type="context">Marrige</ref>
+          </term>
+          <term key="ocm:590">
+            <ref target="info:fedora/context:vase.590" type="context">Familiy</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Serbia</country>
+                <settlement>Belgrade</settlement>
+                <name ref="http://geonames.org/792680" type="fcode:PPLC">Belgrade</name>
+                <location>
+                  <geo>20.46513,44.80401</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1898-1900</date>
+        <persName>
+          <forename>Milan</forename>
+          <surname>Jovanović</surname>
+          <ref target="info:fedora/context:vase.pn.4622c1ba" type="context">Jovanović, Milan</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full-length shot of a couple. The woman is wearing a white dress. She is depicted in profile, resting her right hand, in which she is holding a pair of gloves, on a small wooden table. A moustached man in a dark suit is standing next to her and looking at her. There is a painted canvas backdrop depicting wild plants and flowers in the back.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Photograph kept in the collection of Division General Milivoj J. Nikolajević (1861, Belgrade – ?), Court Marshal under the Obrenović dynasty, Chief Executive of the Geographical Department of the Serbian Army's General Staff.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Cabinet</seg>
+        <dimensions type="artefact">
+          <height unit="mm">167</height>
+          <width unit="mm">111</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1900" notBefore="1898" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">       
+   <ref target="info:fedora/context:vase.gn.650f150e" type="context">Belgrade</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.1044-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.1044-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

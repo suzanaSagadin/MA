@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Participants at the Twelfth Congress of the International Alliance of Women (IAW) in Istanbul</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.3028</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Yapı Kredi tarih arşivi, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Selahattin Giz</name>
+          <idno type="invNo">1/0331E</idno>
+        </ab>
+        <ab type="copyright">Yapı Kredi bank</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:562"><ref type="context" target="info:fedora/context:siba.562">Gender Status</ref><term type="broader" key="ocm:560"><ref type="context" target="info:fedora/context:siba.560">Social Stratification</ref></term></term><term key="ocm:648"><ref type="context" target="info:fedora/context:siba.648">International Relations</ref><term type="broader" key="ocm:640"><ref type="context" target="info:fedora/context:siba.640">State</ref></term></term><term key="ocm:668"><ref type="context" target="info:fedora/context:siba.668">Political Movements</ref><term type="broader" key="ocm:660"><ref type="context" target="info:fedora/context:siba.660">Political Behavior</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1935-04</date>
+      <persName role="Press Photographer"><forename>Selahattin </forename><surname>Giz</surname><ref type="context" target="info:fedora/context:siba.pn.dce0efc3">Giz, Selahattin </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Group portrait of women posing in front of a doorway on a sunny day. Most are wearing Western urban clothes – mid-calf dresses and hats – but a few are dressed in national costume, for example the lady in a white sari and long-sleeved blouse standing arm in arm with a tall elderly lady in the centre of the picture. Another woman in national costume is standing on the left margin of the picture. A young man in an official’s hat is peeping over the ladies’ shoulders from behind. The atmosphere is cheerful and reveals a certain sense of pride.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph was taken in the context of the Twelfth Congress of the International Alliance of Women for Suffrage and Equal Citizenship (IAW), which took place in Yıldız Palace in Istanbul from 18 to 25 April 1935. More than two hundred delegates from over thirty countries attended the congress. The tall lady in the centre foreground is probably the organization's president at the time, Margery Corbett Ashby.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1935-04"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Sultanahmet</note></placeName></ab>
+    <listBibl><bibl>Uluslararası 12nci Kadın Kongresinden intıbalar. Cumhuriyet, 19 April 1935.  – Cf. Kathryn Libal, Staging Turkish Women's Emancipation, Istanbul, 1935, in: Journal of Middle East Women's Studies (2008), Vol. 4, No. 1, pp. 31-52.</bibl></listBibl><linkGrp type="series"><ptr target="siba.3029" /><ptr target="siba.3030" /><ptr target="siba.3031" /><ptr target="siba.1037" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.3028.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.562">Gender Status</ref><ref type="context" target="info:fedora/context:vase.ocm.560">Social Stratification</ref><ref type="context" target="info:fedora/context:vase.ocm.648">International Relations</ref><ref type="context" target="info:fedora/context:vase.ocm.640">State</ref><ref type="context" target="info:fedora/context:vase.ocm.668">Political Movements</ref><ref type="context" target="info:fedora/context:vase.ocm.660">Political Behavior</ref></ab></div>
+    </back>
+  </text>
+</TEI>

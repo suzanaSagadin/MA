@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Baščaršija cattle dealer in motion</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Mehmed A. Akšamija</name><resp>editor</resp></respStmt><respStmt><name>Kristina Ilić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4904</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Alija M. Akšamija private collection, Sarajevo</orgName>
+          <name xml:lang="en" type="collection">Sarajevski ciklus 1938./39. – Slučajni prolaznici u pokretu VII</name>
+          <idno type="invNo">A.M.A. P 25 39</idno>
+        </ab>
+        <ab type="copyright">Mehmed A. Akšamija</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:103"><ref type="context" target="info:fedora/context:siba.103">Place Names</ref><term type="broader" key="ocm:100"><ref type="context" target="info:fedora/context:siba.100">Orientation</ref></term></term><term key="ocm:131"><ref type="context" target="info:fedora/context:siba.131">Location</ref><term type="broader" key="ocm:130"><ref type="context" target="info:fedora/context:siba.130">Geography</ref></term></term><term key="ocm:292"><ref type="context" target="info:fedora/context:siba.292">Special Garments</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term><term key="ocm:231"><ref type="context" target="info:fedora/context:siba.231">Domesticated Animals</ref><term type="broader" key="ocm:230"><ref type="context" target="info:fedora/context:siba.230">Animal Husbandry</ref></term></term><term key="ocm:461"><ref type="context" target="info:fedora/context:siba.461">Labor and Leisure</ref><term type="broader" key="ocm:460"><ref type="context" target="info:fedora/context:siba.460">Labor</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1939</date>
+      <persName role="Photographer"><forename>Alija M.</forename><surname>Akšamija</surname><ref type="context" target="info:fedora/context:siba.pn.be7b6d09">Akšamija, Alija M.</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Market scene in <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B4">Baščaršija</ref>. Four men and two boys are standing around a group of sheep. To the left is a man in a baggy suit, shoes and hat, holding a walking stick behind his back in crossed hands. In front of him is a boy in a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=F4">fes</ref>, <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=C1">čakšire</ref> and clogs, with a small bag over his shoulder. He rests his right hand on the back of one of the sheep and is turned towards an older, bearded man in Bosniak garb who is examining the sheep. In the centre is the blurred figure of a man, head bent towards the boy or the sheep, taking a step towards them. He is dressed in a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=F4">fes</ref> and <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=C1">čakšire</ref>, and wears <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=N1">nanule</ref> on his bare feet. At his back, another man in <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=A2">ahmedija</ref> and a boy in a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=F4">fes</ref> and dark jacket are also involved in the scene. In the background, a harnessed cart stands by the wall of a house.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The boy with his hand on the sheep is holding a booklet or paper bag in the same hand. Analogue photographic process, negative-positive (Agfa Isopan 17 DIN). Original preserved as a positive on silver bromine paper, stored as a print and a digital record.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="positive"><height unit="mm">180</height><width unit="mm">180</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1939"></date>
+      <country type="contemporary">Bosnia and Herzegovina</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.814f17d1" type="context">Sarajevo</ref><note>Baščaršija</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.4899" /><ptr target="siba.4901" /><ptr target="siba.4903" /><ptr target="siba.4903" /><ptr target="siba.4906" /></linkGrp><listBibl><bibl>Akšamija, Mehmed A. (2015): Alija M. Akšamija – Monografija arhivografije. Sarajevo: BANU. Vol. I, 77.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4904.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.103">Place Names</ref><ref type="context" target="info:fedora/context:vase.ocm.100">Orientation</ref><ref type="context" target="info:fedora/context:vase.ocm.131">Location</ref><ref type="context" target="info:fedora/context:vase.ocm.130">Geography</ref><ref type="context" target="info:fedora/context:vase.ocm.292">Special Garments</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.231">Domesticated Animals</ref><ref type="context" target="info:fedora/context:vase.ocm.230">Animal Husbandry</ref><ref type="context" target="info:fedora/context:vase.ocm.461">Labor and Leisure</ref><ref type="context" target="info:fedora/context:vase.ocm.460">Labor</ref></ab></div>
+    </back>
+  </text>
+</TEI>

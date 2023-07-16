@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>"Sarajevo / Bazar"</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="BD">
+          <name>Barbara Derler</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.2030</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej Sarajeva</orgName>
+          <orgName xml:lang="en">Museum of City of Sarajevo</orgName>
+          <idno type="invNo">Not inventoried</idno>
+          <ptr target="http://muzejsarajeva.ba/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:363">
+            <ref target="info:fedora/context:vase.363" type="context">Streets and Traffic</ref>
+            <term key="ocm:360" type="broader">
+              <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+            </term>
+          </term>
+          <term key="ocm:432">
+            <ref target="info:fedora/context:vase.432" type="context">Buying and Selling</ref>
+            <term key="ocm:430" type="broader">
+              <ref target="info:fedora/context:vase.430" type="context">Exchange</ref>
+            </term>
+          </term>
+          <term key="ocm:462">
+            <ref target="info:fedora/context:vase.462" type="context">Division of Labor by Gender</ref>
+            <term key="ocm:460" type="broader">
+              <ref target="info:fedora/context:vase.460" type="context">Labor</ref>
+            </term>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:562">
+            <ref target="info:fedora/context:vase.562" type="context">Gender Status</ref>
+            <term key="ocm:560" type="broader">
+              <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+            </term>
+          </term>
+          <term key="ocm:780">
+            <ref target="info:fedora/context:vase.780" type="context">Religious Practices</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bosnia and Herzegovina</country>
+                <settlement>Sarajevo</settlement>
+                <name ref="http://geonames.org/3191281" type="fcode:PPLC">Sarajevo</name>
+                <location>
+                  <geo>18.35644,43.84864</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#BD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Postcard</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1939</date>
+        <persName>
+          <surname>Unknown</surname>
+          <ref target="info:fedora/context:vase.pn.unknown" type="context">unknown</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Completely veiled women selling and buying handicrafts at Baščaršija. Many of the women are carrying umbrellas. A few men are in the scene as well.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">See also: VASE.02079.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">90</height>
+          <width unit="mm">140</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1939" />
+        <country type="contemporary">Bosnia and Herzegovina</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.814f17d1" type="context">Sarajevo</ref>
+        </placeName>
+        <name type="publisher">Altarac, Sarajevo</name>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <linkGrp>
+        <ptr target="vase.2079" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.2030-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2030-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

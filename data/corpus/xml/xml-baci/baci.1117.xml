@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Interior of the ‘Moderni bioskop’ cinema in Belgrade</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>BACI – Balkan Cinema</edition>
+        <respStmt>
+          <name>Karl Kaser</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:baci.1117</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Jugoslovenska kinoteka</orgName>
+          <name type="collection" xml:lang="en">Fototeka</name>
+          <idno type="invNo">Photo-Cinema and movies 16</idno>
+          <ptr target="http://www.kinoteka.org.rs/wp/" />
+        </ab>
+        <ab type="copyright">Jugoslovenska kinoteka, Belgrade</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:546">
+            <ref target="info:fedora/context:baci.546" type="context">Motion Picture Industry</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:baci.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1911</date>
+      </ab>
+      <ab type="lido:objectDescriptionSet">The photograph displays the interior of the cinema's wooden construction. The photograph is taken from the position of the screen. The cinema floor resembles a restaurant with tables with bottles placed on them and chairs. A waiter is seen serving on the bottom left. A gallery offers seating for a bigger audience. The cinema hall is equipped with electric light. All the people in the picture, as well as the man on the gallery, are looking towards the camera.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The photograph was taken in 1911. The cinema was founded in 1909 by the Savić brothers Boža (1862–1927), Pera (1868–1925) and Svetolik (1874–1944).</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1911" />
+        <country type="contemporary">Serbia</country>
+        <country type="historical">unknown</country>
+        <placeName xml:id="SID.1">
+          <ref target="info:fedora/context:baci.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+      <linkGrp type="relations">
+        <ptr target="baci.1022" />
+        <ptr target="baci.1107" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///baci.1117-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+      <div type="ocm-contexts">
+        <ab>
+          <ref target="info:fedora/context:vase.ocm.546" type="context">Motion Picture Industry</ref>
+          <ref target="info:fedora/context:vase.ocm.540" type="context">Commercialized Entertainment</ref>
+        </ab>
+      </div>
+    </back>
+  </text>
+</TEI>

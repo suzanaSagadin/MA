@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A coffeehouse in Ankara</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1023</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Vehbi Koç ve araştırmaları merkezi, Ankara</orgName>
+          <name xml:lang="en" type="collection">Ankara</name>
+          <idno type="invNo">2005</idno>
+        <ptr target="http://www.vekam.org.tr" /></ab>
+        <ab type="copyright">VEKAM Vehbi Koç and Ankara Research Centre</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:365"><ref type="context" target="info:fedora/context:siba.365">Public Utilities</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term><term key="ocm:517"><ref type="context" target="info:fedora/context:siba.517">Leisure Time Activities</ref><term type="broader" key="ocm:510"><ref type="context" target="info:fedora/context:siba.510">Living Standards and Routines</ref></term></term><term key="ocm:275"><ref type="context" target="info:fedora/context:siba.275">Drinking Establishments</ref><term type="broader" key="ocm:270"><ref type="context" target="info:fedora/context:siba.270">Drink, Drugs, and Indulgence</ref></term></term><term key="ocm:272"><ref type="context" target="info:fedora/context:siba.272">Nonalcoholic Beverages</ref><term type="broader" key="ocm:270"><ref type="context" target="info:fedora/context:siba.270">Drink, Drugs, and Indulgence</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1915-1940</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Outdoor photograph of seven men in front of a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K2">kahvehane</ref>. Four middle-aged men sit on chairs arranged in a row along the sidewalk. Three of them are dressed in elegant suits, ties and polished shoes, two of them feature round glasses. The one in the middle wears also a coat and smokes a water pipe (<ref target="http://gams.uni-graz.at/o:siba.glossar?mode=N2">nargile</ref>) placed in front of him. The fourth man is dressed in a west and a cap. He obviuosly belongs to the other three, younger man who stand at the entrance door, probably waiters. One among them wears a long white work coat, another a white apron and a white dish towel over his shoulder. In the background, several more stores and people in the street.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The three men wearing suits are probably professonals or state officials, the fourth man sitting is probably the owner of the coffeehouse. The photograph seems to be taken during the evening or night.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="artefact"><height unit="mm">90</height><width unit="mm">140</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date notBefore="1915" notAfter="1940"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.752b37d2" type="context">Ankara</ref></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1023.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.365">Public Utilities</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref><ref type="context" target="info:fedora/context:vase.ocm.517">Leisure Time Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.510">Living Standards and Routines</ref><ref type="context" target="info:fedora/context:vase.ocm.275">Drinking Establishments</ref><ref type="context" target="info:fedora/context:vase.ocm.270">Drink, Drugs, and Indulgence</ref><ref type="context" target="info:fedora/context:vase.ocm.272">Nonalcoholic Beverages</ref><ref type="context" target="info:fedora/context:vase.ocm.270">Drink, Drugs, and Indulgence</ref></ab></div>
+    </back>
+  </text>
+</TEI>

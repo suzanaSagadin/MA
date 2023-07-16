@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of Petar Mishaykov</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.402</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национална Библиотека "Св. св. Кирил и Методий"</orgName>
+          <orgName xml:lang="en">St. Cyril and St. Methodius National Library</orgName>
+          <idno type="invNo">С 565</idno>
+          <ptr target="http://www.nationallibrary.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:156">
+            <ref target="info:fedora/context:vase.156" type="context">Social Personality</ref>
+            <term key="ocm:150" type="broader">
+              <ref target="info:fedora/context:vase.150" type="context">Behavior Processes and Personality</ref>
+            </term>
+          </term>
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:714">
+            <ref target="info:fedora/context:vase.714" type="context">Uniform and Accouterment</ref>
+            <term key="ocm:710" type="broader">
+              <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+            </term>
+          </term>
+          <term key="ocm:646">
+            <ref target="info:fedora/context:vase.646" type="context">Parliament</ref>
+            <term key="ocm:640" type="broader">
+              <ref target="info:fedora/context:vase.640" type="context">State</ref>
+            </term>
+          </term>
+          <term key="ocm:665">
+            <ref target="info:fedora/context:vase.665" type="context">Political Parties</ref>
+            <term key="ocm:660" type="broader">
+              <ref target="info:fedora/context:vase.660" type="context">Political Behavior</ref>
+            </term>
+          </term>
+          <term key="ocm:571">
+            <ref target="info:fedora/context:vase.571" type="context">Social Relationships and Groups</ref>
+            <term key="ocm:570" type="broader">
+              <ref target="info:fedora/context:vase.570" type="context">Interpersonal Relations</ref>
+            </term>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Serbia</country>
+                <settlement>Belgrade</settlement>
+                <name ref="http://geonames.org/792680" type="fcode:PPLC">Belgrade</name>
+                <location>
+                  <geo>20.46513,44.80401</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Court photographer</roleName>
+        <date>1863-1877</date>      
+  <persName>
+          <forename>Anastas Nikolov</forename>
+          <surname>Stojanović/Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.df754e76" type="context">Stojanović/Karastoyanov, Anastas Nikolov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full length shot of a man in folk attire carrying a knife or pistol in his belt and holding a long sword. Verso: hand-written dedication: "As a keepsake to Mrs. Magdalena Stankovich from Petar Mishaykov."</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Petar Dimitrov Mishaykov (unknown - 1902) was a revolutionary in the Bulgarian "April Upspring" against the Ottoman Empire of 1876. He was among the leaders of the Bulgarian Liberal Party and deputy (1884 - 1886).</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Carte de visite</seg>
+        <dimensions type="artefact">
+          <height unit="mm">107</height>
+          <width unit="mm">62</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">100</height>
+          <width unit="mm">59</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1877" notBefore="1863" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.650f150e" type="context">Belgrade</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <listBibl>
+        <bibl>Kassabova, Anelia (2012): Identities in frame. Photography and the Construction of a „National Body“ in Bulgaria (approx. 1860 to WW I). In: Hristov, Petko (Ed.): Migration and Identity. Historical, Cultural and Linguistic Dimensions of Mobility in the Balkans. Sofia: Paradigma, 76.</bibl>
+      </listBibl>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.402-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.402-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

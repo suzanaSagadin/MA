@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of famous Belgrade stage actors</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AD">
+          <name>Ana Djordjevic</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.1446</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej Pozorišne Umetnosti Srbije</orgName>
+          <orgName xml:lang="en">Museum of Theater Art of Serbia</orgName>
+          <idno type="invNo">II-2632</idno>
+          <ptr target="http://www.mpus.org.rs" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:462">
+            <ref target="info:fedora/context:vase.462" type="context">Division of Labor by Gender</ref>
+            <term key="ocm:460" type="broader">
+              <ref target="info:fedora/context:vase.460" type="context">Labor</ref>
+            </term>
+          </term>
+          <term key="ocm:516">
+            <ref target="info:fedora/context:vase.516" type="context">Postures</ref>
+            <term key="ocm:510" type="broader">
+              <ref target="info:fedora/context:vase.510" type="context">Living Standards and Routines</ref>
+            </term>
+          </term>
+          <term key="ocm:520">
+            <ref target="info:fedora/context:vase.520" type="context">Recreation</ref>
+          </term>
+          <term key="ocm:536">
+            <ref target="info:fedora/context:vase.536" type="context">Drama</ref>
+            <term key="ocm:530" type="broader">
+              <ref target="info:fedora/context:vase.530" type="context">Arts</ref>
+            </term>
+          </term>
+          <term key="ocm:545">
+            <ref target="info:fedora/context:vase.545" type="context">Musical and Theatrical Productions</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:vase.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+          <term key="ocm:546">
+            <ref target="info:fedora/context:vase.546" type="context">Motion Picture Industry</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:vase.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:572">
+            <ref target="info:fedora/context:vase.572" type="context">Friendships</ref>
+            <term key="ocm:570" type="broader">              
+<ref target="info:fedora/context:vase.570" type="context">Interpersonal Relations</ref>
+            </term>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Serbia</country>
+                <settlement>Belgrade</settlement>
+                <name ref="http://geonames.org/792680" type="fcode:PPLC">Belgrade</name>
+                <location>
+                  <geo>20.46513,44.80401</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1893-1896</date>
+        <persName>
+          <forename>Milan</forename>
+          <surname>Jovanović</surname>
+          <ref target="info:fedora/context:vase.pn.4622c1ba" type="context">Jovanović, Milan</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full-length shot of five men; four of them are sitting around a small table behind which the fifth one is standing. All of them are dressed in formal clothes and three are either holding or wearing hats. A painted canvas backdrop is creating the impression of the scene being set in a drawing room.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Among the people in the photograph are the following: Čiča Ilija Stanojević (1859, Belgrade – 1930, Belgrade), Milorad Gavrilović (1861 – 1931) , Svetislav Dinulović (1855, Belgrade – 1923, Zemun), and Andrija Lukić. Milorad Gavrilović became known as "The Old Gentleman". Svetislav Dinulović was director of the Royal Serbian National Theater. Čiča Ilija Stanojević was among the most popular comedians of his time, a playwright and the first Serbian film director. He produced the silent movie "Karađorđe" in 1911.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Boudoir</seg>
+        <dimensions type="artefact">
+          <height unit="mm">207</height>
+          <width unit="mm">134</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1896" notBefore="1893" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.650f150e" type="context">Belgrade</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.1446-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.1446-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

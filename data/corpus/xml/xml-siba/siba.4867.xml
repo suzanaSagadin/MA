@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roma woman with a child on a mule</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Mehmed A. Akšamija</name><resp>editor</resp></respStmt><respStmt><name>Kristina Ilić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4867</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Alija M. Akšamija private collection, Sarajevo</orgName>
+          <name xml:lang="en" type="collection">Sarajevski ciklus 1938./39. - Slučajni prolazniciIXa</name>
+          <idno type="invNo">A.M.A. P 14 38</idno>
+        </ab>
+        <ab type="copyright">Mehmed A. Akšamija</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:492"><ref type="context" target="info:fedora/context:siba.492">Animal Transportation</ref><term type="broader" key="ocm:490"><ref type="context" target="info:fedora/context:siba.490">Land Transport</ref></term></term><term key="ocm:231"><ref type="context" target="info:fedora/context:siba.231">Domesticated Animals</ref><term type="broader" key="ocm:230"><ref type="context" target="info:fedora/context:siba.230">Animal Husbandry</ref></term></term><term key="ocm:292"><ref type="context" target="info:fedora/context:siba.292">Special Garments</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term><term key="ocm:461"><ref type="context" target="info:fedora/context:siba.461">Labor and Leisure</ref><term type="broader" key="ocm:460"><ref type="context" target="info:fedora/context:siba.460">Labor</ref></term></term><term key="ocm:563"><ref type="context" target="info:fedora/context:siba.563">Ethnic Stratification</ref><term type="broader" key="ocm:560"><ref type="context" target="info:fedora/context:siba.560">Social Stratification</ref></term></term><term key="ocm:565"><ref type="context" target="info:fedora/context:siba.565">Classes</ref><term type="broader" key="ocm:560"><ref type="context" target="info:fedora/context:siba.560">Social Stratification</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1938</date>
+      <persName role="Photographer"><forename>Alija M.</forename><surname>Akšamija</surname><ref type="context" target="info:fedora/context:siba.pn.be7b6d09">Akšamija, Alija M.</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">A Roma woman poses for the camera with her infant in a steep Sarajevo <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=M1">mahalla</ref>. She is poorly but neatly dressed in a jacket, blouse and long skirt, with a scarf tied around the back of her head. She is smiling into the camera and playing with the child's hands, obviously encouraging it to look into the camera, too. The infant is perhaps two years old and is sitting among the luggage on top of a heavily burdened white mule. In the background, a group of men and an infant boy are gathered in front of a shop, all dressed in traditional urban clothing except for one in a European suit who is watching the scene in the foreground. One of the men is pouring a drink for the others, while the little boy looks on. Several more men populate the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=M1">mahalla</ref> in the background.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The woman may be the child’s mother or grandmother. Her age is difficult to discern from her sunburnt and worn face and body: she may be less than forty or more than sixty years old. The man pouring the drink is a street vendor. Analogue photographic process, negative-positive (Agfa Isopan 17 DIN). Original photograph preserved as a positive on silver bromine paper, stored as a print and a digital record.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="positive"><height unit="mm">240</height><width unit="mm">240</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1938"></date>
+      <country type="contemporary">Bosnia and Herzegovina</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.814f17d1" type="context">Sarajevo</ref></placeName></ab>
+    <listBibl><bibl>Akšamija, Mehmed A. (2015): Alija M. Akšamija – Monografija arhivografije. Sarajevo: BANU. Vol. I, 38.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4867.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.492">Animal Transportation</ref><ref type="context" target="info:fedora/context:vase.ocm.490">Land Transport</ref><ref type="context" target="info:fedora/context:vase.ocm.231">Domesticated Animals</ref><ref type="context" target="info:fedora/context:vase.ocm.230">Animal Husbandry</ref><ref type="context" target="info:fedora/context:vase.ocm.292">Special Garments</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.461">Labor and Leisure</ref><ref type="context" target="info:fedora/context:vase.ocm.460">Labor</ref><ref type="context" target="info:fedora/context:vase.ocm.563">Ethnic Stratification</ref><ref type="context" target="info:fedora/context:vase.ocm.560">Social Stratification</ref><ref type="context" target="info:fedora/context:vase.ocm.565">Classes</ref><ref type="context" target="info:fedora/context:vase.ocm.560">Social Stratification</ref></ab></div>
+    </back>
+  </text>
+</TEI>

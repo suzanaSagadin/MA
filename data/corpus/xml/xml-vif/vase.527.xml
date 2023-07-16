@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Celebrating the Day of Roses</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.527</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национална Библиотека "Св. св. Кирил и Методий"</orgName>
+          <orgName xml:lang="en">St. Cyril and St. Methodius National Library</orgName>
+          <idno type="invNo">C IV 583</idno>
+          <ptr target="http://www.nationallibrary.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:369">
+            <ref target="info:fedora/context:vase.369" type="context">Urban and Rural Life</ref>
+            <term key="ocm:360" type="broader">
+              <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+            </term>
+          </term>
+          <term key="ocm:493">
+            <ref target="info:fedora/context:vase.493" type="context">Vehicles</ref>
+            <term key="ocm:490" type="broader">
+              <ref target="info:fedora/context:vase.490" type="context">Land Transport</ref>
+            </term>
+          </term>
+          <term key="ocm:517">
+            <ref target="info:fedora/context:vase.517" type="context">Leisure Time Activities</ref>
+            <term key="ocm:510" type="broader">
+              <ref target="info:fedora/context:vase.510" type="context">Living Standards and Routines</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:570">
+            <ref target="info:fedora/context:vase.570" type="context">Interpersonal Relations</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1914.06.29</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Outdoor shot of a group of people, sitting and standing in two cabriolets, richly decorated with flowers. The six women, five men and two children are all wearing urban clothes with hats.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Among the photographed is Vera Stambolova (~ 1890 - 1941) - daughter of Poliksenia and Stefan Stambolov (1854 - 1895) - a Bulgarian politician, Prime Minister of Bulgaria 1887 - 1894.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">335</height>
+          <width unit="mm">400</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">203</height>
+          <width unit="mm">266</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1914.06.29" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.527-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.527-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Wedding portrait of Kosta and Zora Horstig</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AD">
+          <name>Ana Djordjevic</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.1240</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej Primenjene Umetnosti</orgName>
+          <orgName xml:lang="en">Museum of Applied Art</orgName>
+          <idno type="invNo">22274</idno>
+          <ptr target="http://www.mpu.org.rs" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:292">
+            <ref target="info:fedora/context:vase.292" type="context">Special Garments</ref>
+            <term key="ocm:290" type="broader">
+              <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+            </term>
+          </term>
+          <term key="ocm:294">
+            <ref target="info:fedora/context:vase.294" type="context">Clothing Manufacture</ref>
+            <term key="ocm:290" type="broader">
+              <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+            </term>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:411">
+            <ref target="info:fedora/context:vase.411" type="context">Weapons</ref>
+            <term key="ocm:410" type="broader">
+              <ref target="info:fedora/context:vase.410" type="context">Tools and Appliances</ref>
+            </term>
+          </term>
+          <term key="ocm:440">
+            <ref target="info:fedora/context:vase.440" type="context">Marketing</ref>
+          </term>
+          <term key="ocm:453">
+            <ref target="info:fedora/context:vase.453" type="context">Banking</ref>
+            <term key="ocm:450" type="broader">
+              <ref target="info:fedora/context:vase.450" type="context">Finance</ref>
+            </term>
+          </term>
+          <term key="ocm:462">
+            <ref target="info:fedora/context:vase.462" type="context">Division of Labor by Gender</ref>
+            <term key="ocm:460" type="broader">
+              <ref target="info:fedora/context:vase.460" type="context">Labor</ref>
+            </term>
+          </term>
+          <term key="ocm:470">
+            <ref target="info:fedora/context:vase.470" type="context">Business and Industrial Organization</ref>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:585">
+            <ref target="info:fedora/context:vase.585" type="context">Nuptials</ref>
+            <term key="ocm:580" type="broader">
+              <ref target="info:fedora/context:vase.580" type="context">Marrige</ref>
+            </term>
+          </term>
+          <term key="ocm:590">
+            <ref target="info:fedora/context:vase.590" type="context">Familiy</ref>
+          </term>
+          <term key="ocm:640">
+            <ref target="info:fedora/context:vase.640" type="context">State</ref>
+          </term>
+          <term key="ocm:660">
+            <ref target="info:fedora/context:vase.660" type="context">Political Behavior</ref>
+          </term>
+          <term key="ocm:700">
+            <ref target="info:fedora/context:vase.700" type="context">Armed Forces</ref>
+          </term>
+          <term key="ocm:714">
+            <ref target="info:fedora/context:vase.714" type="context">Uniform and Accouterment</ref>
+            <term key="ocm:710" type="broader">
+              <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+            </term>
+          </term>
+          <term key="ocm:741">
+            <ref target="info:fedora/context:vase.741" type="context">Philanthropic Foundations</ref>
+            <term key="ocm:740" type="broader">
+              <ref target="info:fedora/context:vase.740" type="context">Health and Welfare</ref>
+            </term>
+          </term>
+          <term key="ocm:796">
+            <ref target="info:fedora/context:vase.796" type="context">Organized Ceremonial</ref>
+            <term key="ocm:790" type="broader">
+              <ref target="info:fedora/context:vase.790" type="context">Ecclesiatical Organization</ref>
+            </term>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Serbia</country>
+                <settlement>Belgrade</settlement>
+                <name ref="http://geonames.org/792680" type="fcode:PPLC">Belgrade</name>
+                <location>
+                  <geo>20.46513,44.80401</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1900-1902</date>
+        <persName>
+          <forename>Milan</forename>
+          <surname>Jovanović</surname>
+          <ref target="info:fedora/context:vase.pn.4622c1ba" type="context">Jovanović, Milan</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full-length photograph of a bride and a groom. The bride is wearing a wedding dress and holding a big bridal bouquet in front of her. The groom is dressed in uniform with insignia of honor and rank. He is leaning on his sabre and scabbard while looking down at his bride. A painted canvas backdrop is creating the impression of the scene being set in a room with stairs leading up to another floor.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Zora Horstig, née Pavlović, was the daughter of Mihajlo Pavlović, who was the owner of one of the greatest textile factories of his time in Belgrade and also Governor of the National Bank. Her contemporaries used to call her 'Pretty Ms. Horstig'. She married Kosta Horstig, who was an artillery officer and descendant of an old Prussian family. Kosta's father Paul von Horstig (Pavle Horstig) moved to Serbia after the Franco-Prussian War, where he became representative of Krupp and allegedly also one of the founders of freemasonry in Serbia. Kosta and Zora had two daughters, one of them named Olga.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Imperial</seg>  
+      <dimensions type="artefact">
+          <height unit="mm">240</height>
+          <width unit="mm">160</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1902" notBefore="1900" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.650f150e" type="context">Belgrade</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <linkGrp>
+        <ptr target="vase.1239" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.1240-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.1240-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

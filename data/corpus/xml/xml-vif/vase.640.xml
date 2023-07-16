@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Peak Eledzhik</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.640</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национална Библиотека "Св. св. Кирил и Методий"</orgName>
+          <orgName xml:lang="en">St. Cyril and St. Methodius National Library</orgName>
+          <idno type="invNo">C III  973</idno>
+          <ptr target="http://www.nationallibrary.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:659">
+            <ref target="info:fedora/context:vase.659" type="context">Miscellaneous Government Activities</ref>
+            <term key="ocm:650" type="broader">
+              <ref target="info:fedora/context:vase.650" type="context">Government Activities</ref>
+            </term>
+          </term>
+          <term key="ocm:669">
+            <ref target="info:fedora/context:vase.669" type="context">Revolution</ref>
+            <term key="ocm:660" type="broader">
+              <ref target="info:fedora/context:vase.660" type="context">Political Behavior</ref>
+            </term>
+          </term>
+          <term key="ocm:820">
+            <ref target="info:fedora/context:vase.820" type="context">Ideas about Nature and Man</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <name ref="http://geonames.org/731699" type="fcode:MTS">Eledzhik</name>
+                <location>
+                  <geo>23.95,42.38333</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Court photographer</roleName>
+        <date>1898-1902</date>
+        <persName>
+          <forename>Ivan Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c3834c" type="context">Karastoyanov, Ivan Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Panorama mountain photograph. On the right two men in rural clothes are standing next to a tree.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Peak Eledzhik, named also "Benkovski", is located in Sredna Gora. The peak was a key point during the Bulgarian Anti-Ottoman April Uprising 1876. The photograph was taken as part of the preparation for the 25th Anniversary of the April Uprising.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">150</height>
+          <width unit="mm">206</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">141</height>
+          <width unit="mm">187</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1902" notBefore="1898" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.2e5c576" type="context">Eledzhik</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.640-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.640-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

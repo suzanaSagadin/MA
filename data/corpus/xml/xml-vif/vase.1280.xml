@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of architect Milan Kapetanović</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AD">
+          <name>Ana Djordjevic</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.1280</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Miloš Jurišić</orgName>
+          <orgName xml:lang="en">Miloš Jurišić</orgName>
+          <idno type="invNo">mk-Milan Kapetanovic arhitekta 1893_0015</idno>
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:184">
+            <ref target="info:fedora/context:vase.184" type="context">Cultural Participation</ref>
+            <term key="ocm:180" type="broader">
+              <ref target="info:fedora/context:vase.180" type="context">Total Culture</ref>
+            </term>
+          </term>
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:330">
+            <ref target="info:fedora/context:vase.330" type="context">Building and Construction</ref>
+          </term>
+          <term key="ocm:341">
+            <ref target="info:fedora/context:vase.341" type="context">Architecture</ref>
+            <term key="ocm:340" type="broader">
+              <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+            </term>
+          </term>
+          <term key="ocm:430">
+            <ref target="info:fedora/context:vase.430" type="context">Exchange</ref>
+          </term>
+          <term key="ocm:450">
+            <ref target="info:fedora/context:vase.450" type="context">Finance</ref>
+          </term>
+          <term key="ocm:462">
+            <ref target="info:fedora/context:vase.462" type="context">Division of Labor by Gender</ref>
+            <term key="ocm:460" type="broader">
+              <ref target="info:fedora/context:vase.460" type="context">Labor</ref>
+            </term>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:590">
+            <ref target="info:fedora/context:vase.590" type="context">Familiy</ref>
+          </term>
+          <term key="ocm:660">
+            <ref target="info:fedora/context:vase.660" type="context">Political Behavior</ref>
+          </term>
+          <term key="ocm:810">
+            <ref target="info:fedora/context:vase.810" type="context">Science and Humanities</ref>
+          </term>
+          <term key="ocm:875">
+            <ref target="info:fedora/context:vase.875" type="context">Teachers</ref>
+            <term key="ocm:870" type="broader">
+              <ref target="info:fedora/context:vase.870" type="context">Education</ref>
+            </term>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Serbia</country>
+                <settlement>Belgrade</settlement>
+                <name ref="http://geonames.org/792680" type="fcode:PPLC">Belgrade</name>
+                <location>
+                  <geo>20.46513,44.80401</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1892-1893</date>
+        <persName>
+          <forename>Milan</forename>
+          <surname>Jovanović</surname>
+          <ref target="info:fedora/context:vase.pn.4622c1ba" type="context">Jovanović, Milan</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Half-length shot of a seated man dressed in urban clothes with a neck tie.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Milan Kapetanović (1859–1934, Belgrade) was an eminent Belgrade builder-architect, Minister of Economy in the government of the Kingdom of Serbia, Minister of Housing and Urban Development in the government of the Kingdom of Yugoslavia and Professor at Belgrade University's Faculty of Architecture. He was among the first trained architects in Serbia and designed many public buildings in Belgrade. Among other things, he was involved in designing the Serbian pavilion for the Exposition Universelle in Paris (1900), which resembled a church in the Serb-Byzantine style. He also designed the Sephardic synagogue in Belgrade in the "Moorish" style, which was destroyed in a fire in WWII, as well as many other buildings and villas. Politically he supported the Independent Radical Party, which separated from the People's Radical Party and later became the Democratic Party. He was married to Jelena, née Vujatović. They had a daughter named Ruža.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Carte de visite</seg>
+        <dimensions type="artefact">
+          <height unit="mm">120</height>
+          <width unit="mm">60</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1893" notBefore="1892" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.650f150e" type="context">Belgrade</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <linkGrp>
+        <ptr target="vase.1279" />
+        <ptr target="vase.1281" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.1280-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.1280-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

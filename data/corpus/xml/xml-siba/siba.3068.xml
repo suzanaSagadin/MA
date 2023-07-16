@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Inquisitive currency smuggler</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.3068</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Yapı Kredi tarih arşivi, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Selahattin Giz</name>
+          <idno type="invNo">3/0234B</idno>
+        </ab>
+        <ab type="copyright">Yapı Kredi bank</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:670"><ref type="context" target="info:fedora/context:siba.670">Law</ref></term><term key="ocm:453"><ref type="context" target="info:fedora/context:siba.453">Banking</ref><term type="broader" key="ocm:450"><ref type="context" target="info:fedora/context:siba.450">Finance</ref></term></term><term key="ocm:201"><ref type="context" target="info:fedora/context:siba.201">Gestures and Signs</ref><term type="broader" key="ocm:200"><ref type="context" target="info:fedora/context:siba.200">Communication</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1934-03-15</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref></persName><persName role="Press Photographer"><forename>Selahattin </forename><surname>Giz</surname><ref type="context" target="info:fedora/context:siba.pn.dce0efc3">Giz, Selahattin </ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">A group of men dressed in long coats are walking down a street. Most are hiding their faces with their hats. A young man in the middle of the picture, only half protected by the brim of his hat, throws an inquisitive glance towards the photographer. In the background towers the silhouette of Hagia Sophia.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph was taken in the context of an article printed in Cumhuriyet with the title, ‘First Turkish ship made on special initiative’. The vessel was financed by the lawyer Etemin Belkis and was hailed by the newspaper as the first boat of its kind constructed on Turkish initiative.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1934-03-15"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Sultanahmet</note></placeName></ab>
+    <listBibl><bibl>Döviz kaçakçıları. Cumhuriyet, 16 March 1934, 1.</bibl></listBibl><linkGrp type="series"><ptr target="siba.3067" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.3068.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.670">Law</ref><ref type="context" target="info:fedora/context:vase.ocm.453">Banking</ref><ref type="context" target="info:fedora/context:vase.ocm.450">Finance</ref><ref type="context" target="info:fedora/context:vase.ocm.201">Gestures and Signs</ref><ref type="context" target="info:fedora/context:vase.ocm.200">Communication</ref></ab></div>
+    </back>
+  </text>
+</TEI>

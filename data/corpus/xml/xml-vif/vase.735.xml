@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Parade on the occasion of the Day of the Child</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.735</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Личен Архив Биляна Брайкова Карастоянова</orgName>
+          <orgName xml:lang="en">Bilyana Braykova Karastoyanova</orgName>
+          <idno type="invNo">BK_013</idno>
+          <ptr target="Personal Archive of Bilyana Braykova Karastoyanova" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:369">
+            <ref target="info:fedora/context:vase.369" type="context">Urban and Rural Life</ref>
+            <term key="ocm:360" type="broader">
+              <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:640">
+            <ref target="info:fedora/context:vase.640" type="context">State</ref>
+          </term>
+          <term key="ocm:659">
+            <ref target="info:fedora/context:vase.659" type="context">Miscellaneous Government Activities</ref>
+            <term key="ocm:650" type="broader">
+              <ref target="info:fedora/context:vase.650" type="context">Government Activities</ref>
+            </term>
+          </term>
+          <term key="ocm:850">
+            <ref target="info:fedora/context:vase.850" type="context">Infancy and Childhood</ref>
+          </term>
+          <term key="ocm:860">
+            <ref target="info:fedora/context:vase.860" type="context">Socialization</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1938-1943</date>
+        <persName>
+          <forename>Bozhidar Dimitrov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c5c735fb" type="context">Karastoyanov, Bozhidar Dimitrov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Outdoor photograph of a group of girls wearing short festive tutu-like dresses and hats. One boy is part of the group. He is wearing light-coloured urban clothes and a summer hat and he is pushing a flower-adorned toy reminiscent of a small wheelbarrow. All children are waving at a large group of people watching them from carpet-covered steps in front of a building. There are men, women, and a child in the first row. All of them are wearing urban clothes or military uniforms.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The Day of the Child, celebrated on the Messenger of Peace Sunday (the second Sunday after the Eastern Orthodox Easter) was introduced in 1927 by the Bulgarian Child Protection Union, whose first president was Prof. Dr. Stefan Vatev, the pioneer of Bulgarian paediatrics. Among the official guests on the stand are Queen Joanna (Giovanna) with her daughter Maria-Louisa and Bogdan Dimitrov Filov (1883 - 1945), a Bulgarian archaeologist, art historian, and politician. In 1937 Filov was elected chairman of the Bulgarian Academy of Sciences. In 1938 he became Minister of Education and in 1940 Prime Minister of the Kingdom of Bulgaria. After the death of King Boris III in August 1943, Filov became a member of the Regency Council established due to the new Tsar, Simeon II, having been underage. After the new Communist-dominated government had been established in 1944, Giovanna and her children Simeon and Maria-Louisa remained under home arrest at Vrana Palace, near Sofia until 1946. In 1946 the government gave them 48 hours to leave the country, and they moved to Madrid. The members of the Regency Council were arrested. Filov and ninety-two other public officials were sentenced to death by a "People's Tribunal" on the afternoon of 1 February 1945. The sentence was revoked by the Bulgarian Supreme Court on 26 June 26 1996.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">100</height>
+          <width unit="mm">160</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1943" notBefore="1938" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.735-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

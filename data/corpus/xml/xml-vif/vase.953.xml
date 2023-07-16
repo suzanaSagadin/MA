@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of Konstantin Kanchev</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.953</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национален Политехнически Музей</orgName>
+          <orgName xml:lang="en">National Polytechnic Museum</orgName>
+          <idno type="invNo">OF № 7531</idno>
+          <ptr target="http://www.polytechnicmuseum.org/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:700">
+            <ref target="info:fedora/context:vase.700" type="context">Armed Forces</ref>
+          </term>
+          <term key="ocm:714">
+            <ref target="info:fedora/context:vase.714" type="context">Uniform and Accouterment</ref>
+            <term key="ocm:710" type="broader">
+              <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+            </term>
+          </term>
+          <term key="ocm:372">
+            <ref target="info:fedora/context:vase.372" type="context">Fire</ref>
+            <term key="ocm:370" type="broader">
+              <ref target="info:fedora/context:vase.370" type="context">Energy and Power</ref>
+            </term>
+          </term>
+          <term key="ocm:438">
+            <ref target="info:fedora/context:vase.438" type="context">Domestic Trade</ref>
+            <term key="ocm:430" type="broader">
+              <ref target="info:fedora/context:vase.430" type="context">Exchange</ref>
+            </term>
+          </term>
+          <term key="ocm:439">
+            <ref target="info:fedora/context:vase.439" type="context">Foreign Trade</ref>
+            <term key="ocm:430" type="broader">
+              <ref target="info:fedora/context:vase.430" type="context">Exchange</ref>
+            </term>
+          </term>
+          <term key="ocm:509">
+            <ref target="info:fedora/context:vase.509" type="context">Air Transport</ref>
+            <term key="ocm:500" type="broader">
+              <ref target="info:fedora/context:vase.500" type="context">Water, Air, and Space Transportation</ref>
+            </term>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Court photographer</roleName>
+        <date>1888-1892</date>
+        <persName>
+          <forename>Ivan Anastasov</forename>        
+  <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c3834c" type="context">Karastoyanov, Ivan Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Medium close-up of a man in half profile wearing a military uniform with an insignia of honour.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Konstantin Kanchev (1865 - unknown) was one of the first Bulgarians to fly in a hot-air balloon with Eugene Godard at the First Bulgarian International Agricultural and Industrial Fair in Plovdiv in 1892. Lieutenant Kanchev commanded the unit engaged in servicing of the balloon. Kanchev became major in 1906 and colonel in 1920.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Cabinet</seg>
+        <dimensions type="artefact">
+          <height unit="mm">164</height>
+          <width unit="mm">106</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">135</height>
+          <width unit="mm">94</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1892" notBefore="1888" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.953-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.953-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of Natalija Joksimović</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AD">
+          <name>Ana Djordjevic</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.1285</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Miloš Jurišić</orgName>
+          <orgName xml:lang="en">Miloš Jurišić</orgName>
+          <idno type="invNo">Natalija 1897_0018</idno>
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:212">
+            <ref target="info:fedora/context:vase.212" type="context">Writing</ref>
+            <term key="ocm:210" type="broader">
+              <ref target="info:fedora/context:vase.210" type="context">Records</ref>
+            </term>
+          </term>
+          <term key="ocm:214">
+            <ref target="info:fedora/context:vase.214" type="context">Publishing</ref>
+            <term key="ocm:210" type="broader">
+              <ref target="info:fedora/context:vase.210" type="context">Records</ref>
+            </term>
+          </term>
+          <term key="ocm:292">
+            <ref target="info:fedora/context:vase.292" type="context">Special Garments</ref>
+            <term key="ocm:290" type="broader">
+              <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+            </term>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:330">
+            <ref target="info:fedora/context:vase.330" type="context">Building and Construction</ref>
+          </term>
+          <term key="ocm:462">
+            <ref target="info:fedora/context:vase.462" type="context">Division of Labor by Gender</ref>
+            <term key="ocm:460" type="broader">
+              <ref target="info:fedora/context:vase.460" type="context">Labor</ref>
+            </term>
+          </term>
+          <term key="ocm:510">
+            <ref target="info:fedora/context:vase.510" type="context">Living Standards and Routines</ref>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:580">
+            <ref target="info:fedora/context:vase.580" type="context">Marrige</ref>
+          </term>
+          <term key="ocm:670">
+            <ref target="info:fedora/context:vase.670" type="context">Law</ref>
+          </term>
+          <term key="ocm:693">
+            <ref target="info:fedora/context:vase.693" type="context">Legal and Judicial Personnel</ref>
+            <term key="ocm:690" type="broader">
+              <ref target="info:fedora/context:vase.690" type="context">Justice</ref>
+            </term>
+          </term>
+          <term key="ocm:720">           
+ <ref target="info:fedora/context:vase.720" type="context">War</ref>
+          </term>
+          <term key="ocm:760">
+            <ref target="info:fedora/context:vase.760" type="context">Death</ref>
+          </term>
+          <term key="ocm:870">
+            <ref target="info:fedora/context:vase.870" type="context">Education</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Serbia</country>
+                <settlement>Belgrade</settlement>
+                <name ref="http://geonames.org/792680" type="fcode:PPLC">Belgrade</name>
+                <location>
+                  <geo>20.46513,44.80401</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1897 before</date>
+        <persName>
+          <forename>Milan</forename>
+          <surname>Jovanović</surname>
+          <ref target="info:fedora/context:vase.pn.4622c1ba" type="context">Jovanović, Milan</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Half-length shot of a young woman standing behind a parapet, upon which she is resting her right hand. She is wearing a Victorian dress, gloves and a hat as well as holding a parasol is in her left hand. There is a dedication to her future husband on the verso.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Natalija Joksimović (1880–1956) was the third-oldest daughter of Mileva and Nikola Joksimović from the town of Arandjelovac. In 1891 she moved to Belgrade, where she lived with her aunt and uncle and received a higher education ('Viša Ženska Škola', High School for Women, founded in 1863 to train teachers for the girls' schools). She became a teacher and at the age of 23 she married the engineer Jova Zrnić, with whom she had two daughters and four sons. She was widowed in 1918, after which she remarried. Her second husband was Đorđe (George) Matić, whom she also outlived. Her diary, titled "Natalija: Life in the Balkan Powder Keg, 1880–1956", has been published with an introductory study.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Carte de visite</seg>
+        <dimensions type="artefact">
+          <height unit="mm">123</height>
+          <width unit="mm">62</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1897" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.650f150e" type="context">Belgrade</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <listBibl>
+        <bibl>Irvine, Jill A.</bibl>
+        <bibl> Lilly, Carol S.  (eds.): Natalija: Life in the Balkan Powder Keg, 1880–1956. Central European Univ. Press, 2009.</bibl>
+      </listBibl>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.1285-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.1285-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

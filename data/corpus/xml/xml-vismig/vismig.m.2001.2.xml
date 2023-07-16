@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="motivtitle">Männer vor der Tür der österreichischen Anwerbekommission</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>Picturing Migrants Lives - Jovan Ritopečki’s photographic documentation of Yugoslav labour migration in Austria (1970–89)</edition>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="VB">
+                  <forename>Vida</forename>
+                  <surname>Bakondy</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="DS">
+                  <forename>Darko</forename>
+                  <surname>Stojanov-Leitner</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="MS">
+                  <forename>Martina</forename>
+                  <surname>Scholger</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="SS">
+                  <forename>Suzana</forename>
+                  <surname>Sagadin</surname>
+               </persName>
+            </respStmt>
+            <!--Vida fragen, ob es so passt-->
+            <funder>
+               <orgName ref="https://www.fwf.ac.at/">Fonds zur Förderung wissenschaftlicher Forschung</orgName>
+               <num>FWF T 1083-G</num>
+            </funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><!--Mit Vida besprechen-->
+               <ref target="https://www.oeaw.ac.at"/>
+               <orgName ref="http://d-nb.info/gnd/1001454-8">Austrian Academy of Sciences</orgName>
+            </publisher>
+            <authority>
+               <ref target="https://informationsmodellierung.uni-graz.at"/>
+               <orgName ref="http://d-nb.info/gnd/1137284463">Institute Centre for Information Modelling - Austrian Centre for Digital Humanities</orgName>
+            </authority>
+            <distributor>
+               <ref target="https://gams.uni-graz.at"/>
+               <orgName>GAMS - Humanities’ Asset Management System</orgName>
+            </distributor>
+            <availability><!--Mit Vida reden-->
+               <licence n="text" target="https://creativecommons.org/licenses/by/4.0">Creative Commons BY 4.0</licence>
+               <licence n="facsimile"
+                        target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</licence>
+            </availability>
+            <date ana="dcterms:issued" when="2023">2023</date>
+            <pubPlace>Graz, Austria</pubPlace>
+            <idno type="PID">o:vismig.m.2001.2</idno>
+            <ref target="context:vismig.s.2001" type="context" subtype="Series">Jugoslawische Arbeiter vor der Tür der österreichischen Delegation beim Bundesamt für Arbeitsvermittlung im Ausland in Belgrad, 15.8.1970</ref>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="series_description">Junge Männern warten in den Räumlichkeiten des Bundesamtes für Arbeitsvermittlung im Ausland in Belgrad. Die Bilder zeigen sie: in Unterhaltungen, in Gruppen am Gang, Zettel auf einer Tafel an der Wand studierend,  in einem Wartezimmer, beim Kartenspiel. Auf den letzten sechs Aufnahmen werden Frauen in einem Raum bei der Büroarbeit porträtiert. </ab>
+            <ab type="series_comment">Die meisten Fotos wurden bei der französischen Kommission aufgenommen. Darauf verweisen u.a. Informationszettel über die Arbeit und das Leben in Frankreich und eine Landkarte Frankreichs in einem Warteraum. Viele der Bewerber haben sich für die Vorstellung in Schale geworfen und tragen Anzüge. Ritopečki fotografiert vornehmlich verschiedene Gruppenkonstellationen, in denen rege Kommunikation in lockerer Atmosphäre herrscht. Gleichzeitig finden sich  Spuren des Dialogs mit dem Fotografen, wie offene Blicke in die Kamera und lächelnde Gesichter zeigen. Bei den Frauen im Büro dürfte es sich um Büromitarbeiterinnen vor Ort handeln. Ein Foto aus der Serie, das vor dem Eingang zum Büro der österreichischen Delegation aufgenommen wurde, erschien in der Zeitschrift Naš List.  Die österreichische Kommission in Belgrad wurde nach Abschluss des österreichisch-jugoslawischen Anwerbeabkommens im Jahr 1966 eröffnet. Im Vergleich zu den Anwerbekommissionen anderer Länder war das Büro sehr klein und auch die Anwerbeerfolge über den offiziellen Weg sehr gering. Die Mehrzahl jugoslawischer Arbeiter*innen fanden über informelle Netzwerke Arbeit in Österreich und reisten mit einem Touristenvisum ein. </ab>
+            <ab type="archival_remarks">Der Filmkader wurden nachträglich mit Textmarker nummeriert. Im Archiv des Fotografen findet sich keine weitere Bildserie mit ähnlichem Inhalt.</ab>
+            <ab type="series_relations"><!--noch keine Einträge, Test-->
+               <ptr target="vismig.s.Seriennr" type="type__of_relation"/>
+            </ab>
+            <ab type="copyright">NL Jovan Ritopečki</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="context:vismig" type="context">vismig</ref>
+               <!--Projektbeschreibung-->
+            </p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <persName role="Photographer">
+               <forename>Jovan</forename>
+               <surname>Ritopečki</surname>
+               <ref target="context:vismig.pn.ritopecki" type="context">Ritopečki, Jovan</ref>
+            </persName>
+            <date ana="dcterms:created" type="creation" when="1970">1970</date>
+            <country type="contemporary">Jugoslawien</country>
+            <placeName>
+               <ref target="context:vismig.gn.belgrad" type="context">Belgrad</ref>
+            </placeName>
+         </creation>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         <textClass>
+            <keywords resp="VB">
+               <term key="S001">
+                  <ref target="context:vismig.vb.s001" type="context">Anwerbung</ref>
+               </term>
+               <term key="S003">
+                  <ref target="context:vismig.vb.s003" type="context">Behörde</ref>
+               </term>
+               <term key="S011">
+                  <ref target="context:vismig.vb.s011" type="context">Jugoslawien</ref>
+               </term>
+               <term key="S018">
+                  <ref target="context:vismig.vb.s018" type="context">Männer</ref>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="1"
+                  url="../img/2001_img29.jpg"
+                  xml:id="IMAGE.1"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="2"
+                  url="../img/2001_img30.jpg"
+                  xml:id="IMAGE.2"/>
+      </surface>
+   </facsimile>
+   <standOff>
+      <bibl>
+         <ref target="o:vismig.bibl.b008" type="object" subtype="article">Od jednog miliona trojica , Naš List</ref>
+      </bibl>
+   </standOff>
+   <text>
+      <body>
+         <listObject>
+            <object type="motiv" xml:id="m.2001.2">
+               <objectIdentifier>
+                  <idno type="invNo">Box 1970(2), FT 84</idno>
+               </objectIdentifier>
+               <objectContents>
+                  <ab type="description">Vier Männer stehen vor der Tür der  österreichischen Anwerbekommission. </ab>
+                  <ab type="comment">Ein Motiv erschien in der Zeitschrift Naš List begleitend zu einem kurzen Beitrag über die österreichische Anwerbekommission in Belgrad. Für die Veröffentlichung wurde das Foto beschnitten, der Mann links außen ist nicht mehr mit im Bild. Dadurch rückt das Büroschild der Österreichischen Kommission stärker in den Fokus des Bildes. </ab>
+               </objectContents>
+               <physDesc>
+                  <objectDesc>
+                     <p>Motiv beinhaltet TODO Fotos und gehört zur Serie TODO.</p>
+                  </objectDesc>
+               </physDesc>
+               <object type="image" facs="#IMAGE.1">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2001.2/IMAGE.1</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.2">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2001.2/IMAGE.2</idno>
+                  </objectIdentifier>
+               </object>
+            </object>
+         </listObject>
+      </body>
+   </text>
+</TEI>

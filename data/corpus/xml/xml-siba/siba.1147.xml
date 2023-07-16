@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dancing in Çırçır Suyu Park</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1147</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">CIRCIR SUYU MESIRESI - DANS EDEN CIFTLER</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:517"><ref type="context" target="info:fedora/context:siba.517">Leisure Time Activities</ref><term type="broader" key="ocm:510"><ref type="context" target="info:fedora/context:siba.510">Living Standards and Routines</ref></term></term><term key="ocm:535"><ref type="context" target="info:fedora/context:siba.535">Dancing</ref><term type="broader" key="ocm:530"><ref type="context" target="info:fedora/context:siba.530">Arts</ref></term></term><term key="ocm:533"><ref type="context" target="info:fedora/context:siba.533">Music</ref><term type="broader" key="ocm:530"><ref type="context" target="info:fedora/context:siba.530">Arts</ref></term></term><term key="ocm:890"><ref type="context" target="info:fedora/context:siba.890">Gender Roles and Issues</ref></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1925 after</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Eleven middle-aged men and women are dancing in Çırçır Suyu park. There are four couples. On the photograph's right margin, three women are grouped together. The men are dressed in white shirts and ties and cotton trousers. The women are wearing afternoon dresses. Except for the woman on the very left, who is looking back over her shoulder, everyone is facing the camera. In the lower left corner stand a wooden table and wooden chair. In the background, a stone wall separates the scene from the terraced upper level of the restaurant where there are trees and more tables and chairs.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The Çırçır Suyu Park is a local recreation area in the northern district of Sarıyer. The park became popular in the course of Atatürk's visit to Istanbul in 1927 during which he also stopped at the park.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1925"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Sarıyer</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1141" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1147.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.517">Leisure Time Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.510">Living Standards and Routines</ref><ref type="context" target="info:fedora/context:vase.ocm.535">Dancing</ref><ref type="context" target="info:fedora/context:vase.ocm.530">Arts</ref><ref type="context" target="info:fedora/context:vase.ocm.533">Music</ref><ref type="context" target="info:fedora/context:vase.ocm.530">Arts</ref><ref type="context" target="info:fedora/context:vase.ocm.890">Gender Roles and Issues</ref></ab></div>
+    </back>
+  </text>
+</TEI>

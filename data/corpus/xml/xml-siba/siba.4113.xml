@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fireman on the collapsed roof of the 'Kasina' cinema</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4113</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0278</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:624"><ref type="context" target="info:fedora/context:siba.624">Local Officials</ref><term type="broader" key="ocm:620"><ref type="context" target="info:fedora/context:siba.620">Community</ref></term></term><term key="ocm:372"><ref type="context" target="info:fedora/context:siba.372">Fire</ref><term type="broader" key="ocm:370"><ref type="context" target="info:fedora/context:siba.370">Energy and Power</ref></term></term><term key="ocm:344"><ref type="context" target="info:fedora/context:siba.344">Public Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:345"><ref type="context" target="info:fedora/context:siba.345">Recreational Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1928-12-23</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">A firefighter poses in the burnt-out top-floor hall of the 'Kasina' cinema on 22 December 1929. He is standing in the middle surrounded by charred beams hanging against the cinema gallery like scattered pick-up sticks, amidst overthrown building materials. His uniform consists of a long coat and a helmet, and he is holding a pickaxe in his left hand. In the upper background, the exterior wall of the adjoining building can be seen.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">According to the chief of the Belgrade fire brigade, Miroslav Milisavljević, the fire in the 'Kasina' cinema was probably caused by an overheated chimney in the American film hall on the top floor. Although the roof construction collapsed, no serious damage occurred and nobody was injured. The damage was estimated at around 350,000 dinars.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1928-12-23"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Terazije</note></placeName></ab>
+    <listBibl><bibl>Kako je izbio požar u bioskopu 'Kasini'. Vreme 2517, 24 December 1928,6.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4113.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.624">Local Officials</ref><ref type="context" target="info:fedora/context:vase.ocm.620">Community</ref><ref type="context" target="info:fedora/context:vase.ocm.372">Fire</ref><ref type="context" target="info:fedora/context:vase.ocm.370">Energy and Power</ref><ref type="context" target="info:fedora/context:vase.ocm.344">Public Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.345">Recreational Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref></ab></div>
+    </back>
+  </text>
+</TEI>

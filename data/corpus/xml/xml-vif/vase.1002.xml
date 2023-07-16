@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Young woman in town attire</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AD">
+          <name>Ana Djordjevic</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.1002</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej Primenjene Umetnosti</orgName>
+          <orgName xml:lang="en">Museum of Applied Art</orgName>
+          <idno type="invNo">10429</idno>
+          <ptr target="http://www.mpu.org.rs" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:885">
+            <ref target="info:fedora/context:vase.885" type="context">Adulthood</ref>
+            <term key="ocm:880" type="broader">
+              <ref target="info:fedora/context:vase.880" type="context">Adolescene, Adulthood, and Old Age</ref>
+            </term>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Serbia</country>
+                <settlement>Belgrade</settlement>
+                <name ref="http://geonames.org/792680" type="fcode:PPLC">Belgrade</name>
+                <location>
+                  <geo>20.46513,44.80401</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1860-1890</date>
+        <persName>
+          <forename>Anastas</forename>
+          <surname>Jovanović</surname>
+          <ref target="info:fedora/context:vase.pn.d5a3fe24" type="context">Jovanović, Anastas</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full-length portrait of a young woman wearing a floor-length crinoline dress. She is resting her left hand, in which she is holding a book, on a small wooden table. In the background a curtain is partially covering a painted canvas backdrop depicting a park.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Photograph kept in Anastas Jovanović's album.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Carte de visite</seg>
+        <dimensions type="artefact">
+          <height unit="mm">90</height>
+          <width unit="mm">60</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1890" notBefore="1860" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.650f150e" type="context">Belgrade</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <listBibl>
+        <bibl>Antić, Radmila. "Anastas Jovanović, talbotipije i fotografije." Beograd: Muzej grada Beograda, 1986.</bibl>
+      </listBibl>
+      <certainty cert="medium" locus="value" target="persName" />
+      <certainty cert="medium" locus="value" target="country" />
+      <certainty cert="medium" locus="value" target="placeName" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.1002-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

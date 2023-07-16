@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Motocycles and bicycles on Talimhane Square</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1075</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">TALIMHANEDE BISIKLET-3</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:517"><ref type="context" target="info:fedora/context:siba.517">Leisure Time Activities</ref><term type="broader" key="ocm:510"><ref type="context" target="info:fedora/context:siba.510">Living Standards and Routines</ref></term></term><term key="ocm:493"><ref type="context" target="info:fedora/context:siba.493">Vehicles</ref><term type="broader" key="ocm:490"><ref type="context" target="info:fedora/context:siba.490">Land Transport</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1929</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Six men with two motorcycles and several bicycles on Talimhane Square. Two men are alongside each motorcycle. A man in a hat bends over the vehicle closer to the camera, another wearing a leather cap and a suit is watching, with his left hand in his trouser pocket. Two men wearing flat caps, one of them of African origin, are crouched next to the motorbike in the rear. Behind them, a man with a bag over his right shoulder and an unidentifiable round object in his left hand is walking away from the scene, pushing a bicycle with his right. A sixth man on the right margin of the photograph is surveying another bicycle. In the foreground, five more bicycles are scattered between the men and the photographer's position, all of them fixed-gear bikes.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">At Talimhane Square, people used to fix, rent and ride bicycles and motorbikes. From the late 1920s, the square was gradually built up.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1929"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Talimhane, Beyoğlu</note></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1075.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.517">Leisure Time Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.510">Living Standards and Routines</ref><ref type="context" target="info:fedora/context:vase.ocm.493">Vehicles</ref><ref type="context" target="info:fedora/context:vase.ocm.490">Land Transport</ref></ab></div>
+    </back>
+  </text>
+</TEI>

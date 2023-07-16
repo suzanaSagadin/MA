@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Outdoor photograph of Višegrad</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AD">
+          <name>Ana Djordjevic</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.1157</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej Primenjene Umetnosti</orgName>
+          <orgName xml:lang="en">Museum of Applied Art</orgName>
+          <idno type="invNo">20190</idno>
+          <ptr target="http://www.mpu.org.rs" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:131">
+            <ref target="info:fedora/context:vase.131" type="context">Location</ref>
+            <term key="ocm:130" type="broader">
+              <ref target="info:fedora/context:vase.130" type="context">Geography</ref>
+            </term>
+          </term>
+          <term key="ocm:184">
+            <ref target="info:fedora/context:vase.184" type="context">Cultural Participation</ref>
+            <term key="ocm:180" type="broader">
+              <ref target="info:fedora/context:vase.180" type="context">Total Culture</ref>
+            </term>
+          </term>
+          <term key="ocm:330">
+            <ref target="info:fedora/context:vase.330" type="context">Building and Construction</ref>
+          </term>
+          <term key="ocm:340">
+            <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+          </term>
+          <term key="ocm:360">
+            <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+          </term>
+          <term key="ocm:480">
+            <ref target="info:fedora/context:vase.480" type="context">Travel and Transportation</ref>
+          </term>
+          <term key="ocm:510">
+            <ref target="info:fedora/context:vase.510" type="context">Living Standards and Routines</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bosnia and Herzegovina</country>
+                <settlement>Višegrad</settlement>
+                <name ref="http://geonames.org/3187681" type="fcode:PPL">Višegrad</name>
+                <location>
+                  <geo>19.29256,43.7826</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1887-1890</date>
+        <persName>
+          <forename>Milan</forename>
+          <surname>Jovanović</surname>
+          <ref target="info:fedora/context:vase.pn.4622c1ba" type="context">Jovanović, Milan</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">High angle panorama shot of a street scene depicting several buildings, passers-by and people gathered in the street.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The small town of Višegrad now belongs to Republika Srpska (Bosnia and Herzegovina) and is situated about eight kilometres from the Serbian border. The town became known through "The Bridge on the Drina", a novel by Nobel Prize winner Ivo Andrić, which is an homage to the Mehmed Paša Sokolović Bridge in Višegrad.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Cabinet</seg>
+        <dimensions type="artefact">
+          <height unit="mm">109</height>
+          <width unit="mm">165</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1890" notBefore="1887" />
+        <country type="contemporary">Austria-Hungary</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.f831e405" type="context">Višegrad</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <listBibl>
+        <bibl>Ivo Andrić "The Bridge on the Drina". 1945.</bibl>
+      </listBibl>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.1157-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.1157-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

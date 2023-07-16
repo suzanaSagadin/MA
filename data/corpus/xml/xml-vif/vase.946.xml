@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>"Elucidation"</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.946</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Личен Архив Биляна Брайкова Карастоянова</orgName>
+          <orgName xml:lang="en">Bilyana Braykova Karastoyanova</orgName>
+          <idno type="invNo">BK_069</idno>
+          <ptr target="Personal Archive of Bilyana Braykova Karastoyanova" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:215">
+            <ref target="info:fedora/context:vase.215" type="context">Photography</ref>
+            <term key="ocm:210" type="broader">
+              <ref target="info:fedora/context:vase.210" type="context">Records</ref>
+            </term>
+          </term>
+          <term key="ocm:340">
+            <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+          </term>
+          <term key="ocm:360">
+            <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+          </term>
+          <term key="ocm:373">
+            <ref target="info:fedora/context:vase.373" type="context">Light</ref>
+            <term key="ocm:370" type="broader">
+              <ref target="info:fedora/context:vase.370" type="context">Energy and Power</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>2010</date>
+        <persName>
+          <forename>Bilyana Braykova</forename>
+          <surname>Karastoyanova</surname>
+          <ref target="info:fedora/context:vase.pn.942b2314" type="context">Karastoyanova, Bilyana Braykova</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Panorama shot of a dark square and a well-lit Orthodox cathedral in the background. In the foreground the outline of a monument with two figures can be traced in the dark.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">"St. Alexander Nevski" Cathedral, built in Neo-Byzantine style as a cross-domed basilica, serves as the cathedral church of the Patriarch of Bulgaria. Construction started in 1882, but the main building activities took place between 1904 and 1912. Saint Alexander Nevsky (1220 - 1263) was a Russian prince. The cathedral was created in honour of the Russian soldiers who died during the Russo-Ottoman War of 1877 - 1878. The photograph was taken from "St. Cyril and St. Methodius" National Library. The Monument of the Saints is in the foreground.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date when="2010" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.946-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

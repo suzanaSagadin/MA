@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="motivtitle">Two friends at the street</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>Picturing Migrants Lives - Jovan Ritopečki’s photographic documentation of Yugoslav labour migration in Austria (1970–89)</edition>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="VB">
+                  <forename>Vida</forename>
+                  <surname>Bakondy</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="DS">
+                  <forename>Darko</forename>
+                  <surname>Stojanov-Leitner</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="MS">
+                  <forename>Martina</forename>
+                  <surname>Scholger</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="SS">
+                  <forename>Suzana</forename>
+                  <surname>Sagadin</surname>
+               </persName>
+            </respStmt>
+            <!--Vida fragen, ob es so passt-->
+            <funder>
+               <orgName ref="https://www.fwf.ac.at/">Fonds zur Förderung wissenschaftlicher Forschung</orgName>
+               <num>FWF T 1083-G</num>
+            </funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><!--Mit Vida besprechen-->
+               <ref target="https://www.oeaw.ac.at"/>
+               <orgName ref="http://d-nb.info/gnd/1001454-8">Austrian Academy of Sciences</orgName>
+            </publisher>
+            <authority>
+               <ref target="https://informationsmodellierung.uni-graz.at"/>
+               <orgName ref="http://d-nb.info/gnd/1137284463">Institute Centre for Information Modelling - Austrian Centre for Digital Humanities</orgName>
+            </authority>
+            <distributor>
+               <ref target="https://gams.uni-graz.at"/>
+               <orgName>GAMS - Humanities’ Asset Management System</orgName>
+            </distributor>
+            <availability><!--Mit Vida reden-->
+               <licence n="text" target="https://creativecommons.org/licenses/by/4.0">Creative Commons BY 4.0</licence>
+               <licence n="facsimile"
+                        target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</licence>
+            </availability>
+            <date ana="dcterms:issued" when="2023">2023</date>
+            <pubPlace>Graz, Austria</pubPlace>
+            <idno type="PID">o:vismig.m.2044.2</idno>
+            <ref target="context:vismig.s.2044" type="context" subtype="Series">Children of Yugoslav workers - on the street and at home</ref>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="series_description">This series presents scenes of children’s lives: at the street alone or with friends, and at home with schoolbooks.</ab>
+            <ab type="copyright">NL Jovan Ritopečki</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="context:vismig" type="context">vismig</ref>
+               <!--Projektbeschreibung-->
+            </p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <persName role="Photographer">
+               <forename>Jovan</forename>
+               <surname>Ritopečki</surname>
+               <ref target="context:vismig.pn.ritopecki" type="context">Ritopečki, Jovan</ref>
+            </persName>
+            <date ana="dcterms:created" type="creation" when="1973">1973</date>
+            <country type="contemporary">Austria</country>
+            <placeName>
+               <ref target="context:vismig.gn.vienna" type="context">Vienna</ref>
+            </placeName>
+         </creation>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         <textClass>
+            <keywords resp="VB">
+               <term key="S013">
+                  <ref target="context:vismig.vb.s013" type="context">Kinder</ref>
+               </term>
+               <term key="S021">
+                  <ref target="context:vismig.vb.s021" type="context">Öffentlicher Raum</ref>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="1"
+                  url="../img/2044_img6.jpg"
+                  xml:id="IMAGE.1"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="2"
+                  url="../img/2044_img7.jpg"
+                  xml:id="IMAGE.2"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="3"
+                  url="../img/2044_img8.jpg"
+                  xml:id="IMAGE.3"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="4"
+                  url="../img/2044_img9.jpg"
+                  xml:id="IMAGE.4"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <listObject>
+            <object type="motiv" xml:id="m.2044.2">
+               <objectIdentifier>
+                  <idno type="invNo"/>
+               </objectIdentifier>
+               <objectContents>
+                  <ab type="description">Two boys meet at the street and then pose for the camera with a friendly hug. The boy on the left has a school bag on his back and wear a winter jacket. The boy on the right is wearing a somewhat dirty coat (whose sleaves appear to be slightly long). They are standing on a sidewalk, and on the other side of the street, behind them is a school (with inscription on the wall "Schule der Stadt Wien"). Under the inscription there are two small poles for flags, and the (street) number 2. Few cars are parked on the sides of the street.</ab>
+                  <ab type="comment">The location is Schöngasse 2, in front of the school.</ab>
+               </objectContents>
+               <physDesc>
+                  <objectDesc>
+                     <p>Motiv beinhaltet TODO Fotos und gehört zur Serie TODO.</p>
+                  </objectDesc>
+               </physDesc>
+               <object type="image" facs="#IMAGE.1">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2044.2/IMAGE.1</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.2">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2044.2/IMAGE.2</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.3">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2044.2/IMAGE.3</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.4">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2044.2/IMAGE.4</idno>
+                  </objectIdentifier>
+               </object>
+            </object>
+         </listObject>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>'Svetlost' delegation from the Kruševac region in front of the National Theatre</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4097</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0210</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:292"><ref type="context" target="info:fedora/context:siba.292">Special Garments</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term><term key="ocm:561"><ref type="context" target="info:fedora/context:siba.561">Age stratification</ref><term type="broader" key="ocm:560"><ref type="context" target="info:fedora/context:siba.560">Social Stratification</ref></term></term><term key="ocm:641"><ref type="context" target="info:fedora/context:siba.641">Citizenship</ref><term type="broader" key="ocm:640"><ref type="context" target="info:fedora/context:siba.640">State</ref></term></term><term key="ocm:484"><ref type="context" target="info:fedora/context:siba.484">Travel</ref><term type="broader" key="ocm:480"><ref type="context" target="info:fedora/context:siba.480">Travel and Transportation</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1930-03-17</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Group portrait of roughly eighty men, all but one dressed in the traditional male costume of the Šumadija region, including dark <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=C1">čakšire</ref>, a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=J1">jelek</ref> with dark cording, <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=O1">opanci</ref>, embroidered stockings and a dark fur cap (šubara), posing in front of the Narodno pozorište theatre entrance. A man in the second row on the left is in army uniform.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph was published as part of a report in the newspaper Vreme on the exchange visits of peasants from Serbia and Croatia. Around eighty male members of the cultural association 'Svetlost' from the Kruševac region travelled to Belgrade and Zagreb to enhance mutual understanding between peasants in Serbia and Croatia.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1930-03-17"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Narodno Pozorište</note></placeName></ab>
+    <listBibl><bibl>Poseta naših seljaka braći u Hrvatskoj. Vreme 2958, 18 March 1930, 5.</bibl><bibl> Doček seljaka iz Šumadije u Zagrebu. Vreme 2959, 19 March 1930, 1.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4097.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.292">Special Garments</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.561">Age stratification</ref><ref type="context" target="info:fedora/context:vase.ocm.560">Social Stratification</ref><ref type="context" target="info:fedora/context:vase.ocm.641">Citizenship</ref><ref type="context" target="info:fedora/context:vase.ocm.640">State</ref><ref type="context" target="info:fedora/context:vase.ocm.484">Travel</ref><ref type="context" target="info:fedora/context:vase.ocm.480">Travel and Transportation</ref></ab></div>
+    </back>
+  </text>
+</TEI>

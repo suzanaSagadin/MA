@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of Bogdan Filov</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.553</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национална Библиотека "Св. св. Кирил и Методий"</orgName>
+          <orgName xml:lang="en">St. Cyril and St. Methodius National Library</orgName>
+          <idno type="invNo">C VII 16</idno>
+          <ptr target="http://www.nationallibrary.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:1210">
+            <ref target="info:fedora/context:vase.1210" type="context">Archaeological Excavation Methods</ref>
+            <term key="ocm:120" type="broader">
+              <ref target="info:fedora/context:vase.120" type="context">Methodology</ref>
+            </term>
+          </term>
+          <term key="ocm:1211">
+            <ref target="info:fedora/context:vase.1211" type="context">Dating Methods in Archaeology</ref>
+            <term key="ocm:120" type="broader">
+              <ref target="info:fedora/context:vase.120" type="context">Methodology</ref>
+            </term>
+          </term>
+          <term key="ocm:156">
+            <ref target="info:fedora/context:vase.156" type="context">Social Personality</ref>
+            <term key="ocm:150" type="broader">
+              <ref target="info:fedora/context:vase.150" type="context">Behavior Processes and Personality</ref>
+            </term>
+          </term>
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:660">
+            <ref target="info:fedora/context:vase.660" type="context">Political Behavior</ref>
+          </term>
+          <term key="ocm:680">
+            <ref target="info:fedora/context:vase.680" type="context">Offenses and Sanctions</ref>
+          </term>
+          <term key="ocm:690">
+            <ref target="info:fedora/context:vase.690" type="context">Justice</ref>
+          </term>
+          <term key="ocm:720">
+            <ref target="info:fedora/context:vase.720" type="context">War</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">     
+   <roleName>Photographer</roleName>
+        <date>1931</date>
+        <persName>
+          <forename>Bogdan Dimitrov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.70dd88ab" type="context">Karastoyanov, Bogdan Dimitrov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Half length shot of a sitting man in a suit.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Bogdan Dimitrov Filov (1883 - 1945) was a Bulgarian archaeologist, art historian and politician. In 1937 Filov was elected Chairman of the Bulgarian Academy of Sciences, in 1938 he became Minister of Education, and in 1940 Prime Minister of the Kingdom of Bulgaria. After the death of Boris in August 1943, Filov became a member of the Regency Council established because the new Tsar, Simeon II, was underage. After the new Communist-dominated government was established in 1944, the Regency Council members were arrested. Filov and ninety-two other public officials were sentenced to death by a "People's Tribunal" on the afternoon of February 1, 1945 and executed. The sentence was revoked by the Bulgarian Supreme Court on June 26, 1996.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">444</height>
+          <width unit="mm">327</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">280</height>
+          <width unit="mm">225</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1931" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.553-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.553-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

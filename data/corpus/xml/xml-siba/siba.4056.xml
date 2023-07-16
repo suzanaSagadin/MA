@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Enjoying the spring sun in Kalemegdan</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4056</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0101</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:345"><ref type="context" target="info:fedora/context:siba.345">Recreational Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:367"><ref type="context" target="info:fedora/context:siba.367">Parks</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term><term key="ocm:132"><ref type="context" target="info:fedora/context:siba.132">Climate</ref><term type="broader" key="ocm:130"><ref type="context" target="info:fedora/context:siba.130">Geography</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1929</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Men and women in winter coats are sitting in the sun on benches in <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K3">Kalemegdan</ref>. The picture is taken from a distance – the people are paying no attention to the photographer. On the nearest bench, a woman and a man are sitting on opposite ends, as though they do not know each other. On a second bench, two ladies in fur coats are occupied with two toddlers and their pushchairs.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph appeared in the newspaper Vreme in its 'Belgrade Chronicle' section. The accompanying title informed readers that Belgrade citizens were enjoying the first rays of sun in early spring.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1929"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Kalemegdan</note></placeName></ab>
+    <listBibl><bibl>Prvi prolećni dani. Vreme 2602, 21 March 1929, 7.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4056.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.345">Recreational Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.367">Parks</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref><ref type="context" target="info:fedora/context:vase.ocm.132">Climate</ref><ref type="context" target="info:fedora/context:vase.ocm.130">Geography</ref></ab></div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Urban Muslim clothes from Sarajevo</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="BD">
+          <name>Barbara Derler</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.2198</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Historijski arhiv Sarajevo</orgName>
+          <orgName xml:lang="en">The Historical Archive of Sarajevo</orgName>
+          <idno type="invNo">ZF-1273</idno>
+          <ptr target="http://www.arhivsa.ba/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:593">
+            <ref target="info:fedora/context:vase.593" type="context">Family Relationships</ref>
+            <term key="ocm:590" type="broader">
+              <ref target="info:fedora/context:vase.590" type="context">Familiy</ref>
+            </term>
+          </term>
+          <term key="ocm:562">
+            <ref target="info:fedora/context:vase.562" type="context">Gender Status</ref>
+            <term key="ocm:560" type="broader">
+              <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+            </term>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bosnia and Herzegovina</country>
+                <settlement>Sarajevo</settlement>
+                <name ref="http://geonames.org/3191281" type="fcode:PPLC">Sarajevo</name>
+                <location>
+                  <geo>18.35644,43.84864</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#BD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1894-1910</date>
+        <persName>
+          <forename>František</forename>
+          <surname>Topič</surname>
+          <ref target="info:fedora/context:vase.pn.42ccfb20" type="context">Topič, František</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full-length shot of a man wearing close-fitting trousers with a low crotch (čakšire), a short embroidered jacket (jelek) and gaiters (dizlik). The woman is wearing a short jacket with wide sleeves (libade) and baggy trousers with a low crotch (šalvare).</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Most probably produced with a model.</ab>
+      <ab type="lido:objectMeasurementsSet">      
+  <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">182</height>
+          <width unit="mm">126</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1910" notBefore="1894" />
+        <country type="contemporary">Bosnia and Herzegovina</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.814f17d1" type="context">Sarajevo</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <linkGrp>
+        <ptr target="vase.2199" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.2198-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

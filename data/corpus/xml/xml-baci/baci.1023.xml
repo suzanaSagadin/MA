@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Serbian actor and film director Čiča Ilija Stanojević (1859–1930)</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>BACI – Balkan Cinema</edition>
+        <respStmt>
+          <name>Karl Kaser</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:baci.1023</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Jugoslovenska kinoteka</orgName>
+          <name type="collection" xml:lang="en">Fototeka</name>
+          <idno type="invNo">Stanojevic_Ilija</idno>
+          <ptr target="http://www.kinoteka.org.rs/wp/" />
+        </ab>
+        <ab type="copyright">Jugoslovenska kinoteka, Belgrade</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:546">
+            <ref target="info:fedora/context:baci.546" type="context">Motion Picture Industry</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:baci.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+          <term key="ocm:536">
+            <ref target="info:fedora/context:baci.536" type="context">Drama</ref>
+            <term key="ocm:530" type="broader">
+              <ref target="info:fedora/context:baci.530" type="context">Arts</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>Unknown</date>
+        <persName role="Photographer">
+          <surname>unknown</surname>
+          <ref target="info:fedora/context:baci.pn.unknown" type="context">unknown</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Čiča Ilija Stanojević photographed in the photo studio owned by M. Savić in Belgrade. He is elegantly dressed in a dark three-piece suit and colour-coordinated necktie and hat. He is posing in half-profile.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The printed words at the bottom left translate as: ‘Atelier M. Savić, Belgrade.’ ‘Ilija Stanojević’ is printed on the bottom of the cardboard mount. Stanojević was the director of the first two Serbian features, ‘Karadjordje’ and ‘Ulrich from Cilli and Vladislav Hunyadi’, shot in the summer of 1911.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date>Unknown</date>
+        <country type="contemporary">Serbia</country>
+        <country type="historical">unknown</country>
+        <placeName xml:id="SID.1">
+          <ref target="info:fedora/context:baci.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+      <linkGrp type="relations">
+        <ptr target="baci.1108" />
+        <ptr target="baci.1125" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///baci.1023-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+      <div type="ocm-contexts">
+        <ab>
+          <ref target="info:fedora/context:vase.ocm.546" type="context">Motion Picture Industry</ref>
+          <ref target="info:fedora/context:vase.ocm.540" type="context">Commercialized Entertainment</ref>
+          <ref target="info:fedora/context:vase.ocm.536" type="context">Drama</ref>
+          <ref target="info:fedora/context:vase.ocm.530" type="context">Arts</ref>
+        </ab>
+      </div>
+    </back>
+  </text>
+</TEI>

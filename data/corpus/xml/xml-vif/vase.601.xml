@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sports scene from the Second Slav Fair</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.601</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национална Библиотека "Св. св. Кирил и Методий"</orgName>
+          <orgName xml:lang="en">St. Cyril and St. Methodius National Library</orgName>
+          <idno type="invNo">C I  1863</idno>
+          <ptr target="http://www.nationallibrary.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:205">
+            <ref target="info:fedora/context:vase.205" type="context">Mail</ref>
+            <term key="ocm:200" type="broader">
+              <ref target="info:fedora/context:vase.200" type="context">Communication</ref>
+            </term>
+          </term>
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:340">
+            <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+          </term>
+          <term key="ocm:369">
+            <ref target="info:fedora/context:vase.369" type="context">Urban and Rural Life</ref>
+            <term key="ocm:360" type="broader">
+              <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+            </term>
+          </term>
+          <term key="ocm:497">
+            <ref target="info:fedora/context:vase.497" type="context">Rail Transport</ref>
+            <term key="ocm:490" type="broader">
+              <ref target="info:fedora/context:vase.490" type="context">Land Transport</ref>
+            </term>
+          </term>
+          <term key="ocm:517">
+            <ref target="info:fedora/context:vase.517" type="context">Leisure Time Activities</ref>
+            <term key="ocm:510" type="broader">
+              <ref target="info:fedora/context:vase.510" type="context">Living Standards and Routines</ref>
+            </term>
+          </term>
+          <term key="ocm:526">
+            <ref target="info:fedora/context:vase.526" type="context">Athletic Sports</ref>
+            <term key="ocm:520" type="broader">
+              <ref target="info:fedora/context:vase.520" type="context">Recreation</ref>
+            </term>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer and publisher</roleName>
+        <date>1895-1919</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">An outdoor photograph of men in uniformed sportswear, doing acrobatic figures. On the right and in the background: rows of boys in the same sportswear.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">A festivity of the Gymnastics Society "Yunak" (Hero) probably during the Second Slav Fair in Sofia 1910. The Bulgarian Gymnastics Society "Yunak" was founded at the end of the 19th century following the example of Swiss gymnastics societies.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">92</height>
+          <width unit="mm">121</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">67</height>
+          <width unit="mm">98</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1919" notBefore="1895" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+        <name type="publisher">D. A. Karastoyanov</name>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.601-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.601-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

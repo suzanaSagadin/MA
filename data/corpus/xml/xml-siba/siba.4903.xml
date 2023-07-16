@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Passers-by in front of greengrocer's shop</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Mehmed A. Akšamija</name><resp>editor</resp></respStmt><respStmt><name>Kristina Ilić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4903</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Alija M. Akšamija private collection, Sarajevo</orgName>
+          <name xml:lang="en" type="collection">Sarajevski ciklus 1938./39. – Slučajni prolaznici u pokretu VI</name>
+          <idno type="invNo">A.M.A. P 24 39</idno>
+        </ab>
+        <ab type="copyright">Mehmed A. Akšamija</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:103"><ref type="context" target="info:fedora/context:siba.103">Place Names</ref><term type="broader" key="ocm:100"><ref type="context" target="info:fedora/context:siba.100">Orientation</ref></term></term><term key="ocm:131"><ref type="context" target="info:fedora/context:siba.131">Location</ref><term type="broader" key="ocm:130"><ref type="context" target="info:fedora/context:siba.130">Geography</ref></term></term><term key="ocm:292"><ref type="context" target="info:fedora/context:siba.292">Special Garments</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term><term key="ocm:326"><ref type="context" target="info:fedora/context:siba.326">Smiths and Their Crafts</ref><term type="broader" key="ocm:320"><ref type="context" target="info:fedora/context:siba.320">Processing of Basic Materials</ref></term></term><term key="ocm:463"><ref type="context" target="info:fedora/context:siba.463">Occupational Specialization</ref><term type="broader" key="ocm:460"><ref type="context" target="info:fedora/context:siba.460">Labor</ref></term></term><term key="ocm:563"><ref type="context" target="info:fedora/context:siba.563">Ethnic Stratification</ref><term type="broader" key="ocm:560"><ref type="context" target="info:fedora/context:siba.560">Social Stratification</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1939</date>
+      <persName role="Photographer"><forename>Alija M.</forename><surname>Akšamija</surname><ref type="context" target="info:fedora/context:siba.pn.be7b6d09">Akšamija, Alija M.</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Blurred shot of a man walking down a lane in the Kovači <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=M1">mahalla</ref>. He is dressed in traditional costume, with an <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=A2">ahmedija</ref>, <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=C1">čakšire</ref> and <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=O1">opanci</ref>. Behind, a row of shops offer their respective goods on the sidewalk. On the left side of the picture, a grocer in local urban clothes is looking at the photographer, leaning against the timber partition of his shop in a relaxed manner, next to his fruit and vegetables. On the other side of the partition, in the picture’s centre, metal pots, plates and ibriks are set out on a board. In the upper left corner is a sign for Mustafa Nedopek’s workshop, with a pile of flour sifters on display. In front is the blurred silhouette of a barefoot girl or small woman in dimije and <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=M3">mahrama</ref> rushing uphill.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">Analogue photographic process, negative-positive (Agfa Isopan 17 DIN). Original preserved as a positive on silver bromine paper, stored as a print and a digital record.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="positive"><height unit="mm">180</height><width unit="mm">180</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1939"></date>
+      <country type="contemporary">Bosnia and Herzegovina</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.814f17d1" type="context">Sarajevo</ref><note>Kovači</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.4899" /><ptr target="siba.4901" /><ptr target="siba.4902" /><ptr target="siba.4904" /><ptr target="siba.4906" /></linkGrp><listBibl><bibl>Akšamija, Mehmed A. (2015): Alija M. Akšamija – Monografija arhivografije. Sarajevo: BANU. Vol. I, 76.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4903.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.103">Place Names</ref><ref type="context" target="info:fedora/context:vase.ocm.100">Orientation</ref><ref type="context" target="info:fedora/context:vase.ocm.131">Location</ref><ref type="context" target="info:fedora/context:vase.ocm.130">Geography</ref><ref type="context" target="info:fedora/context:vase.ocm.292">Special Garments</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.326">Smiths and Their Crafts</ref><ref type="context" target="info:fedora/context:vase.ocm.320">Processing of Basic Materials</ref><ref type="context" target="info:fedora/context:vase.ocm.463">Occupational Specialization</ref><ref type="context" target="info:fedora/context:vase.ocm.460">Labor</ref><ref type="context" target="info:fedora/context:vase.ocm.563">Ethnic Stratification</ref><ref type="context" target="info:fedora/context:vase.ocm.560">Social Stratification</ref></ab></div>
+    </back>
+  </text>
+</TEI>

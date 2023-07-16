@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Street vendor reading a newspaper</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1072</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">POGACACI GAZETE OKUYOR-4 2</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:432"><ref type="context" target="info:fedora/context:siba.432">Buying and Selling</ref><term type="broader" key="ocm:430"><ref type="context" target="info:fedora/context:siba.430">Exchange</ref></term></term><term key="ocm:366"><ref type="context" target="info:fedora/context:siba.366">Commercial Facilities</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term><term key="ocm:204"><ref type="context" target="info:fedora/context:siba.204">Press</ref><term type="broader" key="ocm:200"><ref type="context" target="info:fedora/context:siba.200">Communication</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1930-1939</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">A poğaça seller is leaned against the corner of a building reading a newspaper double spread titled with the headline, ‘Şehir Haberleri’ (City news). His cart, a three-wheeled wooden construction with showcases on either side and on top, stands slightly to his right. Paper is fixed to the edge of the cart nearest to the seller. The wall he is leaning against is covered with the remnants of left-overs of various posters. Two metallic items, possibly ashtrays, and some textiles are on display in the shop window of the adjacent house. The slightly sloping street is lined with further stores, one of them identifiable as a carver's shop by a sign with the word ‘Hakkak’.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The newspaper which the seller is reading is probably Akşam.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1930" notAfter="1939"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1068" /><ptr target="siba.1113" /><ptr target="siba.1144" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1072.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.432">Buying and Selling</ref><ref type="context" target="info:fedora/context:vase.ocm.430">Exchange</ref><ref type="context" target="info:fedora/context:vase.ocm.366">Commercial Facilities</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref><ref type="context" target="info:fedora/context:vase.ocm.204">Press</ref><ref type="context" target="info:fedora/context:vase.ocm.200">Communication</ref></ab></div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of Montenegrin general, clan chief and writer Marko Miljanov Popović</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AD">
+          <name>Ana Djordjevic</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.1502</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Narodna Biblioteka Srbije</orgName>
+          <orgName xml:lang="en">National Library of Serbia</orgName>
+          <idno type="invNo">F462</idno>
+          <ptr target="http://www.nb.rs/index.php?change_lang=en" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:292">
+            <ref target="info:fedora/context:vase.292" type="context">Special Garments</ref>
+            <term key="ocm:290" type="broader">
+              <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+            </term>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:212">
+            <ref target="info:fedora/context:vase.212" type="context">Writing</ref>
+            <term key="ocm:210" type="broader">
+              <ref target="info:fedora/context:vase.210" type="context">Records</ref>
+            </term>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:590">
+            <ref target="info:fedora/context:vase.590" type="context">Familiy</ref>
+          </term>
+          <term key="ocm:618">
+            <ref target="info:fedora/context:vase.618" type="context">Clans</ref>
+            <term key="ocm:610" type="broader">
+              <ref target="info:fedora/context:vase.610" type="context">Kin Groups</ref>
+            </term>
+          </term>
+          <term key="ocm:619">
+            <ref target="info:fedora/context:vase.619" type="context">Tribe and Nation</ref>
+            <term key="ocm:610" type="broader">
+              <ref target="info:fedora/context:vase.610" type="context">Kin Groups</ref>
+            </term>
+          </term>
+          <term key="ocm:622">
+            <ref target="info:fedora/context:vase.622" type="context">Headmen</ref>
+            <term key="ocm:620" type="broader">
+              <ref target="info:fedora/context:vase.620" type="context">Community</ref>
+            </term>
+          </term>
+          <term key="ocm:700">
+            <ref target="info:fedora/context:vase.700" type="context">Armed Forces</ref>
+          </term>
+          <term key="ocm:720">
+            <ref target="info:fedora/context:vase.720" type="context">War</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Serbia</country>
+                <settlement>Belgrade</settlement>
+                <name ref="http://geonames.org/792680" type="fcode:PPLC">Belgrade</name>
+                <location>
+                  <geo>20.46513,44.80401</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1893 before</date>
+        <persName>
+          <forename>Milan</forename>
+          <surname>Jovanović</surname>
+          <ref target="info:fedora/context:vase.pn.4622c1ba" type="context">Jovanović, Milan</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Upper body shot of an elderly man dressed in ceremonial Montenegrin clothes adorned with many insignia of honor.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Marko Miljanov Popović Drekalović (1833, Meldun – 1901, Herceg Novi) was a Montenegrin general, writer and chief of the Kuči clan (one of the Serbian Highland clans of Montenegro). His father was an Orthodox Christian Serb and his mother an Albanian Roman Catholic. He dedicated most of his writing to Montenegrin society. He entered the service of Danilo I, the first Prince of Montenegro, leading his armed Kuči clan against the Ottoman Empire in the wars of 1861–1862 and 1876–1878 and distinguishing himself as an able military leader. He unified his clan with Montenegro in 1874.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Boudoir</seg>
+        <dimensions type="artefact">
+          <height unit="mm">210</height>
+          <width unit="mm">130</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1893" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.650f150e" type="context">Belgrade</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.1502-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

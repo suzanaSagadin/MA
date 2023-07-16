@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Scouts parading in front of Istanbul University</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1081</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">AMELI HAYAT MEKTEBI - IZCILER - CUMHURIYET BAYRAMI - BEYAZIT SERASKERAT - 29 EKIM</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:527"><ref type="context" target="info:fedora/context:siba.527">Rest Days and Holidays</ref><term type="broader" key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term></term><term key="ocm:880"><ref type="context" target="info:fedora/context:siba.880">Adolescene, Adulthood, and Old Age</ref></term><term key="ocm:883"><ref type="context" target="info:fedora/context:siba.883">Adolescent Activities</ref><term type="broader" key="ocm:880"><ref type="context" target="info:fedora/context:siba.880">Adolescene, Adulthood, and Old Age</ref></term></term><term key="ocm:186"><ref type="context" target="info:fedora/context:siba.186">Cultural Identity and Pride</ref><term type="broader" key="ocm:180"><ref type="context" target="info:fedora/context:siba.180">Total Culture</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1925</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Four girl scouts are parading on <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B10">Beyazıt meydanı</ref> in front of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=D1">Darülfünun</ref> (İstanbul Üniversitesi). Their uniform consists of a blouse, skirt, knee-length stockings, scout tie, belt and scout hat worn tipped back on the neck. They are gravely carrying musical instruments: the girl marching ahead with a trumpet has a sash with the motto ‘Ameli Hayat’ (practical life)  across her chest, the three following her carry small drums hanging from leather straps strung over their shoulders. In the background, more participants of the parade are lined up in front of  <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=D1">Darülfünun</ref> (İstanbul Üniversitesi), which is decorated with a Turkish flag at the main entrance.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The parade most likely took place on the occasion of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=C14">Cumhuriyet bayramı</ref>. With the exception of 1934, when the parade was restricted to <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=T2">Taksim</ref> Square, the participants would gather and line up in front of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=D1">Darülfünun</ref> (İstanbul Üniversitesi) before starting the parade on <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B10">Beyazıt meydanı</ref>. The motto ‘Ameli Hayat’ on the sash indicates that the scouts were affiliated with the school of that name. With the exception of 1934 and 1938, when the official parade was restricted to <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=T2">Taksim</ref> Square, the parade in Istanbul during the twenties and thirties followed a well-established scheme: The parading soldiers and students would gather and form up in front of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=D1">Darülfünun</ref> (İstanbul Üniversitesi), thereafter starting the parade on <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B10">Beyazıt meydanı</ref> at around 11 a.m. The parade would then set out to Hagia Sophia, cross Galata Bridge and finally reach <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=T2">Taksim</ref> Square via <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=I4">İstiklal Caddesi</ref>.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1925"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Beyazıt, Fatih</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1080" /><ptr target="siba.1132" /><ptr target="siba.1134" /><ptr target="siba.1135" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1081.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.527">Rest Days and Holidays</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref><ref type="context" target="info:fedora/context:vase.ocm.880">Adolescene, Adulthood, and Old Age</ref><ref type="context" target="info:fedora/context:vase.ocm.883">Adolescent Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.880">Adolescene, Adulthood, and Old Age</ref><ref type="context" target="info:fedora/context:vase.ocm.186">Cultural Identity and Pride</ref><ref type="context" target="info:fedora/context:vase.ocm.180">Total Culture</ref></ab></div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Officers posing behind the equipment of an illegal distillery</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1272</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">KACAK ICKI IMALATHANESI - 001</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:274"><ref type="context" target="info:fedora/context:siba.274">Beverage Industries</ref><term type="broader" key="ocm:270"><ref type="context" target="info:fedora/context:siba.270">Drink, Drugs, and Indulgence</ref></term></term><term key="ocm:273"><ref type="context" target="info:fedora/context:siba.273">Alcoholic Beverages</ref><term type="broader" key="ocm:270"><ref type="context" target="info:fedora/context:siba.270">Drink, Drugs, and Indulgence</ref></term></term><term key="ocm:693"><ref type="context" target="info:fedora/context:siba.693">Legal and Judicial Personnel</ref><term type="broader" key="ocm:690"><ref type="context" target="info:fedora/context:siba.690">Justice</ref></term></term><term key="ocm:625"><ref type="context" target="info:fedora/context:siba.625">Police</ref><term type="broader" key="ocm:620"><ref type="context" target="info:fedora/context:siba.620">Community</ref></term></term><term key="ocm:624"><ref type="context" target="info:fedora/context:siba.624">Local Officials</ref><term type="broader" key="ocm:620"><ref type="context" target="info:fedora/context:siba.620">Community</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1931-08</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Seven men standing behind wooden barrels that are scattered in front of them. They are all looking towards the camera. A man with moustache and a dark veston is standing in the middle of the photograph. He is resting his left hand on a an iron construction, probably part of a destillator, which is placed on top of one of the barrels. Standing next to him are two uniformed police officers and three men wearing suit and tie. On the right side of the scene, a seventh man who is also wearing a suit is leaning against the corner of a wall. A raw wall mounts up behind the men.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The men who are wearing suits are probably judical officers. The photograph was published on 1 September 1931 in Yeni Gün newspaper. According to the related article, the distillery has had a production capacity of up to 150 litres of rakı per day. Illegal distilleries were a prominent topic in Istanbul in the late twenties and early thirties. In these years, the local newspapers published many articles reporting on rakı consumption and alcoholism as well as on the discovery of such production facilities – often featuring very similar photographs.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1931-08"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1273" /><ptr target="siba.1276" /></linkGrp><listBibl><bibl>Yeni Gün 215, 1 September 1931, 1.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1272.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.274">Beverage Industries</ref><ref type="context" target="info:fedora/context:vase.ocm.270">Drink, Drugs, and Indulgence</ref><ref type="context" target="info:fedora/context:vase.ocm.273">Alcoholic Beverages</ref><ref type="context" target="info:fedora/context:vase.ocm.270">Drink, Drugs, and Indulgence</ref><ref type="context" target="info:fedora/context:vase.ocm.693">Legal and Judicial Personnel</ref><ref type="context" target="info:fedora/context:vase.ocm.690">Justice</ref><ref type="context" target="info:fedora/context:vase.ocm.625">Police</ref><ref type="context" target="info:fedora/context:vase.ocm.620">Community</ref><ref type="context" target="info:fedora/context:vase.ocm.624">Local Officials</ref><ref type="context" target="info:fedora/context:vase.ocm.620">Community</ref></ab></div>
+    </back>
+  </text>
+</TEI>

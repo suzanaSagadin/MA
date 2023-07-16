@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="motivtitle">A group of people is standing outside a building</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>Picturing Migrants Lives - Jovan Ritopečki’s photographic documentation of Yugoslav labour migration in Austria (1970–89)</edition>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="VB">
+                  <forename>Vida</forename>
+                  <surname>Bakondy</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="DS">
+                  <forename>Darko</forename>
+                  <surname>Stojanov-Leitner</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="MS">
+                  <forename>Martina</forename>
+                  <surname>Scholger</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="SS">
+                  <forename>Suzana</forename>
+                  <surname>Sagadin</surname>
+               </persName>
+            </respStmt>
+            <!--Vida fragen, ob es so passt-->
+            <funder>
+               <orgName ref="https://www.fwf.ac.at/">Fonds zur Förderung wissenschaftlicher Forschung</orgName>
+               <num>FWF T 1083-G</num>
+            </funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><!--Mit Vida besprechen-->
+               <ref target="https://www.oeaw.ac.at"/>
+               <orgName ref="http://d-nb.info/gnd/1001454-8">Austrian Academy of Sciences</orgName>
+            </publisher>
+            <authority>
+               <ref target="https://informationsmodellierung.uni-graz.at"/>
+               <orgName ref="http://d-nb.info/gnd/1137284463">Institute Centre for Information Modelling - Austrian Centre for Digital Humanities</orgName>
+            </authority>
+            <distributor>
+               <ref target="https://gams.uni-graz.at"/>
+               <orgName>GAMS - Humanities’ Asset Management System</orgName>
+            </distributor>
+            <availability><!--Mit Vida reden-->
+               <licence n="text" target="https://creativecommons.org/licenses/by/4.0">Creative Commons BY 4.0</licence>
+               <licence n="facsimile"
+                        target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</licence>
+            </availability>
+            <date ana="dcterms:issued" when="2023">2023</date>
+            <pubPlace>Graz, Austria</pubPlace>
+            <idno type="PID">o:vismig.m.2016.1</idno>
+            <ref target="context:vismig.s.2016" type="context" subtype="Series">Workers in front of the Yugoslav Consulate</ref>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="series_description">The first part of the photo series shows a group of Yugoslav workers (mostly men) waiting in front of the Yugoslav consulate and then entering its courtyard. Three insciptions on the wall (two seem to be official titles of the institution in different languages, while the third probably gives practical information) and the street number 4a can be seen at the main entrance. The people are dressed for the colder part of the year: wearing coats, some men wearing hats, and some women wearing headscarfs. Most of the people are facing the entrance of the building, while a few look at the camera. The second part shows the group entering the main building, then entering a second door from the courtyard and at the end, waiting in front of a counter with passports and documents in their hands. </ab>
+            <ab type="series_comment">The photos were taken in front of and inside Salmgasse 4a (3. Bezirk)</ab>
+            <ab type="archival_remarks">The series is consisted of two parts. The photographs have limited sharpness (details in the background, such as inscriptions, cannot be read).</ab>
+            <ab type="copyright">NL Jovan Ritopečki</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="context:vismig" type="context">vismig</ref>
+               <!--Projektbeschreibung-->
+            </p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <persName role="Photographer">
+               <forename>Jovan</forename>
+               <surname>Ritopečki</surname>
+               <ref target="context:vismig.pn.ritopecki" type="context">Ritopečki, Jovan</ref>
+            </persName>
+            <date ana="dcterms:created" type="creation" when="1972">1972</date>
+            <country type="contemporary">Austria</country>
+            <placeName>
+               <ref target="context:vismig.gn.vienna" type="context">Vienna</ref>
+            </placeName>
+         </creation>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         <textClass>
+            <keywords resp="VB">
+               <term key="S003">
+                  <ref target="context:vismig.vb.s003" type="context">Behörde</ref>
+               </term>
+               <term key="S021">
+                  <ref target="context:vismig.vb.s021" type="context">Öffentlicher Raum</ref>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="1"
+                  url="../img/2016_img1.jpg"
+                  xml:id="IMAGE.1"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <listObject>
+            <object type="motiv" xml:id="m.2016.1">
+               <objectIdentifier>
+                  <idno type="invNo"/>
+               </objectIdentifier>
+               <objectContents>
+                  <ab type="description">Some 24 people are standing in front of the Yugoslav consulate, waiting for the doors to be opened. Most of these individuals are men, but at least two women are noticable as well. All are wearing clothes for the winter season. Two men are looking at the camera. Some people wear bags for documents. The door and the façade of the building are the background of the photo. Two plaques are noticable, with the title of the institution and the Yugoslav coat of arms. </ab>
+                  <ab type="comment">The photographer is positioned almost centrally (slighlty diagonally) in front of the entrance of the consulate, and close to the people he is observing. Most probably he is standind in the middle of the small street or on the other sidewalk.</ab>
+               </objectContents>
+               <physDesc>
+                  <objectDesc>
+                     <p>Motiv beinhaltet TODO Fotos und gehört zur Serie TODO.</p>
+                  </objectDesc>
+               </physDesc>
+               <object type="image" facs="#IMAGE.1">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2016.1/IMAGE.1</idno>
+                  </objectIdentifier>
+               </object>
+            </object>
+         </listObject>
+      </body>
+   </text>
+</TEI>

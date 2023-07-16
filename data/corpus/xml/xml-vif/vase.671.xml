@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Celebration of the St. Cyril and St. Methodius Day in Edirne</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.671</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национална Библиотека "Св. св. Кирил и Методий"</orgName>
+          <orgName xml:lang="en">St. Cyril and St. Methodius National Library</orgName>
+          <idno type="invNo">C VII 75</idno>
+          <ptr target="http://www.nationallibrary.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:369">
+            <ref target="info:fedora/context:vase.369" type="context">Urban and Rural Life</ref>
+            <term key="ocm:360" type="broader">
+              <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+            </term>
+          </term>
+          <term key="ocm:533">
+            <ref target="info:fedora/context:vase.533" type="context">Music</ref>
+            <term key="ocm:530" type="broader">
+              <ref target="info:fedora/context:vase.530" type="context">Arts</ref>
+            </term>
+          </term>
+          <term key="ocm:534">
+            <ref target="info:fedora/context:vase.534" type="context">Musical Instruments</ref>
+            <term key="ocm:530" type="broader">
+              <ref target="info:fedora/context:vase.530" type="context">Arts</ref>
+            </term>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:850">
+            <ref target="info:fedora/context:vase.850" type="context">Infancy and Childhood</ref>
+          </term>
+          <term key="ocm:867">
+            <ref target="info:fedora/context:vase.867" type="context">Transmission of Cultural Norms</ref>
+            <term key="ocm:860" type="broader">
+              <ref target="info:fedora/context:vase.860" type="context">Socialization</ref>
+            </term>
+          </term>
+          <term key="ocm:875">
+            <ref target="info:fedora/context:vase.875" type="context">Teachers</ref>
+            <term key="ocm:870" type="broader">
+              <ref target="info:fedora/context:vase.870" type="context">Education</ref>
+            </term>
+          </term>
+          <term key="ocm:877">
+            <ref target="info:fedora/context:vase.877" type="context">Students</ref>
+            <term key="ocm:870" type="broader">
+              <ref target="info:fedora/context:vase.870" type="context">Education</ref>
+            </term>
+          </term>
+          <term key="ocm:461">
+            <ref target="info:fedora/context:vase.461" type="context">Labor and Leisure</ref>
+            <term key="ocm:460" type="broader">
+              <ref target="info:fedora/context:vase.460" type="context">Labor</ref>
+            </term>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Turkey</country>
+                <settlement>Edirne</settlement>
+                <name ref="http://geonames.org/747712" type="fcode:PPLA">Edirne</name>
+                <location>
+                  <geo>26.55597,41.67719</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Court photographer</roleName>
+        <date>1897</date>
+        <persName>
+          <forename>Ivan Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c3834c" type="context">Karastoyanov, Ivan Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Outdoor shot of a large group of people - girls, boys, women and men, seated and standing clustered on a lawn. Some of them are in school uniforms, others are wearing military uniforms with a fez, or urban or rural clothes. In the middle there are four men in an Orthodox priest garb. Some of the boys and the men in school uniforms with a fez in the first row are holding various musical instruments.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Verso: hand-written inscriptions and printed text in Bulgarian with the names of some of the photographed. Among the photographed are the archimandrite Sophronius, teachers - men and women, and pupils, as well as tradesmen with their families.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">285</height>
+          <width unit="mm">354</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">196</height>
+          <width unit="mm">241</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1897" />
+        <country type="contemporary">Ottoman Empire</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.7b7105df" type="context">Edirne</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.671-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.671-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

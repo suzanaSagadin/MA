@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Child in a hospital bed</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4033</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0042</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:750"><ref type="context" target="info:fedora/context:siba.750">Sickness</ref></term><term key="ocm:758"><ref type="context" target="info:fedora/context:siba.758">Medical Care</ref><term type="broader" key="ocm:750"><ref type="context" target="info:fedora/context:siba.750">Sickness</ref></term></term><term key="ocm:855"><ref type="context" target="info:fedora/context:siba.855">Child Care</ref><term type="broader" key="ocm:850"><ref type="context" target="info:fedora/context:siba.850">Infancy and Childhood</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1920-1940</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Portrait of a ten- to twelve-year-old child lying in a hospital bed. Only its shaved head and right hand on the sheet are visible, the rest of the body is covered by sheets and blankets. Two large cushions enable the child to look into the camera. The bed is situated under a window, in front of a radiator. A paper or magazine is spread across the bedside table on the right margin.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment"></ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date notBefore="1920" notAfter="1940"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4033.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.750">Sickness</ref><ref type="context" target="info:fedora/context:vase.ocm.758">Medical Care</ref><ref type="context" target="info:fedora/context:vase.ocm.750">Sickness</ref><ref type="context" target="info:fedora/context:vase.ocm.855">Child Care</ref><ref type="context" target="info:fedora/context:vase.ocm.850">Infancy and Childhood</ref></ab></div>
+    </back>
+  </text>
+</TEI>

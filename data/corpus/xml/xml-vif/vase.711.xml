@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Central Market Hall in Sofia</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.711</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Издателска къща "Минало"</orgName>
+          <orgName xml:lang="en">Publishing house "Minalo"</orgName>
+          <idno type="invNo">K-14</idno>
+          <ptr target="Publishing house &quot;Minalo&quot;" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:330">
+            <ref target="info:fedora/context:vase.330" type="context">Building and Construction</ref>
+          </term>
+          <term key="ocm:340">
+            <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+          </term>
+          <term key="ocm:360">
+            <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+          </term>
+          <term key="ocm:370">
+            <ref target="info:fedora/context:vase.370" type="context">Energy and Power</ref>
+          </term>
+          <term key="ocm:438">
+            <ref target="info:fedora/context:vase.438" type="context">Domestic Trade</ref>
+            <term key="ocm:430" type="broader">
+              <ref target="info:fedora/context:vase.430" type="context">Exchange</ref>
+            </term>
+          </term>
+          <term key="ocm:492">
+            <ref target="info:fedora/context:vase.492" type="context">Animal Transportation</ref>
+            <term key="ocm:490" type="broader">
+              <ref target="info:fedora/context:vase.490" type="context">Land Transport</ref>
+            </term>
+          </term>
+          <term key="ocm:493">
+            <ref target="info:fedora/context:vase.493" type="context">Vehicles</ref>
+            <term key="ocm:490" type="broader">
+              <ref target="info:fedora/context:vase.490" type="context">Land Transport</ref>
+            </term>
+          </term>
+          <term key="ocm:648">
+            <ref target="info:fedora/context:vase.648" type="context">International Relations</ref>
+            <term key="ocm:640" type="broader">
+              <ref target="info:fedora/context:vase.640" type="context">State</ref>
+            </term>
+          </term>
+          <term key="ocm:770">
+            <ref target="info:fedora/context:vase.770" type="context">Religious Beliefs</ref>
+          </term>
+          <term key="ocm:780">
+            <ref target="info:fedora/context:vase.780" type="context">Religious Practices</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Postcard</ab>   
+   <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1911 after</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Panorama photograph of a large one-storey building with the dome of a Synagogue visible behind it. There are people in rural and urban clothes in the streets outside the building. Many trucks are parked along the right side of the building. Title in Bulgarian and French.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The construction of the Central Market Hall, which spreads across an area of 3,200 m², started in 1909, based on the plans of architect Naum Torbov (selected in 1907). It was completed in 1911. The Sofia Synagogue was built for the Bulgarian capital's mainly Sephardic Jewish community. The planning architect was Austrian-born Friedrich Grünanger. The Synagoge resembles the old Moorish Leopoldstädter Temple in Vienna and was officially opened on 9 September 1909. Recto on the postcard: stamp with the name of the photographer. In the lower right corner: "Neubert" - probably the publisher.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">169</height>
+          <width unit="mm">225</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">156</height>
+          <width unit="mm">212</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1911" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+        <name type="publisher">Neubert</name>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.711-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

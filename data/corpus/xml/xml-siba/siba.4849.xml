@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Portrait of Alija M. Akšamija as an apprentice</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Mehmed A. Akšamija</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4849</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Alija M. Akšamija private collection, Sarajevo</orgName>
+          <name xml:lang="en" type="collection" />
+          <idno type="invNo">Not inventoried 2</idno>
+        </ab>
+        <ab type="copyright">Mehmed A. Akšamija</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:882"><ref type="context" target="info:fedora/context:siba.882">Status of Adolescents</ref><term type="broader" key="ocm:880"><ref type="context" target="info:fedora/context:siba.880">Adolescene, Adulthood, and Old Age</ref></term></term><term key="ocm:291"><ref type="context" target="info:fedora/context:siba.291">Normal Garb</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term><term key="ocm:870"><ref type="context" target="info:fedora/context:siba.870">Education</ref></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Carte de visite</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1938</date>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Vignette upper body portrait of Alija M. Akšamija in traditional Bosniak urban dress with a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=F4">fes</ref>.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">Studio portrait taken during Alija M. Akšamija's apprenticeship as a photographer in Sarajevo. Analogue photographic process, negative-positive.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="artefact"><height unit="mm">90</height><width unit="mm">140</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1938"></date>
+      <country type="contemporary">Bosnia and Herzegovina</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.814f17d1" type="context">Sarajevo</ref></placeName></ab>
+    <listBibl><bibl>Akšamija, Mehmed A. (2015): Alija M. Akšamija – Monografija arhivografije. Sarajevo: BANU. Vol. I, 15.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4849.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.882">Status of Adolescents</ref><ref type="context" target="info:fedora/context:vase.ocm.880">Adolescene, Adulthood, and Old Age</ref><ref type="context" target="info:fedora/context:vase.ocm.291">Normal Garb</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.870">Education</ref></ab></div>
+    </back>
+  </text>
+</TEI>

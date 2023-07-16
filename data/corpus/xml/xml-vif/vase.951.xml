@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of the Popov family</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.951</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национален Политехнически Музей</orgName>
+          <orgName xml:lang="en">National Polytechnic Museum</orgName>
+          <idno type="invNo">N.Sp.F. № 678</idno>
+          <ptr target="http://www.polytechnicmuseum.org/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:480">
+            <ref target="info:fedora/context:vase.480" type="context">Travel and Transportation</ref>
+          </term>
+          <term key="ocm:496">
+            <ref target="info:fedora/context:vase.496" type="context">Railways</ref>
+            <term key="ocm:490" type="broader">
+              <ref target="info:fedora/context:vase.490" type="context">Land Transport</ref>
+            </term>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:572">
+            <ref target="info:fedora/context:vase.572" type="context">Friendships</ref>
+            <term key="ocm:570" type="broader">
+              <ref target="info:fedora/context:vase.570" type="context">Interpersonal Relations</ref>
+            </term>
+          </term>
+          <term key="ocm:594">
+            <ref target="info:fedora/context:vase.594" type="context">Nuclear Family</ref>
+            <term key="ocm:590" type="broader">
+              <ref target="info:fedora/context:vase.590" type="context">Familiy</ref>
+            </term>
+          </term>
+          <term key="ocm:714">
+            <ref target="info:fedora/context:vase.714" type="context">Uniform and Accouterment</ref>
+            <term key="ocm:710" type="broader">
+              <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+            </term>
+          </term>
+          <term key="ocm:720">
+            <ref target="info:fedora/context:vase.720" type="context">War</ref>
+          </term>
+          <term key="ocm:850">
+            <ref target="info:fedora/context:vase.850" type="context">Infancy and Childhood</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1915-1919</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full length group picture of four people: A seated man wearing a military captain’s uniform is holding an infant on his lap. The child is wearing a white urban dress. Next to him, another child wearing a white urban dress and boots is sitting on a wooden table. A woman is standing behind them, resting her hands on the backrest of the chair and on table. A painted canvas backdrop is creating the illusion of the scene being set in a park.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Velichko Statev Popov (1875 - unknown) was a railway employee. Mobilized in the Balkan Wars and World War I, he reached the rank of captain in the railway section. In 1914 he married Rayna Popova, née Naydenova, a lawyer’s daughter. They have two children, a son and a daughter (Milka).</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">262</height>
+          <width unit="mm">160</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">192</height>
+          <width unit="mm">122</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1919" notBefore="1915" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.951-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.951-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Street scene featuring the Vijećnica and Bijela Tabija</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Mehmed A. Akšamija</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4881</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Alija M. Akšamija private collection, Sarajevo</orgName>
+          <name xml:lang="en" type="collection">Sarajevski ciklus 1938./39. – Panorame i vedute Sarajeva – Sarajevska vijećnica VI</name>
+          <idno type="invNo">A.M.A. N 47 39</idno>
+        </ab>
+        <ab type="copyright">Mehmed A. Akšamija</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1939</date>
+      <persName role="Photographer"><forename>Alija M.</forename><surname>Akšamija</surname><ref type="context" target="info:fedora/context:siba.pn.be7b6d09">Akšamija, Alija M.</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Street scene focussing on Apelov kej (Obala Kulina bana) in front of the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=V2">Vijećnica</ref>. The townhall façade fills the left half of the photograph, with the view opening in the direction of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B14">Bijela tabija</ref>. A tram is passing. People of both sexes are strolling by, mostly in European street wear, a few in traditional urban clothes. The lower right corner is filled by a woman in full <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=Z1">zar</ref>, who is closest to the camera.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">Analogue photographic process, negative-positive (Agfa Isopan 17 DIN). Original preserved as a negative, stored as a negative and a digital record.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="positive"><height unit="mm">240</height><width unit="mm">240</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1939"></date>
+      <country type="contemporary">Bosnia and Herzegovina</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.814f17d1" type="context">Sarajevo</ref><note>Vijećnica</note></placeName></ab>
+    <listBibl><bibl>Akšamija, Mehmed A. (2015): Alija M. Akšamija – Monografija arhivografije. Sarajevo: BANU. Vol. I, 95.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4881.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab /></div>
+    </back>
+  </text>
+</TEI>

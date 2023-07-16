@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Population census official at the door</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1071</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">NUFUS SAYIMI- NAMIK</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:594"><ref type="context" target="info:fedora/context:siba.594">Nuclear Family</ref><term type="broader" key="ocm:590"><ref type="context" target="info:fedora/context:siba.590">Familiy</ref></term></term><term key="ocm:624"><ref type="context" target="info:fedora/context:siba.624">Local Officials</ref><term type="broader" key="ocm:620"><ref type="context" target="info:fedora/context:siba.620">Community</ref></term></term><term key="ocm:659"><ref type="context" target="info:fedora/context:siba.659">Miscellaneous Government Activities</ref><term type="broader" key="ocm:650"><ref type="context" target="info:fedora/context:siba.650">Government Activities</ref></term></term><term key="ocm:160"><ref type="context" target="info:fedora/context:siba.160">Demography</ref></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1935-10-20</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">A smiling state official, neatly dressed in a rain coat and a white shirt and tie, is standing in front of a house taking notes. He is wearing a brassard with the letters ‘M M’ on his left upper arm. In the open door in the centre of the photograph, two young women, a girl and two boys are attentively watching the procedure, also smiling.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph depicts a state official registering the inhabitants of Istanbul. The letters ‘M M’ on his brassard stand for ‘sayım memuru’ (census official) and indicate that photograph was taken after the adoption of the Latin alphabet. Population censuses were carried out in 1930 and 1935 soon after this reform. Similar photographs were published in Akşam newspaper on 20 October 1935.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1935-10-20"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref></placeName></ab>
+    <listBibl><bibl>'Istanbulun en tenha ve en ıssız günü'. Akşam 6109, 20 October 1935, 1.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1071.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.594">Nuclear Family</ref><ref type="context" target="info:fedora/context:vase.ocm.590">Familiy</ref><ref type="context" target="info:fedora/context:vase.ocm.624">Local Officials</ref><ref type="context" target="info:fedora/context:vase.ocm.620">Community</ref><ref type="context" target="info:fedora/context:vase.ocm.659">Miscellaneous Government Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.650">Government Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.160">Demography</ref></ab></div>
+    </back>
+  </text>
+</TEI>

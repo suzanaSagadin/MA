@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Advertisement for the Turkish feature film ‘At avrat silah’</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>BACI – Balkan Cinema</edition>
+        <respStmt>
+          <name>Karl Kaser</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:baci.1217</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>TÜRVAK – Türker İnanoğlu Foundation</orgName>
+          <name type="collection" xml:lang="en">TÜRVAK</name>
+          <idno type="invNo">TÜRVAK 1</idno>
+          <ptr target="http://turvak.com" />
+        </ab>
+        <ab type="copyright">TÜRVAK – Türker İnanoğlu Foundation</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:546">
+            <ref target="info:fedora/context:baci.546" type="context">Motion Picture Industry</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:baci.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Poster</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1966 after</date>
+      </ab>
+      <ab type="lido:objectDescriptionSet">The poster features an illustration of a woman and a man with a gun in the foreground, and a man on a horse in the background. The name of production company ‘Yildiz Film’ appears in the top left corner. The name of director Yılmaz Güney is displayed on the top right. Below is the film title ‘At avrat silah’ (Horse, woman and gun). The column above the title gives the names of the leading actors.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Yılmaz Güney (1937–1984) and his work were almost entirely unknown outside his homeland Turkey until his escape from prison in 1981 and the ‘discovery’ of the film ‘Yol’ (The way) in the following year at the Cannes Film Festival based on his autobiographical screenplay. ‘At avrat silah’ was released in 1966.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1966" />
+        <country type="contemporary">unknown</country>
+        <country type="historical">Turkey</country>
+        <placeName xml:id="SID.1">
+          <ref target="info:fedora/context:baci.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+      <linkGrp type="relations">
+        <ptr target="baci.1238" />
+        <ptr target="baci.1239" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///baci.1217-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+      <div type="ocm-contexts">
+        <ab>
+          <ref target="info:fedora/context:vase.ocm.546" type="context">Motion Picture Industry</ref>
+          <ref target="info:fedora/context:vase.ocm.540" type="context">Commercialized Entertainment</ref>
+        </ab>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio shot of a Muslim woman in a sedan chair</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="BD">
+          <name>Barbara Derler</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.2752</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Österreichisches Museum für Volkskunde</orgName>
+          <orgName xml:lang="en">The Austrian Museum of Folk Life and Folk Art</orgName>
+          <idno type="invNo">ÖMV/pos/10744</idno>
+          <ptr target="http://www.volkskundemuseum.at/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:462">
+            <ref target="info:fedora/context:vase.462" type="context">Division of Labor by Gender</ref>
+            <term key="ocm:460" type="broader">
+              <ref target="info:fedora/context:vase.460" type="context">Labor</ref>
+            </term>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:562">
+            <ref target="info:fedora/context:vase.562" type="context">Gender Status</ref>
+            <term key="ocm:560" type="broader">
+              <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+            </term>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+          <term key="ocm:780">
+            <ref target="info:fedora/context:vase.780" type="context">Religious Practices</ref>
+          </term>
+          <term key="ocm:480">
+            <ref target="info:fedora/context:vase.480" type="context">Travel and Transportation</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bosnia and Herzegovina</country>
+                <settlement>Sarajevo</settlement>
+                <name ref="http://geonames.org/3191281" type="fcode:PPLC">Sarajevo</name>
+                <location>
+                  <geo>18.35644,43.84864</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#BD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Studio</roleName>
+        <date>1878-1892</date>
+        <persName>
+          <forename>Anton</forename>
+          <surname>Rickert</surname>
+          <ref target="info:fedora/context:vase.pn.4dcc66de" type="context">Rickert, Anton</ref>
+        </persName>
+        <persName>
+          <forename>Anton</forename>
+          <surname>Hoiger</surname>
+          <ref target="info:fedora/context:vase.pn.cfa7934" type="context">Hoiger, Anton</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">A fully veiled woman wearing a light-coloured robe (zar) is sitting in a sedan chair carried by two men in traditional clothes. Painted canvas backdrop.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Most probably produced for commercial use with models.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Cabinet</seg>
+        <dimensions type="artefact">
+          <height unit="mm">161</height>
+          <width unit="mm">107</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">135</height>
+          <width unit="mm">95</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1892" notBefore="1878" />
+        <country type="contemporary">Bosnia and Herzegovina</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.814f17d1" type="context">Sarajevo</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.2752-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2752-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

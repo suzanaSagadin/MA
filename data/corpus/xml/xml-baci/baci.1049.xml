@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Advertisement for the feature film ‘Na granice’</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>BACI – Balkan Cinema</edition>
+        <respStmt>
+          <name>Karl Kaser</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:baci.1049</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Jugoslovenska kinoteka</orgName>
+          <name type="collection" xml:lang="en">Fototeka</name>
+          <idno type="invNo">Commercial material 25</idno>
+          <ptr target="http://www.kinoteka.org.rs/wp/" />
+        </ab>
+        <ab type="copyright">Jugoslovenska kinoteka, Belgrade</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:546">
+            <ref target="info:fedora/context:baci.546" type="context">Motion Picture Industry</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:baci.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+          <term key="ocm:447">
+            <ref target="info:fedora/context:baci.447" type="context">Advertising</ref>
+            <term key="ocm:440" type="broader">
+              <ref target="info:fedora/context:baci.440" type="context">Marketing</ref>
+            </term>
+          </term>
+          <term key="ocm:726">
+            <ref target="info:fedora/context:baci.726" type="context">Warfare</ref>
+            <term key="ocm:720" type="broader">
+              <ref target="info:fedora/context:baci.720" type="context">War</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Leaflet</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1938 after</date>
+      </ab>
+      <ab type="lido:objectDescriptionSet">The leaflet features a frameless collage of three images. In the foreground, a Soviet soldier in uniform with the Soviet star on his cap gazes into the distance. Behind him on the left is a young couple on the fringes of a forest. The man is wearing a round dark cap and has a belt across his right shoulder; the woman is in a loose light-coloured blouse with polka dots and is wearing a necklace. They are gazing wide-eyed at something. Behind the soldier to the right is an Asian man with a moustache. He is wearing a round dark cap, different to that worn by the young man, and a wide dark coat. His mouth is half open and he appears to be looking at something to his left. The two lines printed across the lower section of the image announce the ‘Soviet film’, ‘At the frontier’ (in the Russian original: ‘На границе’) – in Serbo-Croatian, ‘Na granici’.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The graphic illustration is in the style of Socialist Realism – the only style of realistic art permitted in the Soviet Union at that time. The film was directed by Александр Иванов (Aleksandr Ivanov) and released in 1938.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1938" />
+        <country type="contemporary">unknown</country>
+        <country type="historical">Yugoslavia</country>
+        <placeName xml:id="SID.1">
+          <ref target="info:fedora/context:baci.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///baci.1049-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+      <div type="ocm-contexts">
+        <ab>
+          <ref target="info:fedora/context:vase.ocm.546" type="context">Motion Picture Industry</ref>
+          <ref target="info:fedora/context:vase.ocm.540" type="context">Commercialized Entertainment</ref>
+          <ref target="info:fedora/context:vase.ocm.447" type="context">Advertising</ref>
+          <ref target="info:fedora/context:vase.ocm.440" type="context">Marketing</ref>
+          <ref target="info:fedora/context:vase.ocm.726" type="context">Warfare</ref>
+          <ref target="info:fedora/context:vase.ocm.720" type="context">War</ref>
+        </ab>
+      </div>
+    </back>
+  </text>
+</TEI>

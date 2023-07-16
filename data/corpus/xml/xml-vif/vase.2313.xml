@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Portrait of a woman in a formal Christian costume from Herzegovina</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="BD">
+          <name>Barbara Derler</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.2313</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Historijski arhiv Sarajevo</orgName>
+          <orgName xml:lang="en">The Historical Archive of Sarajevo</orgName>
+          <idno type="invNo">ZF-1267</idno>
+          <ptr target="http://www.arhivsa.ba/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:562">
+            <ref target="info:fedora/context:vase.562" type="context">Gender Status</ref>
+            <term key="ocm:560" type="broader">
+              <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+            </term>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Hungary</country>
+                <settlement>Budapest</settlement>
+                <name ref="http://geonames.org/3054643" type="fcode:PPLC">Budapest</name>
+                <location>
+                  <geo>19.03991,47.49801</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#BD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1898</date>
+        <persName>
+          <forename>Bertalan</forename>
+          <surname>Vágó</surname>
+          <ref target="info:fedora/context:vase.pn.e92c53f4" type="context">Vágó, Bertalan</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Half-length shot of a woman wearing traditional Orthodox clothes adorned with a lot of jewelry.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The photographer was also the author of the photographs printed in the famous 'Kronprinzenwerk'. This specific picture was probably taken during a trip to Bosnia and Herzegovina. Reprint.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">152</height>
+          <width unit="mm">106</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1898" />
+        <country type="contemporary">Austria-Hungary</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.a5769f46" type="context">Budapest</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <linkGrp>
+        <ptr target="vase.2386" />
+      </linkGrp>
+      <certainty cert="medium" locus="value" target="placeName" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.2313-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

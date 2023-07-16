@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Inside the Girls' High School (Više djevojačke škole)</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="BD">
+          <name>Barbara Derler</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.2288</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Zemaljski Muzej Bosne i Hercegovine</orgName>
+          <orgName xml:lang="en">The National Museum of Bosnia and Herzegovina</orgName>
+          <idno type="invNo">Kutija 2: 2602</idno>
+          <ptr target="http://www.zemaljskimuzej.ba/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:252">
+            <ref target="info:fedora/context:vase.252" type="context">Food Preparation</ref>
+            <term key="ocm:250" type="broader">
+              <ref target="info:fedora/context:vase.250" type="context">Food Processing</ref>
+            </term>
+          </term>
+          <term key="ocm:292">
+            <ref target="info:fedora/context:vase.292" type="context">Special Garments</ref>
+            <term key="ocm:290" type="broader">
+              <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+            </term>
+          </term>
+          <term key="ocm:346">
+            <ref target="info:fedora/context:vase.346" type="context">Religious and Educational Structures</ref>
+            <term key="ocm:340" type="broader">
+              <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+            </term>
+          </term>
+          <term key="ocm:354">
+            <ref target="info:fedora/context:vase.354" type="context">Heating and Lighting Equipment</ref>
+            <term key="ocm:350" type="broader">
+              <ref target="info:fedora/context:vase.350" type="context">Equipment and Maintenance of BLDGS</ref>
+            </term>
+          </term>
+          <term key="ocm:353">
+            <ref target="info:fedora/context:vase.353" type="context">Building Interiors and Arrangement</ref>
+            <term key="ocm:350" type="broader">
+              <ref target="info:fedora/context:vase.350" type="context">Equipment and Maintenance of BLDGS</ref>
+            </term>
+          </term>
+          <term key="ocm:372">
+            <ref target="info:fedora/context:vase.372" type="context">Fire</ref>
+            <term key="ocm:370" type="broader">
+              <ref target="info:fedora/context:vase.370" type="context">Energy and Power</ref>
+            </term>
+          </term>
+          <term key="ocm:373">
+            <ref target="info:fedora/context:vase.373" type="context">Light</ref>
+            <term key="ocm:370" type="broader">
+              <ref target="info:fedora/context:vase.370" type="context">Energy and Power</ref>
+            </term>
+          </term>
+          <term key="ocm:416">
+            <ref target="info:fedora/context:vase.416" type="context">Appliances</ref>
+            <term key="ocm:410" type="broader">
+              <ref target="info:fedora/context:vase.410" type="context">Tools and Appliances</ref>
+            </term>
+          </term>
+          <term key="ocm:356">
+            <ref target="info:fedora/context:vase.356" type="context">Housekeeping</ref>
+            <term key="ocm:350" type="broader">
+              <ref target="info:fedora/context:vase.350" type="context">Equipment and Maintenance of BLDGS</ref>
+            </term>
+          </term>
+          <term key="ocm:462">
+            <ref target="info:fedora/context:vase.462" type="context">Division of Labor by Gender</ref>
+            <term key="ocm:460" type="broader">
+              <ref target="info:fedora/context:vase.460" type="context">Labor</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:562">
+            <ref target="info:fedora/context:vase.562" type="context">Gender Status</ref>
+            <term key="ocm:560" type="broader">
+              <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+            </term>
+          </term>
+          <term key="ocm:870">
+            <ref target="info:fedora/context:vase.870" type="context">Education</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bosnia and Herzegovina</country>
+                <settlement>Mostar</settlement>
+                <name ref="http://geonames.org/3194828" type="fcode:PPL">Mostar</name>
+                <location>
+                  <geo>17.80806,43.34333</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#BD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1902</date>
+        <persName>
+          <forename>František</forename>
+          <surname>Topič</surname>
+          <ref target="info:fedora/context:vase.pn.42ccfb20" type="context">Topič, František</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">A group of girls standing in the school's kitchen.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Positive print.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">153</height>
+          <width unit="mm">215</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1902" />
+        <country type="contemporary">Bosnia and Herzegovina</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.89b75f14" type="context">Mostar</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.2288-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

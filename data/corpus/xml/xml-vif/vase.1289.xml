@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of statesman Pavle Denić, a boy and a young man</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AD">
+          <name>Ana Djordjevic</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.1289</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Miloš Jurišić</orgName>
+          <orgName xml:lang="en">Miloš Jurišić</orgName>
+          <idno type="invNo">Pavle Denic ministar, drzavnik_0028</idno>
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:277">
+            <ref target="info:fedora/context:vase.277" type="context">Tobacco Industry</ref>
+            <term key="ocm:270" type="broader">
+              <ref target="info:fedora/context:vase.270" type="context">Drink, Drugs, and Indulgence</ref>
+            </term>
+          </term>
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:340">
+            <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+          </term>
+          <term key="ocm:450">
+            <ref target="info:fedora/context:vase.450" type="context">Finance</ref>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:630">
+            <ref target="info:fedora/context:vase.630" type="context">Territorial Organisation</ref>
+          </term>
+          <term key="ocm:640">
+            <ref target="info:fedora/context:vase.640" type="context">State</ref>
+          </term>
+          <term key="ocm:650">
+            <ref target="info:fedora/context:vase.650" type="context">Government Activities</ref>
+          </term>
+          <term key="ocm:660">
+            <ref target="info:fedora/context:vase.660" type="context">Political Behavior</ref>
+          </term>
+          <term key="ocm:700">
+            <ref target="info:fedora/context:vase.700" type="context">Armed Forces</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Serbia</country>
+                <settlement>Belgrade</settlement>
+                <name ref="http://geonames.org/792680" type="fcode:PPLC">Belgrade</name>
+                <location>
+                  <geo>20.46513,44.80401</geo>
+                </location>   
+           </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1896-1903</date>
+        <persName>
+          <forename>Milan</forename>
+          <surname>Jovanović</surname>
+          <ref target="info:fedora/context:vase.pn.4622c1ba" type="context">Jovanović, Milan</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full-length group portrait of three men. One of them is sitting on a chair in formal attire, holding a pair of gloves and a hat in his lap. Two younger men are standing behind him, one on the left, dressed in a dark coat, the other one on the right, depicted in profile and wearing an officer's uniform. He is also holding an officer's cap and a pair of gloves in his left hand. A painted canvas backdrop is creating the impression of the scene being set in a drawing room.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Pavle Denić was born in Belgrade in 1855 the son of Petar Denić and Katarina, née Beli-Marković, a descendant of the famous Baba-Dudić family, who had immigrated from Kosovo. In Belgrade he completed the Military Academy before obtaining a degree in engineering at the École Nationale des Ponts et Chaussées in Paris. He became a full professor of Geodesy at the Military Academy and performed numerous functions in the political and economic life of Serbia, such as Consul General in Skopje and Thessaloniki, Mayor of the City of Belgrade, head of the Belgrade district, director of the Tobacco factory, commissioner of the National Bank, etc. In 1902 and 1903 he also served as Minister of Internal Affairs and of Civil Engineering and as Deputy Minister of Foreign Affairs. In the 1890s there was a saying which roughly translates as: "The Karađorđević have pretensions to Serbia, the Obrenović reign over serbia, and the Baba-Dudić govern Serbia".</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Carte de visite</seg>
+        <dimensions type="artefact">
+          <height unit="mm">123</height>
+          <width unit="mm">62</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1903" notBefore="1896" />
+        <country type="contemporary">Serbia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.650f150e" type="context">Belgrade</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.1289-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.1289-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

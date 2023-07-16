@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Three men having a beer in a beer garden</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1137</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">BOMONTI BIRA BAHCESI - 25 MAYIS 1923</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:273"><ref type="context" target="info:fedora/context:siba.273">Alcoholic Beverages</ref><term type="broader" key="ocm:270"><ref type="context" target="info:fedora/context:siba.270">Drink, Drugs, and Indulgence</ref></term></term><term key="ocm:275"><ref type="context" target="info:fedora/context:siba.275">Drinking Establishments</ref><term type="broader" key="ocm:270"><ref type="context" target="info:fedora/context:siba.270">Drink, Drugs, and Indulgence</ref></term></term><term key="ocm:625"><ref type="context" target="info:fedora/context:siba.625">Police</ref><term type="broader" key="ocm:620"><ref type="context" target="info:fedora/context:siba.620">Community</ref></term></term><term key="ocm:291"><ref type="context" target="info:fedora/context:siba.291">Normal Garb</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term><term key="ocm:516"><ref type="context" target="info:fedora/context:siba.516">Postures</ref><term type="broader" key="ocm:510"><ref type="context" target="info:fedora/context:siba.510">Living Standards and Routines</ref></term></term><term key="ocm:517"><ref type="context" target="info:fedora/context:siba.517">Leisure Time Activities</ref><term type="broader" key="ocm:510"><ref type="context" target="info:fedora/context:siba.510">Living Standards and Routines</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1923-05-23</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Three men are sitting around a small round garden table in a beer garden. They all have a glass of beer in front of them and are looking towards the camera. The man on the right, in a suit and <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=F4">fes</ref> and somewhat older than the others, is sitting comfortably on a lawn chair with his hand resting on his walking stick. The man to the left has placed his uniform cap on the chair next to him and poses impeccably. The man sitting in the middle is in a suit and tie and has his arms crossed in front of him.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment"></ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1923-05-23"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1138" /><ptr target="siba.1139" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1137.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.273">Alcoholic Beverages</ref><ref type="context" target="info:fedora/context:vase.ocm.270">Drink, Drugs, and Indulgence</ref><ref type="context" target="info:fedora/context:vase.ocm.275">Drinking Establishments</ref><ref type="context" target="info:fedora/context:vase.ocm.270">Drink, Drugs, and Indulgence</ref><ref type="context" target="info:fedora/context:vase.ocm.625">Police</ref><ref type="context" target="info:fedora/context:vase.ocm.620">Community</ref><ref type="context" target="info:fedora/context:vase.ocm.291">Normal Garb</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.516">Postures</ref><ref type="context" target="info:fedora/context:vase.ocm.510">Living Standards and Routines</ref><ref type="context" target="info:fedora/context:vase.ocm.517">Leisure Time Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.510">Living Standards and Routines</ref></ab></div>
+    </back>
+  </text>
+</TEI>

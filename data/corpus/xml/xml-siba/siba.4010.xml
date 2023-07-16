@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Belgrade Hunters’ Association</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4010</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0010</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:224"><ref type="context" target="info:fedora/context:siba.224">Hunting and Trapping</ref><term type="broader" key="ocm:220"><ref type="context" target="info:fedora/context:siba.220">Food Quest</ref></term></term><term key="ocm:291"><ref type="context" target="info:fedora/context:siba.291">Normal Garb</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term><term key="ocm:353"><ref type="context" target="info:fedora/context:siba.353">Building Interiors and Arrangement</ref><term type="broader" key="ocm:350"><ref type="context" target="info:fedora/context:siba.350">Equipment and Maintenance of BLDGS</ref></term></term><term key="ocm:624"><ref type="context" target="info:fedora/context:siba.624">Local Officials</ref><term type="broader" key="ocm:620"><ref type="context" target="info:fedora/context:siba.620">Community</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1920-1940</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Indoor shot of nine men, most with moustaches, in formal suits and sitting around a long rectangular table in the corner of a room, looking into the camera. The table is covered with a white cloth – on top are several small glasses with toothpicks, writing utensils and a hat. The wall is covered with floral wallpaper and features a large sign with the words 'Beogradsko savezno lovačko udruženje' (United Belgrade Hunters’ Association) and an emblem. Beneath the sign, a coatrack holds two more hats and a coat. To its left, a mirror reveals the reflection of a stuffed wild boar's head, deer antlers and other objects hanging on the wall.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The Belgrade Hunters’ Association was founded in 1895, first as a club, and a few years later as a formal association.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date notBefore="1920" notAfter="1940"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.4062" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4010.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.224">Hunting and Trapping</ref><ref type="context" target="info:fedora/context:vase.ocm.220">Food Quest</ref><ref type="context" target="info:fedora/context:vase.ocm.291">Normal Garb</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.353">Building Interiors and Arrangement</ref><ref type="context" target="info:fedora/context:vase.ocm.350">Equipment and Maintenance of BLDGS</ref><ref type="context" target="info:fedora/context:vase.ocm.624">Local Officials</ref><ref type="context" target="info:fedora/context:vase.ocm.620">Community</ref></ab></div>
+    </back>
+  </text>
+</TEI>

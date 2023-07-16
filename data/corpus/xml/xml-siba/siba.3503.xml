@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Selahattin Giz in Galata</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.3503</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Yapı Kredi tarih arşivi, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Selahattin Giz</name>
+          <idno type="invNo">5/0852A</idno>
+        </ab>
+        <ab type="copyright">Yapı Kredi bank</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:204"><ref type="context" target="info:fedora/context:siba.204">Press</ref><term type="broader" key="ocm:200"><ref type="context" target="info:fedora/context:siba.200">Communication</ref></term></term><term key="ocm:215"><ref type="context" target="info:fedora/context:siba.215">Photography</ref><term type="broader" key="ocm:210"><ref type="context" target="info:fedora/context:siba.210">Records</ref></term></term><term key="ocm:461"><ref type="context" target="info:fedora/context:siba.461">Labor and Leisure</ref><term type="broader" key="ocm:460"><ref type="context" target="info:fedora/context:siba.460">Labor</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1935-1945</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Close-up of two men walking up a narrow alley. They have their jackets folded over their arms. The man to the left is holding a hat in his hand.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The man to the right is Cumhuriyet photographer Selahattin Giz.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1935" notAfter="1945"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Galata</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.3502" /><ptr target="siba.1241" /><ptr target="siba.3037" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.3503.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.204">Press</ref><ref type="context" target="info:fedora/context:vase.ocm.200">Communication</ref><ref type="context" target="info:fedora/context:vase.ocm.215">Photography</ref><ref type="context" target="info:fedora/context:vase.ocm.210">Records</ref><ref type="context" target="info:fedora/context:vase.ocm.461">Labor and Leisure</ref><ref type="context" target="info:fedora/context:vase.ocm.460">Labor</ref></ab></div>
+    </back>
+  </text>
+</TEI>

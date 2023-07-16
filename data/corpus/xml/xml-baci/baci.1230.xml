@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Poster advertising the Turkish feature film ‘Istanbul sokaklarinda’</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>BACI – Balkan Cinema</edition>
+        <respStmt>
+          <name>Karl Kaser</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:baci.1230</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>TÜRVAK – Türker İnanoğlu Foundation</orgName>
+          <name type="collection" xml:lang="en">TÜRVAK</name>
+          <idno type="invNo">TÜRVAK 14</idno>
+          <ptr target="http://turvak.com" />
+        </ab>
+        <ab type="copyright">TÜRVAK – Türker İnanoğlu Foundation</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:546">
+            <ref target="info:fedora/context:baci.546" type="context">Motion Picture Industry</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:baci.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Poster</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1931 after</date>
+      </ab>
+      <ab type="lido:objectDescriptionSet">The poster features two abstract figures. One appears to be playing an accordion, the other is holding out his hand like a beggar. The film title is printed above and below.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The feature ‘Istanbul sokaklarinda’ (In the streets of Istanbul) was a sound film – a Turkish-Egyptian-Greek co-production – released in 1931. It was directed by Muhsin Ertuğrul.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1931" />
+        <country type="contemporary">unknown</country>
+        <country type="historical">Turkey</country>
+        <placeName xml:id="SID.1">
+          <ref target="info:fedora/context:baci.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+      <linkGrp type="relations">
+        <ptr target="baci.1218" />
+        <ptr target="baci.1219" />
+        <ptr target="baci.1220" />
+        <ptr target="baci.1234" />
+        <ptr target="baci.1232" />
+        <ptr target="baci.1228" />
+        <ptr target="baci.1229" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///baci.1230-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+      <div type="ocm-contexts">
+        <ab>
+          <ref target="info:fedora/context:vase.ocm.546" type="context">Motion Picture Industry</ref>
+          <ref target="info:fedora/context:vase.ocm.540" type="context">Commercialized Entertainment</ref>
+        </ab>
+      </div>
+    </back>
+  </text>
+</TEI>

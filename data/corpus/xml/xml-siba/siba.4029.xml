@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Officers' Club building</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4029</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba.vlada</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:341"><ref type="context" target="info:fedora/context:siba.341">Architecture</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:363"><ref type="context" target="info:fedora/context:siba.363">Streets and Traffic</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term><term key="ocm:186"><ref type="context" target="info:fedora/context:siba.186">Cultural Identity and Pride</ref><term type="broader" key="ocm:180"><ref type="context" target="info:fedora/context:siba.180">Total Culture</ref></term></term><term key="ocm:347"><ref type="context" target="info:fedora/context:siba.347">Business Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1920-1940</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">View of the Officers’ Club at the corner of Resava and Masarik streets. The building features large windows and a cupola with the inscription 'Oficirska Zadruga'. The scene in front includes an open cabriolet with a driver and an elegantly dressed couple in the rear, entering from the right. The car is about to pass an open carriage coming from the direction of the Officers’ Club. In the back of the latter is a young man or boy, who seems to be elegantly dressed in a suit and is reading a book or a newspaper. Several cars are parked in a row along Resava Street.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The building was designed by Svetozar Jovanović, a very young architect at that time, in cooperation with Danilo Vladisavljević and Vladimir Popović, and completed by 1908. The young man in the back of the carriage has dark skin and seems to be of African descent.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date notBefore="1920" notAfter="1940"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Resavska ulica</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.4199" /></linkGrp><listBibl><bibl>Djurić-Zamolo, Divna (2009): Graditelji Beograda 1815-1914. Beograd: Muzej grada Beograda, 192.</bibl><bibl> Vujović, Branko (1994): Beograd u prošlosti i sadašnjosti. Beograd: Draganić, 247.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4029.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.341">Architecture</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.363">Streets and Traffic</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref><ref type="context" target="info:fedora/context:vase.ocm.186">Cultural Identity and Pride</ref><ref type="context" target="info:fedora/context:vase.ocm.180">Total Culture</ref><ref type="context" target="info:fedora/context:vase.ocm.347">Business Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref></ab></div>
+    </back>
+  </text>
+</TEI>

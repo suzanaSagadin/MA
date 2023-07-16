@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>View of Kalemegdan Park</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4795</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej primenjene umetnosti, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Aca Simić</name>
+          <idno type="invNo">N 21582</idno>
+        <ptr target="http://mpu.rs" /></ab>
+        <ab type="copyright">The Museum of Applied Art</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:103"><ref type="context" target="info:fedora/context:siba.103">Place Names</ref><term type="broader" key="ocm:100"><ref type="context" target="info:fedora/context:siba.100">Orientation</ref></term></term><term key="ocm:349"><ref type="context" target="info:fedora/context:siba.349">Miscellaneous Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:367"><ref type="context" target="info:fedora/context:siba.367">Parks</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>Unknown</date>
+      <persName role="Press Photographer Politika"><forename>Aleksandar-Aca</forename><surname>Simić</surname><ref type="context" target="info:fedora/context:siba.pn.9c67532d">Simić, Aleksandar-Aca</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">View from the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K3">Kalemegdan</ref> fort over the newly opened park. The cathedral <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=S1">Saborna crkva</ref> can be seen in the background.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">French comment on the back, and signature "Snimak: A. Simić"</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="positive"><height unit="mm">125</height><width unit="mm">176</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date>Unknown</date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4795.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.103">Place Names</ref><ref type="context" target="info:fedora/context:vase.ocm.100">Orientation</ref><ref type="context" target="info:fedora/context:vase.ocm.349">Miscellaneous Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.367">Parks</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref></ab></div>
+    </back>
+  </text>
+</TEI>

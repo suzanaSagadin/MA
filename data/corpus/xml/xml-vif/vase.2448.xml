@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Unveiling of the memorial stone on the occasion of the assassination of Franz Ferdinand and his wife Sophie</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="BD">
+          <name>Barbara Derler</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.2448</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej Sarajeva</orgName>
+          <orgName xml:lang="en">Museum of City of Sarajevo</orgName>
+          <idno type="invNo">1782</idno>
+          <ptr target="http://muzejsarajeva.ba/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:659">
+            <ref target="info:fedora/context:vase.659" type="context">Miscellaneous Government Activities</ref>
+            <term key="ocm:650" type="broader">
+              <ref target="info:fedora/context:vase.650" type="context">Government Activities</ref>
+            </term>
+          </term>
+          <term key="ocm:700">
+            <ref target="info:fedora/context:vase.700" type="context">Armed Forces</ref>
+          </term>
+          <term key="ocm:769">
+            <ref target="info:fedora/context:vase.769" type="context">Cult of the Dead</ref>
+            <term key="ocm:760" type="broader">
+              <ref target="info:fedora/context:vase.760" type="context">Death</ref>
+            </term>
+          </term>
+          <term key="ocm:790">
+            <ref target="info:fedora/context:vase.790" type="context">Ecclesiatical Organization</ref>
+          </term>
+          <term key="ocm:349">
+            <ref target="info:fedora/context:vase.349" type="context">Miscellaneous Structures</ref>
+            <term key="ocm:340" type="broader">
+              <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bosnia and Herzegovina</country>
+                <settlement>Sarajevo</settlement>
+                <name ref="http://geonames.org/3191281" type="fcode:PPLC">Sarajevo</name>
+                <location>
+                  <geo>18.35644,43.84864</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#BD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1917</date>
+        <persName>
+          <surname>Unknown</surname>
+          <ref target="info:fedora/context:vase.pn.unknown" type="context">unknown</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Clerics standing next to the monument at the Latin bridge. Crowds are lining a street in which men in military uniforms are gathered.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The monument was built in 1917 and removed in 1918.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Reprint</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">130</height>
+          <width unit="mm">180</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1917" />
+        <country type="contemporary">Bosnia and Herzegovina</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.814f17d1" type="context">Sarajevo</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.2448-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2448-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

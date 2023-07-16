@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+Pillow
+torch
+torchvision
+tqdm
+logging
+shutil
+datetime
+os
+time
+cv2
+detectron2
+

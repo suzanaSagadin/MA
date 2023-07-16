@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>"Bosnien-Hercegovina"</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="BD">
+          <name>Barbara Derler</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.2144</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Historijski arhiv Sarajevo</orgName>
+          <orgName xml:lang="en">The Historical Archive of Sarajevo</orgName>
+          <idno type="invNo">ZF-VIII_922-969</idno>
+          <ptr target="http://www.arhivsa.ba/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:280">
+            <ref target="info:fedora/context:vase.280" type="context">Leather, Textiles, and Fabrics</ref>
+          </term>
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <name ref="http://geonames.org/6204277" type="fcode:LK">Lake Unknown</name>
+                <location>
+                  <geo>168.27006,-44.62835</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#BD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Postcard</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1897-1918</date>
+        <persName>
+          <surname>Unknown</surname>
+          <ref target="info:fedora/context:vase.pn.unknown" type="context">unknown</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Album with 19 colour-postcards picturing women and men in traditional clothes.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet" />
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">124</height>
+          <width unit="mm">181</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1918" notBefore="1897" />
+        <country type="contemporary">Bosnia and Herzegovina</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.3.jpg" xml:id="IMAGE.3" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.4.jpg" xml:id="IMAGE.4" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.5.jpg" xml:id="IMAGE.5" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.6.jpg" xml:id="IMAGE.6" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.7.jpg" xml:id="IMAGE.7" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.8.jpg" xml:id="IMAGE.8" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.9.jpg" xml:id="IMAGE.9" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.10.jpg" xml:id="IMAGE.10" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.11.jpg" xml:id="IMAGE.11" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.12.jpg" xml:id="IMAGE.12" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.13.jpg" xml:id="IMAGE.13" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.14.jpg" xml:id="IMAGE.14" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.15.jpg" xml:id="IMAGE.15" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.16.jpg" xml:id="IMAGE.16" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.17.jpg" xml:id="IMAGE.17" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.18.jpg" xml:id="IMAGE.18" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2144-IMAGE.19.jpg" xml:id="IMAGE.19" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

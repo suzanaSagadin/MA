@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chatting plea writers near Hagia Sophia</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1108</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">ARZUHALCI - AYASOFYA - SULTANAHMET</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:460"><ref type="context" target="info:fedora/context:siba.460">Labor</ref></term><term key="ocm:670"><ref type="context" target="info:fedora/context:siba.670">Law</ref></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1925-1930</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Two men with hats and moustaches are sitting casually in the sun at a small table on a sidewalk near Hagia Sophia. On the table, a set of writing utensils is laid out. The sidewalk opens onto a broad road paved with cobblestones. The other side of the road is lined with trees. The sidewalk behind the trees is frequented by pedestrians and lined by a wall belonging to an imposing historical edifice.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The two men are plea writers (arzuhalci) in the Hagia Sophia area, probably before the introduction of the Latin alphabet, since soon afterwards most plea writers began to use the typewriter.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1925" notAfter="1930"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Hagia Sophia</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1109" /><ptr target="siba.1110" /><ptr target="siba.1288" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1108.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.460">Labor</ref><ref type="context" target="info:fedora/context:vase.ocm.670">Law</ref></ab></div>
+    </back>
+  </text>
+</TEI>

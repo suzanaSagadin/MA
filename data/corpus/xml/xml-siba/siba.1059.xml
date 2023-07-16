@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sailing boats on the Bosphorus near Akıntıburnu</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1059</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">AKINTIBURNU- YELKENLI- BOGAZ- NGTF</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:501"><ref type="context" target="info:fedora/context:siba.501">Boats</ref><term type="broader" key="ocm:500"><ref type="context" target="info:fedora/context:siba.500">Water, Air, and Space Transportation</ref></term></term><term key="ocm:480"><ref type="context" target="info:fedora/context:siba.480">Travel and Transportation</ref></term><term key="ocm:349"><ref type="context" target="info:fedora/context:siba.349">Miscellaneous Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1925 after</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">View of the Bosphorus from the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=A3">Akıntıburnu</ref> quay in the direction of the historical fortress of Rumeli Hisarı and beyond. The view is divided by a prominent pylon on the right margin and several wires stretching across the upper half of the picture, standing out against the sky. On the water, two sailing boats – one with full sails at the centre of the image, the other in the foreground – approach the quay. Two men are working on the boat in the foreground: one is handling a long pole at the bow, the other is occupied with the near the stern. Squatting against a pylon at the quay, a third man in a raincoat is looking towards the approaching boat. The silhouette of Rumeli Hisarı stands out against the sky on the left margin of the picture.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">Sailing boats were used to transport goods on the Bosphorus.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1925"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Akıntıburnu, Beşiktaş</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1058" /><ptr target="siba.1060" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1059.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.501">Boats</ref><ref type="context" target="info:fedora/context:vase.ocm.500">Water, Air, and Space Transportation</ref><ref type="context" target="info:fedora/context:vase.ocm.480">Travel and Transportation</ref><ref type="context" target="info:fedora/context:vase.ocm.349">Miscellaneous Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref></ab></div>
+    </back>
+  </text>
+</TEI>

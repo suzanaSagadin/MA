@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Todor Kozhuharov</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.431</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национална Библиотека "Св. св. Кирил и Методий"</orgName>
+          <orgName xml:lang="en">St. Cyril and St. Methodius National Library</orgName>
+          <idno type="invNo">С І 20</idno>
+          <ptr target="http://www.nationallibrary.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:206">
+            <ref target="info:fedora/context:vase.206" type="context">Telephone and Telegraph</ref>
+            <term key="ocm:200" type="broader">
+              <ref target="info:fedora/context:vase.200" type="context">Communication</ref>
+            </term>
+          </term>
+          <term key="ocm:397">
+            <ref target="info:fedora/context:vase.397" type="context">Railway Equipment Industry</ref>
+            <term key="ocm:390" type="broader">
+              <ref target="info:fedora/context:vase.390" type="context">Captial Goods Industries</ref>
+            </term>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:480">
+            <ref target="info:fedora/context:vase.480" type="context">Travel and Transportation</ref>
+          </term>
+          <term key="ocm:714">
+            <ref target="info:fedora/context:vase.714" type="context">Uniform and Accouterment</ref>
+            <term key="ocm:710" type="broader">
+              <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+            </term>
+          </term>
+          <term key="ocm:640">
+            <ref target="info:fedora/context:vase.640" type="context">State</ref>
+          </term>
+          <term key="ocm:680">
+            <ref target="info:fedora/context:vase.680" type="context">Offenses and Sanctions</ref>
+          </term>
+          <term key="ocm:690">
+            <ref target="info:fedora/context:vase.690" type="context">Justice</ref>
+          </term>
+          <term key="ocm:670">
+            <ref target="info:fedora/context:vase.670" type="context">Law</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <name ref="http://geonames.org/6204277" type="fcode:LK">Lake Unknown</name>
+                <location>
+                  <geo>168.27006,-44.62835</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1930-1944</date>
+        <persName>
+          <forename>Bogdan Dimitrov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.70dd88ab" type="context">Karastoyanov, Bogdan Dimitrov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Outdoor photograph of a man in military uniform, standing next to a train.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Todor Pavlov Kozhuharov (1891 - 1945) was a Bulgarian publicist and politician, Minister of Information and Minister of Railway, Postal- and Telegraphic Services (1935 - 1936). He was sentenced to death by a "People's Tribunal" (Naroden sad) in 1945 and executed. He was rehabilitated in 1996.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">86</height>
+          <width unit="mm">137</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">81</height>
+          <width unit="mm">132</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1944" notBefore="1930" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.431-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.431-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

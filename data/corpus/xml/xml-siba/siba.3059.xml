@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sabre-swinging mounted police surrounded by protesters, Taksim Square 1933</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.3059</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Yapı Kredi tarih arşivi, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Selahattin Giz</name>
+          <idno type="invNo">3/0182F</idno>
+        </ab>
+        <ab type="copyright">Yapı Kredi bank</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:579"><ref type="context" target="info:fedora/context:siba.579">Brawls, Riots and Banditry</ref><term type="broader" key="ocm:570"><ref type="context" target="info:fedora/context:siba.570">Interpersonal Relations</ref></term></term><term key="ocm:625"><ref type="context" target="info:fedora/context:siba.625">Police</ref><term type="broader" key="ocm:620"><ref type="context" target="info:fedora/context:siba.620">Community</ref></term></term><term key="ocm:668"><ref type="context" target="info:fedora/context:siba.668">Political Movements</ref><term type="broader" key="ocm:660"><ref type="context" target="info:fedora/context:siba.660">Political Behavior</ref></term></term><term key="ocm:700"><ref type="context" target="info:fedora/context:siba.700">Armed Forces</ref></term><term key="ocm:208"><ref type="context" target="info:fedora/context:siba.208">Public Opinion</ref><term type="broader" key="ocm:200"><ref type="context" target="info:fedora/context:siba.200">Communication</ref></term></term><term key="ocm:186"><ref type="context" target="info:fedora/context:siba.186">Cultural Identity and Pride</ref><term type="broader" key="ocm:180"><ref type="context" target="info:fedora/context:siba.180">Total Culture</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1933-02-25</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref></persName><persName role="Press Photographer"><forename>Selahattin </forename><surname>Giz</surname><ref type="context" target="info:fedora/context:siba.pn.dce0efc3">Giz, Selahattin </ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">A group of mounted police officers is surrounded by a crowd of protesting young men on <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=T2">Taksim</ref> Square. One of the officers has raised his sabre and is moving towards a protester. In the background, the picture is framed by a wall and trees. More spectators and protesters are standing in a line in front of the wall.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">Some of the protesters are backing down, shrugging their shoulders. The policemen are trying to control the situation despite their obviously nervous horses. The picture was taken during the so-called ‘Wagon-Lits incident’ (vagon-li olayı) on 25 February 1933. This first large-scale student protest of the 1930s was sparked when newspapers reported that an employee called Naci Bey had been fined and dismissed from work for speaking Turkish (and not French) on the telephone during business hours.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1933-02-25"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Taksim</note></placeName></ab>
+    <listBibl><bibl>Vagon Li şirketinde Çirkin bir hadise. Cumhuriyet, 24 February 1933, 2.</bibl></listBibl><linkGrp type="series"><ptr target="siba.3058" /><ptr target="siba.3271" /><ptr target="siba.3064" /><ptr target="siba.3270" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.3059.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.579">Brawls, Riots and Banditry</ref><ref type="context" target="info:fedora/context:vase.ocm.570">Interpersonal Relations</ref><ref type="context" target="info:fedora/context:vase.ocm.625">Police</ref><ref type="context" target="info:fedora/context:vase.ocm.620">Community</ref><ref type="context" target="info:fedora/context:vase.ocm.668">Political Movements</ref><ref type="context" target="info:fedora/context:vase.ocm.660">Political Behavior</ref><ref type="context" target="info:fedora/context:vase.ocm.700">Armed Forces</ref><ref type="context" target="info:fedora/context:vase.ocm.208">Public Opinion</ref><ref type="context" target="info:fedora/context:vase.ocm.200">Communication</ref><ref type="context" target="info:fedora/context:vase.ocm.186">Cultural Identity and Pride</ref><ref type="context" target="info:fedora/context:vase.ocm.180">Total Culture</ref></ab></div>
+    </back>
+  </text>
+</TEI>

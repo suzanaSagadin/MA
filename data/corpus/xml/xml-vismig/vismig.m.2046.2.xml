@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="motivtitle">Man in suite and coat</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>Picturing Migrants Lives - Jovan Ritopečki’s photographic documentation of Yugoslav labour migration in Austria (1970–89)</edition>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="VB">
+                  <forename>Vida</forename>
+                  <surname>Bakondy</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="DS">
+                  <forename>Darko</forename>
+                  <surname>Stojanov-Leitner</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="MS">
+                  <forename>Martina</forename>
+                  <surname>Scholger</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="SS">
+                  <forename>Suzana</forename>
+                  <surname>Sagadin</surname>
+               </persName>
+            </respStmt>
+            <!--Vida fragen, ob es so passt-->
+            <funder>
+               <orgName ref="https://www.fwf.ac.at/">Fonds zur Förderung wissenschaftlicher Forschung</orgName>
+               <num>FWF T 1083-G</num>
+            </funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><!--Mit Vida besprechen-->
+               <ref target="https://www.oeaw.ac.at"/>
+               <orgName ref="http://d-nb.info/gnd/1001454-8">Austrian Academy of Sciences</orgName>
+            </publisher>
+            <authority>
+               <ref target="https://informationsmodellierung.uni-graz.at"/>
+               <orgName ref="http://d-nb.info/gnd/1137284463">Institute Centre for Information Modelling - Austrian Centre for Digital Humanities</orgName>
+            </authority>
+            <distributor>
+               <ref target="https://gams.uni-graz.at"/>
+               <orgName>GAMS - Humanities’ Asset Management System</orgName>
+            </distributor>
+            <availability><!--Mit Vida reden-->
+               <licence n="text" target="https://creativecommons.org/licenses/by/4.0">Creative Commons BY 4.0</licence>
+               <licence n="facsimile"
+                        target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</licence>
+            </availability>
+            <date ana="dcterms:issued" when="2023">2023</date>
+            <pubPlace>Graz, Austria</pubPlace>
+            <idno type="PID">o:vismig.m.2046.2</idno>
+            <ref target="context:vismig.s.2046" type="context" subtype="Series">Hämmerle Textile - Dornbirn</ref>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="series_description">The series documents the working procedures and conditions in a textile factory in Dornbirn</ab>
+            <ab type="copyright">NL Jovan Ritopečki</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="context:vismig" type="context">vismig</ref>
+               <!--Projektbeschreibung-->
+            </p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <persName role="Photographer">
+               <forename>Jovan</forename>
+               <surname>Ritopečki</surname>
+               <ref target="context:vismig.pn.ritopecki" type="context">Ritopečki, Jovan</ref>
+            </persName>
+            <date ana="dcterms:created" type="creation" when="1973">1973</date>
+            <country type="contemporary">Austria</country>
+            <placeName>
+               <ref target="context:vismig.gn.dornbirn.vorarlberg" type="context">Dornbirn (Vorarlberg)</ref>
+            </placeName>
+         </creation>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         <textClass>
+            <keywords resp="VB">
+               <term key="S002">
+                  <ref target="context:vismig.vb.s002" type="context">Arbeit</ref>
+               </term>
+               <term key="S018">
+                  <ref target="context:vismig.vb.s018" type="context">Männer</ref>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="1"
+                  url="../img/2046_img26.jpg"
+                  xml:id="IMAGE.1"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <listObject>
+            <object type="motiv" xml:id="m.2046.2">
+               <objectIdentifier>
+                  <idno type="invNo"/>
+               </objectIdentifier>
+               <objectContents>
+                  <ab type="description">A man is standing behind a vagonette filled with boxes and is smiling to the camera. He wears a work coat, but beneath there is a full suite with a tie. In the background, there is plenty of work material and neon lights.</ab>
+               </objectContents>
+               <physDesc>
+                  <objectDesc>
+                     <p>Motiv beinhaltet TODO Fotos und gehört zur Serie TODO.</p>
+                  </objectDesc>
+               </physDesc>
+               <object type="image" facs="#IMAGE.1">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2046.2/IMAGE.1</idno>
+                  </objectIdentifier>
+               </object>
+            </object>
+         </listObject>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Trabant on a road</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.772</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Личен Архив Биляна Брайкова Карастоянова</orgName>
+          <orgName xml:lang="en">Bilyana Braykova Karastoyanova</orgName>
+          <idno type="invNo">BK_050</idno>
+          <ptr target="Personal Archive of Bilyana Braykova Karastoyanova" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:363">
+            <ref target="info:fedora/context:vase.363" type="context">Streets and Traffic</ref>
+            <term key="ocm:360" type="broader">
+              <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+            </term>
+          </term>
+          <term key="ocm:493">
+            <ref target="info:fedora/context:vase.493" type="context">Vehicles</ref>
+            <term key="ocm:490" type="broader">
+              <ref target="info:fedora/context:vase.490" type="context">Land Transport</ref>
+            </term>
+          </term>
+          <term key="ocm:511">
+            <ref target="info:fedora/context:vase.511" type="context">Standard of Living</ref>
+            <term key="ocm:510" type="broader">
+              <ref target="info:fedora/context:vase.510" type="context">Living Standards and Routines</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Chernomorets</settlement>
+                <name ref="http://geonames.org/732519" type="fcode:PPL">Chernomorets</name>
+                <location>
+                  <geo>27.63834,42.44589</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>2007</date>
+        <persName>
+          <forename>Bilyana Braykova</forename>
+          <surname>Karastoyanova</surname>
+          <ref target="info:fedora/context:vase.pn.942b2314" type="context">Karastoyanova, Bilyana Braykova</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Photograph of a car parked in the countryside.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The Trabant was a car produced by former East German car manufacturer VEB Sachsenring Automobilwerke Zwickau in Zwickau, Sachsen. It was the most common vehicle in East Germany and was also exported to countries both inside and outside the Eastern bloc.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date when="2007" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.3ac0b787" type="context">Chernomorets</ref>
+        </placeName>
+      </ab> 
+     <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.772-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lumberjacks in a winter landscape</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4066</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0132</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:322"><ref type="context" target="info:fedora/context:siba.322">Woodworking</ref><term type="broader" key="ocm:320"><ref type="context" target="info:fedora/context:siba.320">Processing of Basic Materials</ref></term></term><term key="ocm:463"><ref type="context" target="info:fedora/context:siba.463">Occupational Specialization</ref><term type="broader" key="ocm:460"><ref type="context" target="info:fedora/context:siba.460">Labor</ref></term></term><term key="ocm:132"><ref type="context" target="info:fedora/context:siba.132">Climate</ref><term type="broader" key="ocm:130"><ref type="context" target="info:fedora/context:siba.130">Geography</ref></term></term><term key="ocm:554"><ref type="context" target="info:fedora/context:siba.554">Status, Role, and Prestige</ref><term type="broader" key="ocm:550"><ref type="context" target="info:fedora/context:siba.550">Individuation and Mobility</ref></term></term><term key="ocm:369"><ref type="context" target="info:fedora/context:siba.369">Urban and Rural Life</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1920-1940</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Six men and a boy pose in front of a woodcutters' yard on a snowy day. Five of the men are dressed in peasant clothing, with hoods on their heads and <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=O1">opanci</ref> on their feet. The man in the centre wears a flat cap and shoes, though he is presenting his saw just like the others. The man on the left is holding up an axe as if to chop off his neighbour's head, laughing. The others are laughing or smiling, too. The boy on the far right is dressed in city clothes. In the background, an older man in a hat, coat and with a grey moustache is waiting and smiling.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">Testeraši' were day labourers who came to work in the towns during the autumn and winter period. The boy probably belongs to the older man waiting in the background.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date notBefore="1920" notAfter="1940"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4066.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.322">Woodworking</ref><ref type="context" target="info:fedora/context:vase.ocm.320">Processing of Basic Materials</ref><ref type="context" target="info:fedora/context:vase.ocm.463">Occupational Specialization</ref><ref type="context" target="info:fedora/context:vase.ocm.460">Labor</ref><ref type="context" target="info:fedora/context:vase.ocm.132">Climate</ref><ref type="context" target="info:fedora/context:vase.ocm.130">Geography</ref><ref type="context" target="info:fedora/context:vase.ocm.554">Status, Role, and Prestige</ref><ref type="context" target="info:fedora/context:vase.ocm.550">Individuation and Mobility</ref><ref type="context" target="info:fedora/context:vase.ocm.369">Urban and Rural Life</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref></ab></div>
+    </back>
+  </text>
+</TEI>

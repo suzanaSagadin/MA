@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The National Library building</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4004</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba.biblioteka</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:184"><ref type="context" target="info:fedora/context:siba.184">Cultural Participation</ref><term type="broader" key="ocm:180"><ref type="context" target="info:fedora/context:siba.180">Total Culture</ref></term></term><term key="ocm:341"><ref type="context" target="info:fedora/context:siba.341">Architecture</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:529"><ref type="context" target="info:fedora/context:siba.529">Recreational Facilities</ref><term type="broader" key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term></term><term key="ocm:658"><ref type="context" target="info:fedora/context:siba.658">Public Education</ref><term type="broader" key="ocm:650"><ref type="context" target="info:fedora/context:siba.650">Government Activities</ref></term></term><term key="ocm:342"><ref type="context" target="info:fedora/context:siba.342">Dwellings</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:186"><ref type="context" target="info:fedora/context:siba.186">Cultural Identity and Pride</ref><term type="broader" key="ocm:180"><ref type="context" target="info:fedora/context:siba.180">Total Culture</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1920-1941</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">View of the front of an imposing, large building with flags above the door. It has two floors and a roof storey. The entrance is hidden behind a massive loggia with four double coloums. The balcony above features four allegoric statues. The windows and the corners of the building are richly decorated with identical stucco female faces and Corinthian capitals.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The National Library (Narodna biblioteka), founded in 1832, is Serbia’s oldest cultural institution. In 1920, after several relocations, it moved into a former cardboard factory owned by industrialist Milan Vapa in Kosančićev Venac street and served as the central state library of Yugoslavia despite the fact that the building was not adapted for this purpose. During the bombing on 6 April 1941, the Library was burnt to the ground and a large part of its collection was completely destroyed. Exactly thirty years later, on 6 April 1973, the new National Library building opened its doors on Vračar Hill, where it is still situated today.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date notBefore="1920" notAfter="1941"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Stari Grad</note></placeName></ab>
+    <listBibl><bibl>Vujović, Branko (1994): Beograd u prošlosti i sadašnjosti. Beograd: Draganić, 189-190.</bibl><bibl>Background of the National Library of Serbia Building. Source: https://www.nb.rs/pages/article.php?id=32 (accessed 23.04.2016).</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4004.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.184">Cultural Participation</ref><ref type="context" target="info:fedora/context:vase.ocm.180">Total Culture</ref><ref type="context" target="info:fedora/context:vase.ocm.341">Architecture</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.529">Recreational Facilities</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref><ref type="context" target="info:fedora/context:vase.ocm.658">Public Education</ref><ref type="context" target="info:fedora/context:vase.ocm.650">Government Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.342">Dwellings</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.186">Cultural Identity and Pride</ref><ref type="context" target="info:fedora/context:vase.ocm.180">Total Culture</ref></ab></div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Watch tower (kula) from the Ottoman period</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="BD">
+          <name>Barbara Derler</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.2681</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Österreichisches Museum für Volkskunde</orgName>
+          <orgName xml:lang="en">The Austrian Museum of Folk Life and Folk Art</orgName>
+          <idno type="invNo">ÖMV/pos/3902</idno>
+          <ptr target="http://www.volkskundemuseum.at/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:340">
+            <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+          </term>
+          <term key="ocm:362">
+            <ref target="info:fedora/context:vase.362" type="context">Housing</ref>
+            <term key="ocm:360" type="broader">
+              <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+            </term>
+          </term>
+          <term key="ocm:710">
+            <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bosnia and Herzegovina</country>
+                <region>Opština Šipovo</region>
+                <name ref="http://geonames.org/3344095" type="fcode:ADM2">Opština Šipovo</name>
+                <location>
+                  <geo>17.12778,44.2125</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#BD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1915 before</date>
+        <persName>
+          <forename>Edmund</forename>
+          <surname>Schneeweis</surname>
+          <ref target="info:fedora/context:vase.pn.cf3ac82b" type="context">Schneeweis, Edmund</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">A group of people (with children) is standing in front of the entrance to the kula, a two-storied building. There is a wooden oriel on the second floor.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Donated to the The Austrian Museum of Folk Life and Folk Art by Dr. E. Schneeweis.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">80</height>
+          <width unit="mm">81</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1915" />
+        <country type="contemporary">Bosnia and Herzegovina</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.5ea61781" type="context">Šipovo</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.2681-IMAGE.1.jpg" xml:id="IMAGE.1" />  
+      </figure>
+      </div>    
+</back>
+  </text>
+</TEI>

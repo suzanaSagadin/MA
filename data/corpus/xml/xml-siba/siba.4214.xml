@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Archpriest Pera Marković blessing an airplane</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4214</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0553</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:156"><ref type="context" target="info:fedora/context:siba.156">Social Personality</ref><term type="broader" key="ocm:150"><ref type="context" target="info:fedora/context:siba.150">Behavior Processes and Personality</ref></term></term><term key="ocm:201"><ref type="context" target="info:fedora/context:siba.201">Gestures and Signs</ref><term type="broader" key="ocm:200"><ref type="context" target="info:fedora/context:siba.200">Communication</ref></term></term><term key="ocm:344"><ref type="context" target="info:fedora/context:siba.344">Public Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:507"><ref type="context" target="info:fedora/context:siba.507">Aviation</ref><term type="broader" key="ocm:500"><ref type="context" target="info:fedora/context:siba.500">Water, Air, and Space Transportation</ref></term></term><term key="ocm:796"><ref type="context" target="info:fedora/context:siba.796">Organized Ceremonial</ref><term type="broader" key="ocm:790"><ref type="context" target="info:fedora/context:siba.790">Ecclesiatical Organization</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1929-07-31</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Picture of archpriest Pera Marković taken from behind as he performs the blessing of an airplane, watched by a large group of men, women and a few children dressed for a festive occasion. The scene is unfolding on an airfield in front of an aircraft hangar. The archpriest, wearing a cap and ceremonial gown, holds a bunch of basil in his hand and is extending it towards the front of the plane. A man in a dark suit is standing next to a table to the left of the archpriest, assisting him. The onlookers are dressed in elegant summer clothes, in both light and dark suits, and at least one is in military uniform. The three men lined up directly next to the aircraft are wearing knickerbockers.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph was published as part of a report in the daily Vreme on the inauguration of a new air transport service between Belgrade and Skopje. The ceremony was attended by politicians and army and trade officials from the Belgrade <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=A1">Aero Klub</ref> and the Air Traffic Association ('Društvo za vazdušni saobraćaj'). The first passengers to fly from Belgrade to Skopje included journalists from the leading Belgrade newspapers Vreme, Politika and Pravda.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1929-07-31"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref></placeName></ab>
+    <listBibl><bibl>Avijonom Društva za Vazdušni Saobraćaj od Beograda do Skoplja. Vreme 2729, 01 August 1929, 5.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4214.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.156">Social Personality</ref><ref type="context" target="info:fedora/context:vase.ocm.150">Behavior Processes and Personality</ref><ref type="context" target="info:fedora/context:vase.ocm.201">Gestures and Signs</ref><ref type="context" target="info:fedora/context:vase.ocm.200">Communication</ref><ref type="context" target="info:fedora/context:vase.ocm.344">Public Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.507">Aviation</ref><ref type="context" target="info:fedora/context:vase.ocm.500">Water, Air, and Space Transportation</ref><ref type="context" target="info:fedora/context:vase.ocm.796">Organized Ceremonial</ref><ref type="context" target="info:fedora/context:vase.ocm.790">Ecclesiatical Organization</ref></ab></div>
+    </back>
+  </text>
+</TEI>

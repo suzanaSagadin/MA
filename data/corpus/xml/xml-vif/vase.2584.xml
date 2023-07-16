@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Portrait of a townswoman</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="BD">
+          <name>Barbara Derler</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.2584</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej Sarajeva</orgName>
+          <orgName xml:lang="en">Museum of City of Sarajevo</orgName>
+          <idno type="invNo">8025</idno>
+          <ptr target="http://muzejsarajeva.ba/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:562">
+            <ref target="info:fedora/context:vase.562" type="context">Gender Status</ref>
+            <term key="ocm:560" type="broader">
+              <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Hungary</country>
+                <settlement>Budapest</settlement>
+                <name ref="http://geonames.org/3054643" type="fcode:PPLC">Budapest</name>
+                <location>
+                  <geo>19.03991,47.49801</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#BD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1880-1910</date>
+        <persName>
+          <forename>Henrik</forename>
+          <surname>Herz</surname>
+          <ref target="info:fedora/context:vase.pn.2c45c0e8" type="context">Herz, Henrik</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Half-length studio shot of a woman wearing urban clothes referred to as 'à la franga'.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Urban fashion 'à la franga' referred to the identification with Western (French) attitudes and was an expression of the upwardly mobile bourgeoisie in the Ottoman Empire. Hand-coloured photograph.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Mignon</seg>
+        <dimensions type="artefact">
+          <height unit="mm">78</height>
+          <width unit="mm">47</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">70</height>
+          <width unit="mm">43</width>
+        </dimensions>      
+</ab>
+      <ab type="lido:subject">
+        <date notAfter="1910" notBefore="1880" />
+        <country type="contemporary">Austria-Hungary</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.a5769f46" type="context">Budapest</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <linkGrp>
+        <ptr target="vase.2580" />
+        <ptr target="vase.2581" />
+        <ptr target="vase.2582" />
+        <ptr target="vase.2583" />
+        <ptr target="vase.2593" />
+        <ptr target="vase.2604" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.2584-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2584-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

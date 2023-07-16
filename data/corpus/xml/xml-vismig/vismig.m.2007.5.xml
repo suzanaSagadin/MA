@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="motivtitle">Frau hält Kleidungsstück in der Hand</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>Picturing Migrants Lives - Jovan Ritopečki’s photographic documentation of Yugoslav labour migration in Austria (1970–89)</edition>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="VB">
+                  <forename>Vida</forename>
+                  <surname>Bakondy</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="DS">
+                  <forename>Darko</forename>
+                  <surname>Stojanov-Leitner</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="MS">
+                  <forename>Martina</forename>
+                  <surname>Scholger</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="SS">
+                  <forename>Suzana</forename>
+                  <surname>Sagadin</surname>
+               </persName>
+            </respStmt>
+            <!--Vida fragen, ob es so passt-->
+            <funder>
+               <orgName ref="https://www.fwf.ac.at/">Fonds zur Förderung wissenschaftlicher Forschung</orgName>
+               <num>FWF T 1083-G</num>
+            </funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><!--Mit Vida besprechen-->
+               <ref target="https://www.oeaw.ac.at"/>
+               <orgName ref="http://d-nb.info/gnd/1001454-8">Austrian Academy of Sciences</orgName>
+            </publisher>
+            <authority>
+               <ref target="https://informationsmodellierung.uni-graz.at"/>
+               <orgName ref="http://d-nb.info/gnd/1137284463">Institute Centre for Information Modelling - Austrian Centre for Digital Humanities</orgName>
+            </authority>
+            <distributor>
+               <ref target="https://gams.uni-graz.at"/>
+               <orgName>GAMS - Humanities’ Asset Management System</orgName>
+            </distributor>
+            <availability><!--Mit Vida reden-->
+               <licence n="text" target="https://creativecommons.org/licenses/by/4.0">Creative Commons BY 4.0</licence>
+               <licence n="facsimile"
+                        target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</licence>
+            </availability>
+            <date ana="dcterms:issued" when="2023">2023</date>
+            <pubPlace>Graz, Austria</pubPlace>
+            <idno type="PID">o:vismig.m.2007.5</idno>
+            <ref target="context:vismig.s.2007" type="context" subtype="Series">Fetzen um Fetzen Traktor Wien</ref>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="series_description">Die Bildserie dokumentiert  Mitarbeiter*innen bei der Arbeit in einer Firma, die Altkleider und Stoffetzen sammelt und verarbeitet.  Im zweiten Teil der Serie sieht man Personen in einer großen Halle, beim Betrachten und Aussortieren von Altkleidern. </ab>
+            <ab type="series_comment">In der Zeitschrift Danas erschien ein Artikel zu Toma Arsić und seiner Familie  (Ehefrau Dragica,  Sohn Gruja), die alle drei in der Firma arbeiten. </ab>
+            <ab type="copyright">NL Jovan Ritopečki</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="context:vismig" type="context">vismig</ref>
+               <!--Projektbeschreibung-->
+            </p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <persName role="Photographer">
+               <forename>Jovan</forename>
+               <surname>Ritopečki</surname>
+               <ref target="context:vismig.pn.ritopecki" type="context">Ritopečki, Jovan</ref>
+            </persName>
+            <date ana="dcterms:created" type="creation" when="1973">1973</date>
+            <country type="contemporary">Österreich</country>
+            <placeName>
+               <ref target="context:vismig.gn.vienna" type="context">Vienna</ref>
+            </placeName>
+         </creation>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         <textClass>
+            <keywords resp="VB">
+               <term key="S014">
+                  <ref target="context:vismig.vb.s014" type="context">Konsum</ref>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="1"
+                  url="../img/2007_img12.jpg"
+                  xml:id="IMAGE.1"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="2"
+                  url="../img/2007_img13.jpg"
+                  xml:id="IMAGE.2"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="3"
+                  url="../img/2007_img14.jpg"
+                  xml:id="IMAGE.3"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="4"
+                  url="../img/2007_img15.jpg"
+                  xml:id="IMAGE.4"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="5"
+                  url="../img/2007_img16.jpg"
+                  xml:id="IMAGE.5"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <listObject>
+            <object type="motiv" xml:id="m.2007.5">
+               <objectIdentifier>
+                  <idno type="invNo">Box 1973-1976(8)</idno>
+               </objectIdentifier>
+               <objectContents/>
+               <physDesc>
+                  <objectDesc>
+                     <p>Motiv beinhaltet TODO Fotos und gehört zur Serie TODO.</p>
+                  </objectDesc>
+               </physDesc>
+               <object type="image" facs="#IMAGE.1">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2007.5/IMAGE.1</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.2">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2007.5/IMAGE.2</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.3">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2007.5/IMAGE.3</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.4">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2007.5/IMAGE.4</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.5">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2007.5/IMAGE.5</idno>
+                  </objectIdentifier>
+               </object>
+            </object>
+         </listObject>
+      </body>
+   </text>
+</TEI>

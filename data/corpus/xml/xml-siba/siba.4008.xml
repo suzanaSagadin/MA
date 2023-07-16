@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Boy with a 'Soko' cap and football</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4008</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0008</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term><term key="ocm:551"><ref type="context" target="info:fedora/context:siba.551">Personal Names</ref><term type="broader" key="ocm:550"><ref type="context" target="info:fedora/context:siba.550">Individuation and Mobility</ref></term></term><term key="ocm:746"><ref type="context" target="info:fedora/context:siba.746">Public Assistance</ref><term type="broader" key="ocm:740"><ref type="context" target="info:fedora/context:siba.740">Health and Welfare</ref></term></term><term key="ocm:850"><ref type="context" target="info:fedora/context:siba.850">Infancy and Childhood</ref></term><term key="ocm:625"><ref type="context" target="info:fedora/context:siba.625">Police</ref><term type="broader" key="ocm:620"><ref type="context" target="info:fedora/context:siba.620">Community</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1929-06-01</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Portrait of a small boy in a courtyard on a sunny day. He is wearing a neat jacket with a white sailor collar, short trousers, dark stockings, leather shoes and a sailor hat with the emblem of the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=S15">Soko</ref> youth organization: the letters SOKO are positioned between two flags. He poses for the camera holding a leather football in both hands. A few metres behind him are the blurred silhouettes of three men, one in uniform, one in an apron, and one sitting on a bench.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">Four-year-old Svetozar Milišić was found lost in <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K10">Knez Mihailo Street</ref>, close to the building of the Serbian Academy of Sciences (Srpska Akademija nauka i umetnosti, SANU), on 30 May. A police officer took him to the municipal office, where the boy was dressed in a fresh <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=V6">Vrbica</ref> outfit. After he spent three days at the office without his parents being found, the administration asked the daily Vreme to publish a photograph of Svetozar.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1929-06-01"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Stari Grad</note></placeName></ab>
+    <listBibl><bibl>U kvartu Varoškom nalazi se već tri dana jedno izgubljeno dete, čiji se roditelji nisu mogli nikako pronaći. Vreme 2671, 02 June 1929, 9.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4008.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.551">Personal Names</ref><ref type="context" target="info:fedora/context:vase.ocm.550">Individuation and Mobility</ref><ref type="context" target="info:fedora/context:vase.ocm.746">Public Assistance</ref><ref type="context" target="info:fedora/context:vase.ocm.740">Health and Welfare</ref><ref type="context" target="info:fedora/context:vase.ocm.850">Infancy and Childhood</ref><ref type="context" target="info:fedora/context:vase.ocm.625">Police</ref><ref type="context" target="info:fedora/context:vase.ocm.620">Community</ref></ab></div>
+    </back>
+  </text>
+</TEI>

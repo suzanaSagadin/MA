@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Military funeral procession in Süleyman Seba Street</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1055</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">AKARETLER- CENAZE TORENI</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:764"><ref type="context" target="info:fedora/context:siba.764">Burial Practices and Funerals</ref><term type="broader" key="ocm:760"><ref type="context" target="info:fedora/context:siba.760">Death</ref></term></term><term key="ocm:769"><ref type="context" target="info:fedora/context:siba.769">Cult of the Dead</ref><term type="broader" key="ocm:760"><ref type="context" target="info:fedora/context:siba.760">Death</ref></term></term><term key="ocm:788"><ref type="context" target="info:fedora/context:siba.788">Ritual</ref><term type="broader" key="ocm:780"><ref type="context" target="info:fedora/context:siba.780">Religious Practices</ref></term></term><term key="ocm:714"><ref type="context" target="info:fedora/context:siba.714">Uniform and Accouterment</ref><term type="broader" key="ocm:710"><ref type="context" target="info:fedora/context:siba.710">Military Technology</ref></term></term><term key="ocm:362"><ref type="context" target="info:fedora/context:siba.362">Housing</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term><term key="ocm:341"><ref type="context" target="info:fedora/context:siba.341">Architecture</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1930-1935</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">A funeral procession of uniformed men is moving along Süleyman Seba Street. They are carrying two wreaths. The first includes a portrait of the deceased. The core of the procession is composed of officers. They are framed by two lines of soldiers carrying guns on their right shoulders. Bystanders on the sidewalk and people on balconies are watching the scene. Part of the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=A4">Akaretler Sıraevleri</ref> can be seen in the background.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The procession seems to be following strict military protocol. There is no religious dignitary. The soldiers in the procession are probably students from the Harbiye military academy.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1930" notAfter="1935"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Süleyman Seba Caddesi, Beşiktaş</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1056" /><ptr target="siba.1057" /><ptr target="siba.1067" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1055.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.764">Burial Practices and Funerals</ref><ref type="context" target="info:fedora/context:vase.ocm.760">Death</ref><ref type="context" target="info:fedora/context:vase.ocm.769">Cult of the Dead</ref><ref type="context" target="info:fedora/context:vase.ocm.760">Death</ref><ref type="context" target="info:fedora/context:vase.ocm.788">Ritual</ref><ref type="context" target="info:fedora/context:vase.ocm.780">Religious Practices</ref><ref type="context" target="info:fedora/context:vase.ocm.714">Uniform and Accouterment</ref><ref type="context" target="info:fedora/context:vase.ocm.710">Military Technology</ref><ref type="context" target="info:fedora/context:vase.ocm.362">Housing</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref><ref type="context" target="info:fedora/context:vase.ocm.341">Architecture</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref></ab></div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Flock of sheep by the sea</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.3501</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Yapı Kredi tarih arşivi, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Selahattin Giz</name>
+          <idno type="invNo">5/0805E</idno>
+        </ab>
+        <ab type="copyright">Yapı Kredi bank</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:527"><ref type="context" target="info:fedora/context:siba.527">Rest Days and Holidays</ref><term type="broader" key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term></term><term key="ocm:517"><ref type="context" target="info:fedora/context:siba.517">Leisure Time Activities</ref><term type="broader" key="ocm:510"><ref type="context" target="info:fedora/context:siba.510">Living Standards and Routines</ref></term></term><term key="ocm:233"><ref type="context" target="info:fedora/context:siba.233">Pastoral Activities</ref><term type="broader" key="ocm:230"><ref type="context" target="info:fedora/context:siba.230">Animal Husbandry</ref></term></term><term key="ocm:369"><ref type="context" target="info:fedora/context:siba.369">Urban and Rural Life</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1930-1940</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref></persName><persName role="Press Photographer"><forename>Selahattin </forename><surname>Giz</surname><ref type="context" target="info:fedora/context:siba.pn.dce0efc3">Giz, Selahattin </ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Several men are standing around a flock of sheep. Two sheep with large horns look towards the photographer. The men are wearing hats and long coats. In the background, the sea and the silhouettes of industrial buildings can be seen.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The picture was probably taken in the context of an article reporting on the slaughterhouse in Sütlüce on the Golden Horn Haliç, maybe on the occasion of the preparations for <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K16">Kurban</ref> <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=b2">bayram</ref>ı. Preparations for this religious holiday and the start of festivities were reported in short articles and pictures that sometimes reappeared a year or two later on the same or similar occasions.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1930" notAfter="1940"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Sütlüce, Beyoğlu</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.3052" /><ptr target="siba.3215" /><ptr target="siba.3208" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.3501.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.527">Rest Days and Holidays</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref><ref type="context" target="info:fedora/context:vase.ocm.517">Leisure Time Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.510">Living Standards and Routines</ref><ref type="context" target="info:fedora/context:vase.ocm.233">Pastoral Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.230">Animal Husbandry</ref><ref type="context" target="info:fedora/context:vase.ocm.369">Urban and Rural Life</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref></ab></div>
+    </back>
+  </text>
+</TEI>

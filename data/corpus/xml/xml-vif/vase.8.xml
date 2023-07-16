@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Studio portrait of the Hadzhikalchov family</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.8</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Държавен архив - Пловдив</orgName>
+          <orgName xml:lang="en">State Archives - Plovdiv</orgName>
+          <idno type="invNo">ФК № 15 379</idno>
+          <ptr target="http://www.archives.government.bg/441-РДА_Пловдив" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:570">
+            <ref target="info:fedora/context:vase.570" type="context">Interpersonal Relations</ref>
+          </term>
+          <term key="ocm:590">
+            <ref target="info:fedora/context:vase.590" type="context">Familiy</ref>
+          </term>
+          <term key="ocm:600">
+            <ref target="info:fedora/context:vase.600" type="context">Kinship</ref>
+          </term>
+          <term key="ocm:602">
+            <ref target="info:fedora/context:vase.602" type="context">Kin Relationships</ref>
+            <term key="ocm:600" type="broader">
+              <ref target="info:fedora/context:vase.600" type="context">Kinship</ref>
+            </term>
+          </term>
+          <term key="ocm:603">
+            <ref target="info:fedora/context:vase.603" type="context">Grandparents and Grandchildren</ref>
+            <term key="ocm:600" type="broader">
+              <ref target="info:fedora/context:vase.600" type="context">Kinship</ref>
+            </term>
+          </term>
+          <term key="ocm:850">
+            <ref target="info:fedora/context:vase.850" type="context">Infancy and Childhood</ref>
+          </term>
+          <term key="ocm:880">
+            <ref target="info:fedora/context:vase.880" type="context">Adolescene, Adulthood, and Old Age</ref>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Plovdiv</settlement>
+                <name ref="http://geonames.org/728193" type="fcode:PPLA">Plovdiv</name>
+                <location>
+                  <geo>24.75,42.15</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1892-1900</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Full length shot of a group of three people, all in urban clothes: a sitting elderly woman in dark city clothes with a kerchief, a man standing beside her, embracing a boy with his left arm. The right hands of the man and the boy are on a book on a round wooden table in front of the group. Painted canvas backdrop.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Elena Gancheva Hadzhikalchova (H. Kalcheva), Svetoslav Hadzhikalchov (H. Kalchev) and Boris Hadzhikalchov (H. Kalchev) - probably grandmother, son and grandson.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Cabinet</seg>
+        <dimensions type="artefact">
+          <height unit="mm">161</height>
+          <width unit="mm">108</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">137</height>
+          <width unit="mm">101</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1900" notBefore="1892" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.469140ae" type="context">Plovdiv</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.8-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.8-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

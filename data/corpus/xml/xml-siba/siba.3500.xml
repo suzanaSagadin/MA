@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lottery scene at Darülfünun</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.3500</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Yapı Kredi tarih arşivi, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Selahattin Giz</name>
+          <idno type="invNo">5/0307A</idno>
+        </ab>
+        <ab type="copyright">Yapı Kredi bank</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:507"><ref type="context" target="info:fedora/context:siba.507">Aviation</ref><term type="broader" key="ocm:500"><ref type="context" target="info:fedora/context:siba.500">Water, Air, and Space Transportation</ref></term></term><term key="ocm:525"><ref type="context" target="info:fedora/context:siba.525">Gambling</ref><term type="broader" key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term></term><term key="ocm:527"><ref type="context" target="info:fedora/context:siba.527">Rest Days and Holidays</ref><term type="broader" key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1930-1940</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref></persName><persName role="Press Photographer"><forename>Selahattin </forename><surname>Giz</surname><ref type="context" target="info:fedora/context:siba.pn.dce0efc3">Giz, Selahattin </ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Men are seated at tables on a stage. Two little girls are standing on footstools in front of large lottery boxes, awaiting directions. In the auditorium, a mainly male audience is anticipating the draw. The spectators hold sheets in their hands. Some sheets are folded over the back of the seats.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The event is the Aviators’ New Year Lottery (Yılbaşı Tayyare Piyangosu), which in the 1930s took place in the conference room of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=D1">Darülfünun</ref>. The exact year is hard to establish, but Cumhuriyet reported on the event with a picture on 1 January of every year throughout the decade. The lottery of the Turkish Aviators’ Society (Türk Tayyare Cemiyeti) was established in 1926.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1930" notAfter="1940"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Sultanahmet</note></placeName></ab>
+    <linkGrp type="series"><ptr target="siba.3127" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.3500.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.507">Aviation</ref><ref type="context" target="info:fedora/context:vase.ocm.500">Water, Air, and Space Transportation</ref><ref type="context" target="info:fedora/context:vase.ocm.525">Gambling</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref><ref type="context" target="info:fedora/context:vase.ocm.527">Rest Days and Holidays</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref></ab></div>
+    </back>
+  </text>
+</TEI>

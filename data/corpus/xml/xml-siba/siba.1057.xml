@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Portrait of a young girl in Süleyman Seba Street</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1057</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">AKARETLERDE KIZ COCUGU</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:850"><ref type="context" target="info:fedora/context:siba.850">Infancy and Childhood</ref></term><term key="ocm:292"><ref type="context" target="info:fedora/context:siba.292">Special Garments</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term><term key="ocm:890"><ref type="context" target="info:fedora/context:siba.890">Gender Roles and Issues</ref></term><term key="ocm:516"><ref type="context" target="info:fedora/context:siba.516">Postures</ref><term type="broader" key="ocm:510"><ref type="context" target="info:fedora/context:siba.510">Living Standards and Routines</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1930-1939</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Portrait of a young girl with short hair on Süleyman Seba Street. The girl is wearing sandals and a short sleeveless dress with a white collar, and is carrying an umbrella patterned in the same style as the dress. She is walking towards the camera, directly looking into the lens. The paving of the sidewalk is damaged. The <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=A4">Akaretler Sıraevleri</ref> is in the background.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph was probably taken by a press photographer on the occasion of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=C12">Çocuk bayramı</ref>. On 3 August 1930, Akşam newspaper featured a short article stating that in this year, the fashion of carrying sunshades has been passed over from ladies to the children.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1930" notAfter="1939"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Süleyman Seba Caddesi, Beşiktaş</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1055" /><ptr target="siba.1056" /></linkGrp><listBibl><bibl>'Çocuklarda şemsiye modası'. Akşam 4242, 3 August 1930, 8.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1057.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.850">Infancy and Childhood</ref><ref type="context" target="info:fedora/context:vase.ocm.292">Special Garments</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.890">Gender Roles and Issues</ref><ref type="context" target="info:fedora/context:vase.ocm.516">Postures</ref><ref type="context" target="info:fedora/context:vase.ocm.510">Living Standards and Routines</ref></ab></div>
+    </back>
+  </text>
+</TEI>

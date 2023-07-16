@@ -1,0 +1,28 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Text Search</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.15/dist/tailwind.min.css">
+</head>
+<body class="bg-gray-100">
+    <div class="container mx-auto py-12">
+        <h1 class="text-3xl font-bold mb-4">Image Text Search</h1>
+        <!-- Text search form -->
+        <form id="textSearchForm" action="/search_text" method="post" class="mb-8">
+            <div class="flex">
+                <input type="text" id="text" name="text" placeholder="Enter text" class="w-1/2 px-4 py-2 border border-gray-300 rounded-l-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                <button type="submit" class="bg-blue-500 text-white py-2 px-4 rounded-r-md hover:bg-blue-600">Search by Text</button>
+            </div>
+        </form>
+
+        <!-- Image search form -->
+        <form id="imageSearchForm" action="/search_image" method="post" enctype="multipart/form-data">
+            <div class="flex">
+                <input type="file" id="file" name="file" class="w-1/2 px-4 py-2 border border-gray-300 rounded-l-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                <button type="submit" class="bg-blue-500 text-white py-2 px-4 rounded-r-md hover:bg-blue-600">Search by Image</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

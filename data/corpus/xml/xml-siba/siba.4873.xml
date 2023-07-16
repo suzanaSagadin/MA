@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Catholic peasants in Baščaršija</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Mehmed A. Akšamija</name><resp>editor</resp></respStmt><respStmt><name>Kristina Ilić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4873</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Alija M. Akšamija private collection, Sarajevo</orgName>
+          <name xml:lang="en" type="collection">Sarajevski ciklus 1938./39. - Slučajni prolaznici.</name>
+          <idno type="invNo">A.M.A. P N 10 39</idno>
+        </ab>
+        <ab type="copyright">Mehmed A. Akšamija</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:103"><ref type="context" target="info:fedora/context:siba.103">Place Names</ref><term type="broader" key="ocm:100"><ref type="context" target="info:fedora/context:siba.100">Orientation</ref></term></term><term key="ocm:131"><ref type="context" target="info:fedora/context:siba.131">Location</ref><term type="broader" key="ocm:130"><ref type="context" target="info:fedora/context:siba.130">Geography</ref></term></term><term key="ocm:292"><ref type="context" target="info:fedora/context:siba.292">Special Garments</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term><term key="ocm:563"><ref type="context" target="info:fedora/context:siba.563">Ethnic Stratification</ref><term type="broader" key="ocm:560"><ref type="context" target="info:fedora/context:siba.560">Social Stratification</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1939</date>
+      <persName role="Photographer"><forename>Alija M.</forename><surname>Akšamija</surname><ref type="context" target="info:fedora/context:siba.pn.be7b6d09">Akšamija, Alija M.</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Outdoor upper body shot of a group of Catholic peasants in traditional costume chatting in <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B4">Baščaršija</ref>. The camera is focused on a smiling young man in a black fur cap (šubara) surrounded by two young girls with white scarves falling down their backs, and an older woman with a dark headscarf tightly wrapped around her chin.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The loose white scarves worn down the back indicate that the girls are unmarried. The dark scarf wrapped around the chin indicates a married woman. The costumes are from the surroundings of Sarajevo. Analogue photographic process, negative-positive (Agfa Isopan 17 DIN). Original preserved as a negative and a positive on silver bromine paper, stored in the form of a print, negative and digital record.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">60</height><width unit="mm">60</width></dimensions><dimensions type="positive"><height unit="mm">250</height><width unit="mm">250</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1939"></date>
+      <country type="contemporary">Bosnia and Herzegovina</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.814f17d1" type="context">Sarajevo</ref><note>Baščaršija</note></placeName></ab>
+    <listBibl><bibl>–</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4873.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.103">Place Names</ref><ref type="context" target="info:fedora/context:vase.ocm.100">Orientation</ref><ref type="context" target="info:fedora/context:vase.ocm.131">Location</ref><ref type="context" target="info:fedora/context:vase.ocm.130">Geography</ref><ref type="context" target="info:fedora/context:vase.ocm.292">Special Garments</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.563">Ethnic Stratification</ref><ref type="context" target="info:fedora/context:vase.ocm.560">Social Stratification</ref></ab></div>
+    </back>
+  </text>
+</TEI>

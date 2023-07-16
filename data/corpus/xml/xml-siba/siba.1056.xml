@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Red Cross headquarters in Süleyman Seba Street</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1056</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">AKARETLER- CHP - HILALIAHMER CEMIYETI MERKEZI</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:657"><ref type="context" target="info:fedora/context:siba.657">Public Welfare</ref><term type="broader" key="ocm:650"><ref type="context" target="info:fedora/context:siba.650">Government Activities</ref></term></term><term key="ocm:741"><ref type="context" target="info:fedora/context:siba.741">Philanthropic Foundations</ref><term type="broader" key="ocm:740"><ref type="context" target="info:fedora/context:siba.740">Health and Welfare</ref></term></term><term key="ocm:850"><ref type="context" target="info:fedora/context:siba.850">Infancy and Childhood</ref></term><term key="ocm:527"><ref type="context" target="info:fedora/context:siba.527">Rest Days and Holidays</ref><term type="broader" key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term></term><term key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term><term key="ocm:493"><ref type="context" target="info:fedora/context:siba.493">Vehicles</ref><term type="broader" key="ocm:490"><ref type="context" target="info:fedora/context:siba.490">Land Transport</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1928-1939</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Cars parked in front of a building identified as the Istanbul headquarters of the Turkish Red Crescent (‘Türkiye Hilal-i Ahmer Cemiyeti’) by a plate fixed above the main entrance in Süleyman Seba Street. A large sign on the roof with the lettering 'C.H.P.' indicates a link to the Republican Peoples’ Party (Cumhuriyet Halk Partisi). The building is richly decorated with bunting and Turkish flags at the windows. Four cars are parked in a row along the street in front of the building. Two of them are open convertibles and are packed with children and several adult men. The last car in the row, of which only the front is visible, features a decoration made of twigs.  A boy in trousers that are far too large for him and with a large basket in his hands is passing between the third and the fourth car. On the opposite side of the street, a girl is moving towards the cars, seemingly walking away from an official in the lower left corner of the picture, who is taking notes. Behind the officer, three women are standing on the sidewalk. Two of them are looking over their shoulders to the right. The third woman is looking at the cars.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The cars are collecting children who will participate in the official parade on the occasion of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=C12">Çocuk bayramı</ref>. The children are most likely in the care of the Society for the Protection of Children (‘Çocuk Esirgeme Kurumu’). The lettering 'C.H.P.' on top of the building indicates that is was simultaneously being used as the Istanbul head office of the Republican Peoples’ Party (Cumhuriyet Halk Partisi) and the Red Crescent. The <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=A4">Akaretler Sıraevleri</ref> extends to the left side of the building.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1928" notAfter="1939"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Süleyman Seba Caddesi, Beşiktaş</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1055" /><ptr target="siba.1057" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1056.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.657">Public Welfare</ref><ref type="context" target="info:fedora/context:vase.ocm.650">Government Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.741">Philanthropic Foundations</ref><ref type="context" target="info:fedora/context:vase.ocm.740">Health and Welfare</ref><ref type="context" target="info:fedora/context:vase.ocm.850">Infancy and Childhood</ref><ref type="context" target="info:fedora/context:vase.ocm.527">Rest Days and Holidays</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.493">Vehicles</ref><ref type="context" target="info:fedora/context:vase.ocm.490">Land Transport</ref></ab></div>
+    </back>
+  </text>
+</TEI>

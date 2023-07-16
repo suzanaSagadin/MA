@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ramadan drummer at a house entrance</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1124</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">BAYRAM - RAMAZAN - DAVULCU - BEKCI - BAYRAM BAHSISI</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:533"><ref type="context" target="info:fedora/context:siba.533">Music</ref><term type="broader" key="ocm:530"><ref type="context" target="info:fedora/context:siba.530">Arts</ref></term></term><term key="ocm:534"><ref type="context" target="info:fedora/context:siba.534">Musical Instruments</ref><term type="broader" key="ocm:530"><ref type="context" target="info:fedora/context:siba.530">Arts</ref></term></term><term key="ocm:571"><ref type="context" target="info:fedora/context:siba.571">Social Relationships and Groups</ref><term type="broader" key="ocm:570"><ref type="context" target="info:fedora/context:siba.570">Interpersonal Relations</ref></term></term><term key="ocm:735"><ref type="context" target="info:fedora/context:siba.735">Poverty</ref><term type="broader" key="ocm:730"><ref type="context" target="info:fedora/context:siba.730">Social Problems</ref></term></term><term key="ocm:527"><ref type="context" target="info:fedora/context:siba.527">Rest Days and Holidays</ref><term type="broader" key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1925-1940</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">A <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=R1">Ramadan</ref> drummer beats his <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=D2">davul</ref> in a cobbled lane in front of a house door, looking into the camera. Two boys peep over his large drum. To his right, two men wearing long dark coats, leather boots and official hats, are standing at a door. A third boy standing between them is placing something onto a little plate that one of them is holding. The other smiles into the camera.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">Photographs of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=R1">Ramadan</ref> musicians were often printed on the first day of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=R1">Ramadan</ref> celebrations.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1925" notAfter="1940"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1125" /><ptr target="siba.1126" /><ptr target="siba.1127" /><ptr target="siba.1128" /><ptr target="siba.1129" /><ptr target="siba.1130" /><ptr target="siba.1123" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1124.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.533">Music</ref><ref type="context" target="info:fedora/context:vase.ocm.530">Arts</ref><ref type="context" target="info:fedora/context:vase.ocm.534">Musical Instruments</ref><ref type="context" target="info:fedora/context:vase.ocm.530">Arts</ref><ref type="context" target="info:fedora/context:vase.ocm.571">Social Relationships and Groups</ref><ref type="context" target="info:fedora/context:vase.ocm.570">Interpersonal Relations</ref><ref type="context" target="info:fedora/context:vase.ocm.735">Poverty</ref><ref type="context" target="info:fedora/context:vase.ocm.730">Social Problems</ref><ref type="context" target="info:fedora/context:vase.ocm.527">Rest Days and Holidays</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref></ab></div>
+    </back>
+  </text>
+</TEI>

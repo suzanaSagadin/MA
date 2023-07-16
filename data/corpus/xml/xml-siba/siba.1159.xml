@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pazarola Hasan Bey sits on a footstool</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1159</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">PAZAROLA HASAN BEY -  KAHVE SIGARA - 01</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:156"><ref type="context" target="info:fedora/context:siba.156">Social Personality</ref><term type="broader" key="ocm:150"><ref type="context" target="info:fedora/context:siba.150">Behavior Processes and Personality</ref></term></term><term key="ocm:545"><ref type="context" target="info:fedora/context:siba.545">Musical and Theatrical Productions</ref><term type="broader" key="ocm:540"><ref type="context" target="info:fedora/context:siba.540">Commercialized Entertainment</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1925-03</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Pazarola Hasan Bey is sitting on a footstool. In his left hand, he is holding a cup of coffee, in his right a cigarette. He is dressed in traditional and used clothes. The photograph was taken outside, probably in front of a closed shop. Next to Pazarola Hasan Bey stands a second man. His head is outside the frame of the picture.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph was used in the context of an article by Osman Cemal (Kaygılı) with the title, ‘Istanbul’s most well-known man: Pazarola Hasan Bey’, in the weekly journal Resimli Ay. Pazarola Hasan bey (approx. 1880–1922) was a famous ‘crazy’ personality in Istanbul at the turn of the century. He was a factotum of the bazaar district around <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B10">Beyazıt meydanı</ref>. The merchants and retailers of the time valued him as a good luck charm who would bless their shops and goods.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1925-03"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1111" /><ptr target="siba.1149" /><ptr target="siba.1150" /></linkGrp><listBibl><bibl>(Kaygılı), Osman Cemal: İstanbul'un En Ma'ruf Adamı: Pazarola Hasan Bey. Resimli Ay 2-12, March 1341 (1925), 10-13. – Karaklışa, Yavuz Selim (2006): Eski İstanbul'un Delileri. Pazarola Hasan Bey. İstanbul: Tarih Vakfı.</bibl></listBibl><linkGrp type="series"><ptr target="siba.1160" /><ptr target="siba.1161" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1159.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.156">Social Personality</ref><ref type="context" target="info:fedora/context:vase.ocm.150">Behavior Processes and Personality</ref><ref type="context" target="info:fedora/context:vase.ocm.545">Musical and Theatrical Productions</ref><ref type="context" target="info:fedora/context:vase.ocm.540">Commercialized Entertainment</ref></ab></div>
+    </back>
+  </text>
+</TEI>

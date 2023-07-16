@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Portrait of Alija M. Akšamija as a schoolboy</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Mehmed A. Akšamija</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4850</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Alija M. Akšamija private collection, Sarajevo</orgName>
+          <name xml:lang="en" type="collection" />
+          <idno type="invNo">Not inventoried 3</idno>
+        </ab>
+        <ab type="copyright">Mehmed A. Akšamija</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:291"><ref type="context" target="info:fedora/context:siba.291">Normal Garb</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term><term key="ocm:870"><ref type="context" target="info:fedora/context:siba.870">Education</ref></term><term key="ocm:850"><ref type="context" target="info:fedora/context:siba.850">Infancy and Childhood</ref></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Carte de visite</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1929</date>
+      <persName role="Photostudio"><forename>Franc Franjo</forename><surname>Jakush</surname><ref type="context" target="info:fedora/context:siba.pn.c0d96aa">Jakush, Franc Franjo</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Studio portrait of Alija M. Akšamija in his school uniform and <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=F4">fes</ref>.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The portrait was taken during grade III of primary school in Rogatica, where Alija M. Akšamija grew up. Analogue photographic process, negative-positive.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="artefact"><height unit="mm">60</height><width unit="mm">100</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1929"></date>
+      <country type="contemporary">Bosnia and Herzegovina</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.eb44720a" type="context">Rogatica</ref></placeName></ab>
+    <listBibl><bibl>Akšamija, Mehmed A. (2015): Alija M. Akšamija – Monografija arhivografije. Sarajevo: BANU. Vol. I, 14.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4850.jpg" xml:id="IMAGE.1" /></figure><figure><graphic url="siba.4850.jpg" xml:id="IMAGE.2" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.291">Normal Garb</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.870">Education</ref><ref type="context" target="info:fedora/context:vase.ocm.850">Infancy and Childhood</ref></ab></div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Women from Peshtani village</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.850</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Институт за етнология и фолклористика с Етнографски музей - АЕИМ, БАН</orgName>
+          <orgName xml:lang="en">Institute for Ethnology and Folklore Studies with Ethnographic Museum - AEIM, BAS</orgName>
+          <idno type="invNo">aeim 860</idno>
+          <ptr target="http://folklor.bas.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:369">
+            <ref target="info:fedora/context:vase.369" type="context">Urban and Rural Life</ref>
+            <term key="ocm:360" type="broader">
+              <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+            </term>
+          </term>
+          <term key="ocm:501">
+            <ref target="info:fedora/context:vase.501" type="context">Boats</ref>
+            <term key="ocm:500" type="broader">
+              <ref target="info:fedora/context:vase.500" type="context">Water, Air, and Space Transportation</ref>
+            </term>
+          </term>
+          <term key="ocm:511">
+            <ref target="info:fedora/context:vase.511" type="context">Standard of Living</ref>
+            <term key="ocm:510" type="broader">
+              <ref target="info:fedora/context:vase.510" type="context">Living Standards and Routines</ref>
+            </term>
+          </term>
+          <term key="ocm:512">
+            <ref target="info:fedora/context:vase.512" type="context">Daily Routine</ref>
+            <term key="ocm:510" type="broader">
+              <ref target="info:fedora/context:vase.510" type="context">Living Standards and Routines</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Macedonia</country>
+                <settlement>Ohrid</settlement>
+                <name ref="http://geonames.org/787487" type="fcode:PPLA">Ohrid</name>
+                <location>
+                  <geo>20.80194,41.11722</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1928 after</date>
+        <persName>
+          <forename>Bozhidar Dimitrov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c5c735fb" type="context">Karastoyanov, Bozhidar Dimitrov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Outdoor shot of two women in rural clothes with white kerchieves, standing next to a boat. In the background there is a lake and a boat in it.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet" />
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">130</height>
+          <width unit="mm">181</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">119</height>
+          <width unit="mm">169</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1928" />
+        <country type="contemporary">Macedonia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.48a4074" type="context">Ohrid</ref>
+          <note>Lake</note>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.850-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.850-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

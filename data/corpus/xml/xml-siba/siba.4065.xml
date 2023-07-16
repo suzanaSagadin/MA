@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sleigh ride on the frozen Danube</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4065</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0129</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:492"><ref type="context" target="info:fedora/context:siba.492">Animal Transportation</ref><term type="broader" key="ocm:490"><ref type="context" target="info:fedora/context:siba.490">Land Transport</ref></term></term><term key="ocm:517"><ref type="context" target="info:fedora/context:siba.517">Leisure Time Activities</ref><term type="broader" key="ocm:510"><ref type="context" target="info:fedora/context:siba.510">Living Standards and Routines</ref></term></term><term key="ocm:132"><ref type="context" target="info:fedora/context:siba.132">Climate</ref><term type="broader" key="ocm:130"><ref type="context" target="info:fedora/context:siba.130">Geography</ref></term></term><term key="ocm:527"><ref type="context" target="info:fedora/context:siba.527">Rest Days and Holidays</ref><term type="broader" key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term></term><term key="ocm:541"><ref type="context" target="info:fedora/context:siba.541">Spectacles</ref><term type="broader" key="ocm:540"><ref type="context" target="info:fedora/context:siba.540">Commercialized Entertainment</ref></term></term><term key="ocm:489"><ref type="context" target="info:fedora/context:siba.489">Transportation</ref><term type="broader" key="ocm:480"><ref type="context" target="info:fedora/context:siba.480">Travel and Transportation</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1929</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Rear view of a sleigh carrying passengers and pulled by two horses. The sleigh is standing in a snowy field. It is not built for passenger transport. The six passengers and the driver are sitting rather uncomfortably on the side panels, yet they are smiling as if enjoying the experience. The passengers – a lady, two gentlemen, an officer and a boy – are elegantly dressed in contrast to the driver and his aide squatting next to the sleigh, who are wearing village garb combined with a fur cap (šubara). Behind the sleigh, a soldier is smiling into the camera.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph appeared in the newspaper Vreme on 11 February 1929 as part of a report on the cold snap in Europe. The Danube River froze over with air temperatures at minus 23 degrees and below. The thick layer of ice was an opportunity for some middle-class urbanites to take a ride from Belgrade to Pančevo. Peasant men offered sleigh rides in the winter.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1929"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Dunav</note></placeName></ab>
+    <listBibl><bibl>Juče je u Beogradu bilo 23 i po stepena ispod nule. Vreme 2566, 11 February 1929, 5.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4065.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.492">Animal Transportation</ref><ref type="context" target="info:fedora/context:vase.ocm.490">Land Transport</ref><ref type="context" target="info:fedora/context:vase.ocm.517">Leisure Time Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.510">Living Standards and Routines</ref><ref type="context" target="info:fedora/context:vase.ocm.132">Climate</ref><ref type="context" target="info:fedora/context:vase.ocm.130">Geography</ref><ref type="context" target="info:fedora/context:vase.ocm.527">Rest Days and Holidays</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref><ref type="context" target="info:fedora/context:vase.ocm.541">Spectacles</ref><ref type="context" target="info:fedora/context:vase.ocm.540">Commercialized Entertainment</ref><ref type="context" target="info:fedora/context:vase.ocm.489">Transportation</ref><ref type="context" target="info:fedora/context:vase.ocm.480">Travel and Transportation</ref></ab></div>
+    </back>
+  </text>
+</TEI>

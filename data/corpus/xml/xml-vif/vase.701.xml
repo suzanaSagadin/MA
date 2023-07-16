@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Two men in a curricle</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.701</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Издателска къща "Минало"</orgName>
+          <orgName xml:lang="en">Publishing house "Minalo"</orgName>
+          <idno type="invNo">150-r</idno>
+          <ptr target="Publishing house &quot;Minalo&quot;" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:231">
+            <ref target="info:fedora/context:vase.231" type="context">Domesticated Animals</ref>
+            <term key="ocm:230" type="broader">
+              <ref target="info:fedora/context:vase.230" type="context">Animal Husbandry</ref>
+            </term>
+          </term>
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:340">
+            <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+          </term>
+          <term key="ocm:360">
+            <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+          </term>
+          <term key="ocm:373">
+            <ref target="info:fedora/context:vase.373" type="context">Light</ref>
+            <term key="ocm:370" type="broader">
+              <ref target="info:fedora/context:vase.370" type="context">Energy and Power</ref>
+            </term>
+          </term>
+          <term key="ocm:490">
+            <ref target="info:fedora/context:vase.490" type="context">Land Transport</ref>
+          </term>
+          <term key="ocm:510">
+            <ref target="info:fedora/context:vase.510" type="context">Living Standards and Routines</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1911.07.29</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">A street photograph of two men in urban clothes with hats, sitting in a two-wheeled carriage decorated with flowers, pulled by a horse. A building is seen in the background.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The photograph is taken probably on the Tsar Osvoboditel Boulevard in front of the Embassy of the Austro-Hungarian Empire (since 1922 - Embassy of Italy).</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">130</height>
+          <width unit="mm">197</width>   
+     </dimensions>
+        <dimensions type="image">
+          <height unit="mm">100</height>
+          <width unit="mm">145</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1911.07.29" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.701-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.701-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

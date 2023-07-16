@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Spectators in Taksim Stadium</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.3363</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Yapı Kredi tarih arşivi, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Selahattin Giz</name>
+          <idno type="invNo">16/0026F</idno>
+        </ab>
+        <ab type="copyright">Yapı Kredi bank</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:526"><ref type="context" target="info:fedora/context:siba.526">Athletic Sports</ref><term type="broader" key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term></term><term key="ocm:542"><ref type="context" target="info:fedora/context:siba.542">Commercialized Sports</ref><term type="broader" key="ocm:540"><ref type="context" target="info:fedora/context:siba.540">Commercialized Entertainment</ref></term></term><term key="ocm:517"><ref type="context" target="info:fedora/context:siba.517">Leisure Time Activities</ref><term type="broader" key="ocm:510"><ref type="context" target="info:fedora/context:siba.510">Living Standards and Routines</ref></term></term><term key="ocm:522"><ref type="context" target="info:fedora/context:siba.522">Humor</ref><term type="broader" key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1934-11-30</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref></persName><persName role="Press Photographer"><forename>Selahattin </forename><surname>Giz</surname><ref type="context" target="info:fedora/context:siba.pn.dce0efc3">Giz, Selahattin </ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Spectators are lined up along a playing field. Close up, a man with a moustache and flat cap turns his head to the photographer. Further off, a young man in a student cap is chewing on something. The background consists of a stand full of spectators standing against the wall of an old building displaying a large billboard.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph was taken in the context of a sports article in Cumhuriyet. The specators are watching the Galatasaray vs. Fenerbahçe football game in <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=T3">Taksim stadı</ref> on 30 November 1930. The article gives an attendance figure of close to five thousand. The game ended in a 0-0 draw.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1934-11-30"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Taksim</note></placeName></ab>
+    <listBibl><bibl>Galatasaray Fenerbahçe dün beraber kaldılar. Cumhuriyet, 1 December 1934.</bibl></listBibl><linkGrp type="series"><ptr target="siba.3362" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.3363.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.526">Athletic Sports</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref><ref type="context" target="info:fedora/context:vase.ocm.542">Commercialized Sports</ref><ref type="context" target="info:fedora/context:vase.ocm.540">Commercialized Entertainment</ref><ref type="context" target="info:fedora/context:vase.ocm.517">Leisure Time Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.510">Living Standards and Routines</ref><ref type="context" target="info:fedora/context:vase.ocm.522">Humor</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref></ab></div>
+    </back>
+  </text>
+</TEI>

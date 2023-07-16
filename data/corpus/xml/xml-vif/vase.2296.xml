@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>"Salut de l'Orient"</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="BD">
+          <name>Barbara Derler</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.2296</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Historijski arhiv Sarajevo</orgName>
+          <orgName xml:lang="en">The Historical Archive of Sarajevo</orgName>
+          <idno type="invNo">ZF-1209</idno>
+          <ptr target="http://www.arhivsa.ba/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:562">
+            <ref target="info:fedora/context:vase.562" type="context">Gender Status</ref>
+            <term key="ocm:560" type="broader">
+              <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+            </term>
+          </term>
+          <term key="ocm:205">
+            <ref target="info:fedora/context:vase.205" type="context">Mail</ref>
+            <term key="ocm:200" type="broader">
+              <ref target="info:fedora/context:vase.200" type="context">Communication</ref>
+            </term>
+          </term>
+          <term key="ocm:410">
+            <ref target="info:fedora/context:vase.410" type="context">Tools and Appliances</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <name ref="http://geonames.org/6204277" type="fcode:LK">Lake Unknown</name>
+                <location>
+                  <geo>168.27006,-44.62835</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#BD" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Postcard</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1904.11.01-1917</date>
+        <persName>
+          <surname>Unknown</surname>
+          <ref target="info:fedora/context:vase.pn.unknown" type="context">unknown</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">A woman in oriental-style clothes is resting on ornamented pillows and textiles. A water pipe and a little table with a coffee set are assembled next to her.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The postcard was sent from Bosanski Brod to Travnik between 1912 and 1917.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">86</height>
+          <width unit="mm">138</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1917" notBefore="1904.11.01" />
+        <country type="contemporary">Bosnia and Herzegovina</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+        <name type="publisher">M &amp; M L</name>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+    </body>
+    <back> 
+     <div type="lido:resourceSet">    
+    <figure>
+          <graphic url="file:///vase.2296-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.2296-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

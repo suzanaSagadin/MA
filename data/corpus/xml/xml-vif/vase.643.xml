@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>"Chancellery of the Russian Governor in Svishtov 1878."</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.643</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национална Библиотека "Св. св. Кирил и Методий"</orgName>
+          <orgName xml:lang="en">St. Cyril and St. Methodius National Library</orgName>
+          <idno type="invNo">C III  1122</idno>
+          <ptr target="http://www.nationallibrary.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:204">
+            <ref target="info:fedora/context:vase.204" type="context">Press</ref>
+            <term key="ocm:200" type="broader">
+              <ref target="info:fedora/context:vase.200" type="context">Communication</ref>
+            </term>
+          </term>
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:5310">
+            <ref target="info:fedora/context:vase.5310" type="context">Verbal Arts</ref>
+            <term key="ocm:530" type="broader">
+              <ref target="info:fedora/context:vase.530" type="context">Arts</ref>
+            </term>
+          </term>
+          <term key="ocm:640">
+            <ref target="info:fedora/context:vase.640" type="context">State</ref>
+          </term>
+          <term key="ocm:714">
+            <ref target="info:fedora/context:vase.714" type="context">Uniform and Accouterment</ref>
+            <term key="ocm:710" type="broader">
+              <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+            </term>
+          </term>
+          <term key="ocm:411">
+            <ref target="info:fedora/context:vase.411" type="context">Weapons</ref>
+            <term key="ocm:410" type="broader">
+              <ref target="info:fedora/context:vase.410" type="context">Tools and Appliances</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:660">
+            <ref target="info:fedora/context:vase.660" type="context">Political Behavior</ref>
+          </term>
+          <term key="ocm:810">
+            <ref target="info:fedora/context:vase.810" type="context">Science and Humanities</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Svishtov</settlement>
+                <name ref="http://geonames.org/726534" type="fcode:PPL">Svishtov</name>
+                <location>
+                  <geo>25.35044,43.61959</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2014-01-23" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1878</date>
+        <persName>
+          <forename>Anastas Nikolov</forename>
+          <surname>Stojanović/Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.df754e76" type="context">Stojanović/Karastoyanov, Anastas Nikolov</ref>
+        </persName>
+        <persName>
+          <forename>Ivan Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c3834c" type="context">Karastoyanov, Ivan Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Photograph of nine men, sitting and standing in two rows, with a carpet in front of them. In the first row five men are seated - two of them in military uniforms, holding swords; the others are wearing plain city clothes. The man in the center is holding a carnation, additionally colored in red and green. In the second row four men in urban clothes are standing. On the left and in the background there are potted plants. Recto: hand-written inscription in Russian. Verso: hand-written inscriptions in Russian with the names and positions of all photographed persons.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The Transitional Russian rule was established during the Russo-Ottoman War in April 1877, and suspended by the Treaty of the Congress of Berlin (13 June – 13 July 1878) and the establishment of Eastern Rumelia and the Principality of Bulgaria. The man in the center is Marko Dimitriev Balabanov (1837 - 1921) - Vice Governor of Svishtov and Ruse, lawyer and journalist; Minister of Foreign Affairs and Ecclesiastical Matters (1878; 1883 - 1884); diplomat in the Ottoman Empire, in Romania and in Greece; lecturer at the University of Sofia (1889 - 1898) and member of the Bulgarian Literary Society (since 1911 called Bulgarian Academy of Sciences). Among the photographed is Emanuil Ivanov (1857 - 1925), a scholar, mathematician and physicist, one of the founders of the University of Sofia and elected rector of the University (1890 - 1892 and 1893 - 1894). As of 1898 he was a correspondent member of the Bulgarian Literary Society (renamed "Bulgarian Academy of Sciences" in 1911) and became a full member in 1900.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Imperial [?]</seg>
+        <dimensions type="artefact">
+          <height unit="mm">171</height>
+          <width unit="mm">227</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">168</height>
+          <width unit="mm">220</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1878" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.f5febb4e" type="context">Svistov</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <certainty cert="medium" locus="value" target="persName" />
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.643-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.643-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

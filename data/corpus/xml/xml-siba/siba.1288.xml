@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Plea writers in Ankara</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1288</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Vehbi Koç ve araştırmaları merkezi, Ankara</orgName>
+          <name xml:lang="en" type="collection">Ankara</name>
+          <idno type="invNo">Envanter No 2864</idno>
+        <ptr target="http://www.vekam.org.tr" /></ab>
+        <ab type="copyright">VEKAM Vehbi Koç and Ankara Research Centre</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:460"><ref type="context" target="info:fedora/context:siba.460">Labor</ref></term><term key="ocm:670"><ref type="context" target="info:fedora/context:siba.670">Law</ref></term><term key="ocm:735"><ref type="context" target="info:fedora/context:siba.735">Poverty</ref><term type="broader" key="ocm:730"><ref type="context" target="info:fedora/context:siba.730">Social Problems</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Postcard</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1925-1928</date>
+      <persName role="Photographer"><forename>Jean</forename><surname>Weinberg</surname><ref type="context" target="info:fedora/context:siba.pn.ae807613">Weinberg, Jean</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Customers are grouped around two plea writers. The plea writer to the left is writing at his desk with his mouth open, while the customers watch him attentively. The plea writer is wearing a hat and elegant clothes, the customer has a flat cap and a worn suit. A sheet of paper with Ottoman Turkish script is attached to the desk. The plea writer to the right is writing something on his lap. His hat is lying on the desk. A man in badly torn clothing is kneeling next to the desk, watching the plea writer. A man in a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K4">kalpak</ref> – maybe a plea writer, too – is sitting in the middle of the picture talking to two youngsters. His head is turned to the right. Another man in badly torn clothing sits in front of him.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph was taken on a trip to Ankara by the Istanbul-based photographer Jean Weinberg. He distributed the photograph as a postcard with the French title, ‘Angora… Ecrivain ambulant’.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">140</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date notBefore="1925" notAfter="1928"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.752b37d2" type="context">Ankara</ref></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1108" /><ptr target="siba.1109" /><ptr target="siba.1110" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1288.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.460">Labor</ref><ref type="context" target="info:fedora/context:vase.ocm.670">Law</ref><ref type="context" target="info:fedora/context:vase.ocm.735">Poverty</ref><ref type="context" target="info:fedora/context:vase.ocm.730">Social Problems</ref></ab></div>
+    </back>
+  </text>
+</TEI>

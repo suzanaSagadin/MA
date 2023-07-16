@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bajrakli Mosque</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4006</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba.dzamija</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:341"><ref type="context" target="info:fedora/context:siba.341">Architecture</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:346"><ref type="context" target="info:fedora/context:siba.346">Religious and Educational Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:779"><ref type="context" target="info:fedora/context:siba.779">Theological Systems</ref><term type="broader" key="ocm:770"><ref type="context" target="info:fedora/context:siba.770">Religious Beliefs</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1925-1940</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">View of the Bajrakli mosque from the corner of Car Uroš and Gospodar Jevrem streets on a sunny day. The mosque is situated between two residential buildings, the one to the left is as tall as the minaret, the one adjoining to the right reaches to the height of the cupola. The entrance is shielded from Gospodar Jevrem Street by a high brick wall. A large tree, twice as high as the wall, towers in the mosque’s courtyard. Several pedestrians populate Gospodar Jevrem Street, including a few road workers.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">Roadworks seem to be underway in Gospodar Jevrem Street. The Bajrakli mosque was built between 1660 and 1688 as an endowment by Sultan Suleiman II. During Habsburg rule in Belgrade between 1717 and 1739, it was used as a Roman Catholic church. Its name dates from the 1780s when a flag (bajrak) was waved from the mosque to signal the beginning of prayer to all the surrounding mosques. After the Ottomans withdrew from Belgrade in the 1860s, the mosque remained the only Muslim shrine in the city. Today it is the only remaining example of Ottoman religious architecture in Belgrade.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date notBefore="1925" notAfter="1940"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Dorćol</note></placeName></ab>
+    <listBibl><bibl>Bajrakli Mosque. Source: http://beogradskonasledje.rs/kd/zavod/stari_grad/bajrakli_dzamija.html (accessed 23.04.2016)</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4006.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.341">Architecture</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.346">Religious and Educational Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.779">Theological Systems</ref><ref type="context" target="info:fedora/context:vase.ocm.770">Religious Beliefs</ref></ab></div>
+    </back>
+  </text>
+</TEI>

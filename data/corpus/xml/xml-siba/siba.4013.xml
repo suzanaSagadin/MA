@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Unveiling of the 'Victor' monument in Kalemegdan</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4013</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba.0013</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:103"><ref type="context" target="info:fedora/context:siba.103">Place Names</ref><term type="broader" key="ocm:100"><ref type="context" target="info:fedora/context:siba.100">Orientation</ref></term></term><term key="ocm:211"><ref type="context" target="info:fedora/context:siba.211">Mnemonic Devices</ref><term type="broader" key="ocm:210"><ref type="context" target="info:fedora/context:siba.210">Records</ref></term></term><term key="ocm:369"><ref type="context" target="info:fedora/context:siba.369">Urban and Rural Life</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term><term key="ocm:186"><ref type="context" target="info:fedora/context:siba.186">Cultural Identity and Pride</ref><term type="broader" key="ocm:180"><ref type="context" target="info:fedora/context:siba.180">Total Culture</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1928</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">View of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K3">Kalemegdan</ref> on the occasion of the unveiling of the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=P3">Pobednik</ref> statue. The photograph shows the column from a distance surrounded by scaffolding and towering over the confluence of the Danube and Sava rivers. To its right, there is an imposing building in the style of an Ottoman <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K11">konak</ref>. A large crowd of people is scattered across the various levels of the fortress, now a public park.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph was taken on the occasion of the official opening of the park’s stone stairway and the unveiling of the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=P3">Pobednik</ref> statue in 1928.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1928"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Kalemegdan</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.4063" /><ptr target="siba.4093" /><ptr target="siba.4212" /></linkGrp><listBibl><bibl>Istorija Beogradske Tvrdjave. Source: http://www.beogradskatvrdjava.co.rs/?p=681&amp;lang=la (accessed 23.04.2016)</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4013.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.103">Place Names</ref><ref type="context" target="info:fedora/context:vase.ocm.100">Orientation</ref><ref type="context" target="info:fedora/context:vase.ocm.211">Mnemonic Devices</ref><ref type="context" target="info:fedora/context:vase.ocm.210">Records</ref><ref type="context" target="info:fedora/context:vase.ocm.369">Urban and Rural Life</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref><ref type="context" target="info:fedora/context:vase.ocm.186">Cultural Identity and Pride</ref><ref type="context" target="info:fedora/context:vase.ocm.180">Total Culture</ref></ab></div>
+    </back>
+  </text>
+</TEI>

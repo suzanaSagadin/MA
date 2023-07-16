@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Advertisement for the feature film ‘Du gehörst zu mir’</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>BACI – Balkan Cinema</edition>
+        <respStmt>
+          <name>Karl Kaser</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:baci.1031</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Jugoslovenska kinoteka</orgName>
+          <name type="collection" xml:lang="en">Fototeka</name>
+          <idno type="invNo">Commercial material 07</idno>
+          <ptr target="http://www.kinoteka.org.rs/wp/" />
+        </ab>
+        <ab type="copyright">Jugoslovenska kinoteka, Belgrade</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:546">
+            <ref target="info:fedora/context:baci.546" type="context">Motion Picture Industry</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:baci.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+          <term key="ocm:447">
+            <ref target="info:fedora/context:baci.447" type="context">Advertising</ref>
+            <term key="ocm:440" type="broader">
+              <ref target="info:fedora/context:baci.440" type="context">Marketing</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Leaflet</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1943 after</date>
+      </ab>
+      <ab type="lido:objectDescriptionSet">The frameless leaflet features sketched persons and objects. The background is black and green. In the centre of the image are a man and woman not looking at one another. He is dressed completely in white. To his right is a bottle with a white cross on it. The woman is dressed completely in black. In the lower part of the picture, the Serbo-Croatian film title is written in green and white Cyrillic letters: ‘Jača od smrti’ (Stronger than death). In the corner bottom right, the four letters ‘SBOP’ are printed.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">‘Du gehörst zu mir’. Willy Birgel played the lead role of Prof. Dr. Burghardt. The film was directed by Gerhard Lamprecht and released in 1943. The four letters ‘SBOP’ are obviously the acronym of the (Serbian) film import company.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1943" />
+        <country type="contemporary">unknown</country>
+        <country type="historical">Yugoslavia</country>
+        <placeName xml:id="SID.1">
+          <ref target="info:fedora/context:baci.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///baci.1031-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+      <div type="ocm-contexts">
+        <ab>
+          <ref target="info:fedora/context:vase.ocm.546" type="context">Motion Picture Industry</ref>
+          <ref target="info:fedora/context:vase.ocm.540" type="context">Commercialized Entertainment</ref>
+          <ref target="info:fedora/context:vase.ocm.447" type="context">Advertising</ref>
+          <ref target="info:fedora/context:vase.ocm.440" type="context">Marketing</ref>
+        </ab>
+      </div>
+    </back>
+  </text>
+</TEI>

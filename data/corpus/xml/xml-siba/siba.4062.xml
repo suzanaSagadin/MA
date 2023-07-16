@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>'Slava' ceremony of the colonial merchants</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4062</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0117</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:438"><ref type="context" target="info:fedora/context:siba.438">Domestic Trade</ref><term type="broader" key="ocm:430"><ref type="context" target="info:fedora/context:siba.430">Exchange</ref></term></term><term key="ocm:221"><ref type="context" target="info:fedora/context:siba.221">Annual Cycle</ref><term type="broader" key="ocm:220"><ref type="context" target="info:fedora/context:siba.220">Food Quest</ref></term></term><term key="ocm:353"><ref type="context" target="info:fedora/context:siba.353">Building Interiors and Arrangement</ref><term type="broader" key="ocm:350"><ref type="context" target="info:fedora/context:siba.350">Equipment and Maintenance of BLDGS</ref></term></term><term key="ocm:796"><ref type="context" target="info:fedora/context:siba.796">Organized Ceremonial</ref><term type="broader" key="ocm:790"><ref type="context" target="info:fedora/context:siba.790">Ecclesiatical Organization</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1929-02-12</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Three dignitaries representing the merchants' organizations of Belgrade pose together with archpriest Božić and <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=P1">patriarch</ref> Dimitrije at a table prepared for the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=S13">slava</ref> ritual. The table is covered with a white cloth and features a tall candlestick decorated with a tricoloured ribbon, a loaf of bread, a glass of red wine and a carefully bound bunch of basil on a plate filled with water. The glass cabinets behind are decorated for the occasion with a large <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K9">kelim</ref> and an icon of three saints. Inside the cabinets, various stuffed birds are on display.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph appeared in the newspaper Vreme on 13 Feburary 1929 in its 'Belgrade Chronicle' section. From left to right: archpriest Božić, <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=P1">patriarch</ref> Dimitrije, Stevan Sekerezović, president of the Colonial Merchants' Association, Mihajlo Đurić, vice-president of the Chamber of Merchants, and Toma Radenković, president of the Merchants’ Association of Serbia. The colonial merchants celebrated their <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=S13">slava</ref> on the day of the Three Holy Hierarchs ('Sveta Tri Jerarha') in the hunters' room of the Hotel Imperijal.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1929-02-12"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.4010" /></linkGrp><listBibl><bibl>Slava udruženja trgovaca-kolonijalista. Vreme 2566, 13 February 1929, 9.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4062.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.438">Domestic Trade</ref><ref type="context" target="info:fedora/context:vase.ocm.430">Exchange</ref><ref type="context" target="info:fedora/context:vase.ocm.221">Annual Cycle</ref><ref type="context" target="info:fedora/context:vase.ocm.220">Food Quest</ref><ref type="context" target="info:fedora/context:vase.ocm.353">Building Interiors and Arrangement</ref><ref type="context" target="info:fedora/context:vase.ocm.350">Equipment and Maintenance of BLDGS</ref><ref type="context" target="info:fedora/context:vase.ocm.796">Organized Ceremonial</ref><ref type="context" target="info:fedora/context:vase.ocm.790">Ecclesiatical Organization</ref></ab></div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="motivtitle">Männer sitzen um einen Tisch</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>Picturing Migrants Lives - Jovan Ritopečki’s photographic documentation of Yugoslav labour migration in Austria (1970–89)</edition>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="VB">
+                  <forename>Vida</forename>
+                  <surname>Bakondy</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="DS">
+                  <forename>Darko</forename>
+                  <surname>Stojanov-Leitner</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="MS">
+                  <forename>Martina</forename>
+                  <surname>Scholger</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="SS">
+                  <forename>Suzana</forename>
+                  <surname>Sagadin</surname>
+               </persName>
+            </respStmt>
+            <!--Vida fragen, ob es so passt-->
+            <funder>
+               <orgName ref="https://www.fwf.ac.at/">Fonds zur Förderung wissenschaftlicher Forschung</orgName>
+               <num>FWF T 1083-G</num>
+            </funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><!--Mit Vida besprechen-->
+               <ref target="https://www.oeaw.ac.at"/>
+               <orgName ref="http://d-nb.info/gnd/1001454-8">Austrian Academy of Sciences</orgName>
+            </publisher>
+            <authority>
+               <ref target="https://informationsmodellierung.uni-graz.at"/>
+               <orgName ref="http://d-nb.info/gnd/1137284463">Institute Centre for Information Modelling - Austrian Centre for Digital Humanities</orgName>
+            </authority>
+            <distributor>
+               <ref target="https://gams.uni-graz.at"/>
+               <orgName>GAMS - Humanities’ Asset Management System</orgName>
+            </distributor>
+            <availability><!--Mit Vida reden-->
+               <licence n="text" target="https://creativecommons.org/licenses/by/4.0">Creative Commons BY 4.0</licence>
+               <licence n="facsimile"
+                        target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</licence>
+            </availability>
+            <date ana="dcterms:issued" when="2023">2023</date>
+            <pubPlace>Graz, Austria</pubPlace>
+            <idno type="PID">o:vismig.m.2003.16</idno>
+            <ref target="context:vismig.s.2003" type="context" subtype="Series">(FT1) Rio Grande Horrorhaus im 23. Bezirk in Wien  – Wohnungen für jug. Arbeiter / (FT2) Horrorhaus jugoslawische Arbeiter 23. Bezirk Wien</ref>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="series_description">Aufnahmen von einer  Gemeinschaftsunterkunft und ihren Bewohner*innen - junge und ältere Männer und Frauen. Ritopečki tastet mit seiner Kamera einzelne Wohneinheiten ab und fotografiert Bewohner*innen allein oder in Gruppen. Kleiderschränke, Bretterwände und Tücher fungieren als improvisierte Raumteiler. Das Einrichtungsmobiliar ist spärlich und sehr heruntergekommen, die Wände und Böden sind teilweise stark verschmutzt. Schlaf-, Gemeinschafts- und Kochräume gehen fließend ineinander über. </ab>
+            <ab type="series_comment">Der Fotograf hatte den Anspruch die Wohnsituation zu dokumentieren, gleichzeitig weist die Mehrzahl der Fotos einen inszenierten Charakter auf. Auf vielen Aufnahmen ist offensichtlich, dass die Personen für die Kamera posieren.  Es werden nicht nur erschreckende Wohnverhältnisse dokumentiert, sondern auch Formen von Gemeinschaft. Einzelne Aufnahmen aus der Serie wurden inmg Zeitungsberichten veröffentlicht. </ab>
+            <ab type="archival_remarks">Der Inhalt der Serie wurde auf zwei Fototaschen aufgeteilt, mit leicht veränderter Betitelung. Zwei der Aufnahmen sind unscharf.</ab>
+            <ab type="copyright">NL Jovan Ritopečki</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="context:vismig" type="context">vismig</ref>
+               <!--Projektbeschreibung-->
+            </p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <persName role="Photographer">
+               <forename>Jovan</forename>
+               <surname>Ritopečki</surname>
+               <ref target="context:vismig.pn.ritopecki" type="context">Ritopečki, Jovan</ref>
+            </persName>
+            <date ana="dcterms:created" type="creation" when="1973">1973</date>
+            <country type="contemporary">Österreich</country>
+            <placeName>
+               <ref target="context:vismig.gn.vienna" type="context">Vienna</ref>
+            </placeName>
+         </creation>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         <textClass>
+            <keywords resp="VB">
+               <term key="S018">
+                  <ref target="context:vismig.vb.s018" type="context">Männer</ref>
+               </term>
+               <term key="S025">
+                  <ref target="context:vismig.vb.s025" type="context">Privater Raum</ref>
+               </term>
+               <term key="S037">
+                  <ref target="context:vismig.vb.s037" type="context">Wohnen</ref>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="1"
+                  url="../img/2003_img27.jpg"
+                  xml:id="IMAGE.1"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="2"
+                  url="../img/2003_img28.jpg"
+                  xml:id="IMAGE.2"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="3"
+                  url="../img/2003_img29.jpg"
+                  xml:id="IMAGE.3"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="4"
+                  url="../img/2003_img30.jpg"
+                  xml:id="IMAGE.4"/>
+      </surface>
+   </facsimile>
+   <standOff>
+      <bibl>
+         <ref target="o:vismig.bibl.b007" type="object" subtype="article">"Rio Grande" Kuća Užasa, Yu Novosti</ref>
+      </bibl>
+   </standOff>
+   <text>
+      <body>
+         <listObject>
+            <object type="motiv" xml:id="m.2003.16">
+               <objectIdentifier>
+                  <idno type="invNo">Box 1973-1976(8), FT 288 +1FT</idno>
+               </objectIdentifier>
+               <objectContents>
+                  <ab type="description">Sechs Männer unterschiedlichen Alters sitzen im Halbkreis um einen Tisch, unterhalten sich und rauchen Zigaretten. Sie scheinen keine Notiz von der Kamera zu nehmen. Die Tatsache, dass der zur Kamera hingewandte Teil des Tisches leer blieb und so den Blick auf die Gruppe frei hält, deutet aber auf eine bewusste Inszenierung der Gesprächssituation hin.  Einer der Männer trägt ein weißes Hemd und eine Krawatte. Auffallend sind ferner ein paar Wohnaccesoires an der Wand im Bildhintergrund, darunter ein gerahmtes Bild, ein Wecker und ein Abrisskalender. Am Fußende des Stockbettes hängt ein in Folie verpackter Anzug auf einem Kleiderbügel. </ab>
+                  <ab type="comment">Aus einem zeitgenössischen Bericht in Yu Novosti über das "Horrorhaus" im 23. Bezirk ist zu entnehmen, dass die abgebildete Männergruppe aus Vinica in Nordmazedonien stammt. Sie wohnen auf 8qm Wohnfläche.</ab>
+               </objectContents>
+               <physDesc>
+                  <objectDesc>
+                     <p>Motiv beinhaltet TODO Fotos und gehört zur Serie TODO.</p>
+                  </objectDesc>
+               </physDesc>
+               <object type="image" facs="#IMAGE.1">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2003.16/IMAGE.1</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.2">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2003.16/IMAGE.2</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.3">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2003.16/IMAGE.3</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.4">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2003.16/IMAGE.4</idno>
+                  </objectIdentifier>
+               </object>
+            </object>
+         </listObject>
+      </body>
+   </text>
+</TEI>

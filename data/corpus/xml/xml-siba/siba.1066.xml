@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Flea market in Edirnekapı</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1066</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">AYVANSARAY- PANAYIR- 033D</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:438"><ref type="context" target="info:fedora/context:siba.438">Domestic Trade</ref><term type="broader" key="ocm:430"><ref type="context" target="info:fedora/context:siba.430">Exchange</ref></term></term><term key="ocm:529"><ref type="context" target="info:fedora/context:siba.529">Recreational Facilities</ref><term type="broader" key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term></term><term key="ocm:367"><ref type="context" target="info:fedora/context:siba.367">Parks</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term><term key="ocm:432"><ref type="context" target="info:fedora/context:siba.432">Buying and Selling</ref><term type="broader" key="ocm:430"><ref type="context" target="info:fedora/context:siba.430">Exchange</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1931-08</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">A crowd is resting in a field outside the city walls near Edirnekapı. Children, men and women are grouped as if on a family outing, some sitting on the earth with shoes removed, others lying on the ground. Most of the women are wearing a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=F2">ferece</ref>. In the centre forground, a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=S12">simit</ref> seller with two large baskets roams the crowd. Somewhat behind him is a cart pulled by oxen, and a handcart loaden with fruit. In the lower right corner, a group of men in European suits sits around an open box. A veiled woman in a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=F2">ferece</ref> is passing with a large basket on her arm. The area is bordered by a few stone houses and a path with a high stone wall. Behind, in the area up to the city wall, are the gravestones of a Christian cemetery.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The flea market near Edirnekapı took place every Friday in late summer and attracted traders and visitors from the whole Istanbul area. This picture appeared on 22 August 1931 in the newspaper Yeni Gün as part of a series with the title, 'İstanbul'un Köşe, Bucağı’ (Corners and nooks of Istanbul), authored by Osman Cemal (Kaygılı). He portrayed the area as a wide field in the midst of several old cemeteries and introduced readers to some of the traders and visitors.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1931-08"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Edirnekapı, Fatih</note></placeName></ab>
+    <listBibl><bibl>(Kaygılı), Osman Cemal: 'İstanbul'un Köşe, Bucağı – Edirnekapı'da Mısır Safası!' Yeni Gün, 22 August 1931.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1066.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.438">Domestic Trade</ref><ref type="context" target="info:fedora/context:vase.ocm.430">Exchange</ref><ref type="context" target="info:fedora/context:vase.ocm.529">Recreational Facilities</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref><ref type="context" target="info:fedora/context:vase.ocm.367">Parks</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref><ref type="context" target="info:fedora/context:vase.ocm.432">Buying and Selling</ref><ref type="context" target="info:fedora/context:vase.ocm.430">Exchange</ref></ab></div>
+    </back>
+  </text>
+</TEI>

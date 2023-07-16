@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Military funeral procession in İstiklal Street</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1067</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">BEYOGLU - FRANSIZ KULTUR ONUNDE CENAZE- NGTF 002</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:764"><ref type="context" target="info:fedora/context:siba.764">Burial Practices and Funerals</ref><term type="broader" key="ocm:760"><ref type="context" target="info:fedora/context:siba.760">Death</ref></term></term><term key="ocm:769"><ref type="context" target="info:fedora/context:siba.769">Cult of the Dead</ref><term type="broader" key="ocm:760"><ref type="context" target="info:fedora/context:siba.760">Death</ref></term></term><term key="ocm:788"><ref type="context" target="info:fedora/context:siba.788">Ritual</ref><term type="broader" key="ocm:780"><ref type="context" target="info:fedora/context:siba.780">Religious Practices</ref></term></term><term key="ocm:714"><ref type="context" target="info:fedora/context:siba.714">Uniform and Accouterment</ref><term type="broader" key="ocm:710"><ref type="context" target="info:fedora/context:siba.710">Military Technology</ref></term></term><term key="ocm:701"><ref type="context" target="info:fedora/context:siba.701">Military Organization</ref><term type="broader" key="ocm:700"><ref type="context" target="info:fedora/context:siba.700">Armed Forces</ref></term></term><term key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term><term key="ocm:292"><ref type="context" target="info:fedora/context:siba.292">Special Garments</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1927</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">A military funeral procession is moving down <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=I4">İstiklal Caddesi</ref> from <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=T2">Taksim</ref> Square, watched by numerous bystanders. The photographer observes the scene from above and has focused on a long series of wreaths, each carried by two men. Rows of mostly uniformed men are escorting the wreaths. Nine men in elegant civilian suits, some of them with walking sticks, are leading the procession (at least in the section captured here).</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photographer probably took the picture from the roof of a tram, since his position is exactly above the tram rails. The number of participants and the amount of wreaths indicates the prominent position of the deceased.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1927"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Istiklal Caddesi, Beyoğlu</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1055" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1067.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.764">Burial Practices and Funerals</ref><ref type="context" target="info:fedora/context:vase.ocm.760">Death</ref><ref type="context" target="info:fedora/context:vase.ocm.769">Cult of the Dead</ref><ref type="context" target="info:fedora/context:vase.ocm.760">Death</ref><ref type="context" target="info:fedora/context:vase.ocm.788">Ritual</ref><ref type="context" target="info:fedora/context:vase.ocm.780">Religious Practices</ref><ref type="context" target="info:fedora/context:vase.ocm.714">Uniform and Accouterment</ref><ref type="context" target="info:fedora/context:vase.ocm.710">Military Technology</ref><ref type="context" target="info:fedora/context:vase.ocm.701">Military Organization</ref><ref type="context" target="info:fedora/context:vase.ocm.700">Armed Forces</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.292">Special Garments</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref></ab></div>
+    </back>
+  </text>
+</TEI>

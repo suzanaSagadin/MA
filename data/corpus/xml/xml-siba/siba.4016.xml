@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Avram Filipović's hardware shop in Uzun Mirko Street</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4016</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba.prodavnice u beogradu</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:156"><ref type="context" target="info:fedora/context:siba.156">Social Personality</ref><term type="broader" key="ocm:150"><ref type="context" target="info:fedora/context:siba.150">Behavior Processes and Personality</ref></term></term><term key="ocm:552"><ref type="context" target="info:fedora/context:siba.552">Names of Animals and Things</ref><term type="broader" key="ocm:550"><ref type="context" target="info:fedora/context:siba.550">Individuation and Mobility</ref></term></term><term key="ocm:444"><ref type="context" target="info:fedora/context:siba.444">Retail Businesses</ref><term type="broader" key="ocm:440"><ref type="context" target="info:fedora/context:siba.440">Marketing</ref></term></term><term key="ocm:447"><ref type="context" target="info:fedora/context:siba.447">Advertising</ref><term type="broader" key="ocm:440"><ref type="context" target="info:fedora/context:siba.440">Marketing</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1925-1940</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Exterior view of a tidy metalware shop with a large display of products in its windows, most of them for household purposes. A wood stove and a few other items are positioned on the pavement in front of the shop’s entrance. The shop is located in the ground floor of the 'Belgrade Crediting Institute' building in Uzun Mirko Street.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The brothers Avram and Svetozar Filipović were the owners of the foundry 'Gvoždje a.d.', along with Dušan Stojanović. Their main shop 'Avram Filipović i brat', known locally as 'Ferum', was located in Kralj Aleksandar Street (today Nikola Pašić Square), while a second shop was situated in Uzun Mirko Street. This photograph was probably taken for advertising purposes.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date notBefore="1925" notAfter="1940"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Uzun Mirkova ulica</note></placeName></ab>
+    <listBibl><bibl>Borba za vraćanje nepravedno oduzetog. Source: http://www.b92.net/news/tema_dana.php?lang=srpski&amp;yyyy=2003&amp;mm=2&amp;nav_id=100187&amp;order=priority (accessed 23.04.2016)</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4016.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.156">Social Personality</ref><ref type="context" target="info:fedora/context:vase.ocm.150">Behavior Processes and Personality</ref><ref type="context" target="info:fedora/context:vase.ocm.552">Names of Animals and Things</ref><ref type="context" target="info:fedora/context:vase.ocm.550">Individuation and Mobility</ref><ref type="context" target="info:fedora/context:vase.ocm.444">Retail Businesses</ref><ref type="context" target="info:fedora/context:vase.ocm.440">Marketing</ref><ref type="context" target="info:fedora/context:vase.ocm.447">Advertising</ref><ref type="context" target="info:fedora/context:vase.ocm.440">Marketing</ref></ab></div>
+    </back>
+  </text>
+</TEI>

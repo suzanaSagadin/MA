@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Portrait of women - wives of combatant-veterans from the Bulgarian Anti-Ottoman April Uprising 1876</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.511</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национална Библиотека "Св. св. Кирил и Методий"</orgName>
+          <orgName xml:lang="en">St. Cyril and St. Methodius National Library</orgName>
+          <idno type="invNo">C III 909</idno>
+          <ptr target="http://www.nationallibrary.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:369">
+            <ref target="info:fedora/context:vase.369" type="context">Urban and Rural Life</ref>
+            <term key="ocm:360" type="broader">
+              <ref target="info:fedora/context:vase.360" type="context">Settelments</ref>
+            </term>
+          </term>
+          <term key="ocm:669">
+            <ref target="info:fedora/context:vase.669" type="context">Revolution</ref>
+            <term key="ocm:660" type="broader">
+              <ref target="info:fedora/context:vase.660" type="context">Political Behavior</ref>
+            </term>
+          </term>
+          <term key="ocm:729">
+            <ref target="info:fedora/context:vase.729" type="context">War Veterans</ref>
+            <term key="ocm:720" type="broader">
+              <ref target="info:fedora/context:vase.720" type="context">War</ref>
+            </term>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Tserovo</settlement>
+                <name ref="http://geonames.org/726230" type="fcode:PPL">Tserovo</name>
+                <location>
+                  <geo>24.05,42.35</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Court photographer</roleName>
+        <date>1900-1905</date>
+        <persName>
+          <forename>Ivan Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c3834c" type="context">Karastoyanov, Ivan Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Half-portrait of five sitting elderly women in dark urban-rural clothes, all with kerchieves. A stretched white cloth/stuff serves as a backdrop.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">Gina Geneva Kyurkchiyska, Velika Angelova Teliyska, Rada Stoyanova Serdarova, Gina Nikolova Kochova, Nikolina Genova Teliyska. The photograph was taken on the occasion of the 25th Anniversary of the Anti-Ottoman Uprising from 1876.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">177</height>
+          <width unit="mm">254</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">138</height>
+          <width unit="mm">205</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1905" notBefore="1900" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.258d885c" type="context">Tserovo</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <listBibl>
+        <bibl>Boev, Petar (1983): Fotografskoto izkustvo v Balgaria /1856 - 1944/. Sofia: DI "Septemvri", 68</bibl>
+        <bibl> Zografova, Katia (2011): Zhenite v Aprilskoto vastanie. Ot "Amazonkite" do novomachenitsite. Sofia: Iztok-Zapad</bibl>
+        <bibl> Kassabova, Anelia (2012): Identities in frame. Photography and the Construction of a „National Body“ in Bulgaria (approx. 1860 to WW I). In: Hristov, Petko (Ed.): Migration and Identity. Historical, Cultural and Linguistic Dimensions of Mobility in the Balkans. Sofia: Paradigma, 83.</bibl>
+      </listBibl>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.511-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.511-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

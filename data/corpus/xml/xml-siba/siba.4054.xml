@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Well-wishers on the King's birthday in front of the Belgrade Municipality building</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4054</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0097</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:292"><ref type="context" target="info:fedora/context:siba.292">Special Garments</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term><term key="ocm:554"><ref type="context" target="info:fedora/context:siba.554">Status, Role, and Prestige</ref><term type="broader" key="ocm:550"><ref type="context" target="info:fedora/context:siba.550">Individuation and Mobility</ref></term></term><term key="ocm:561"><ref type="context" target="info:fedora/context:siba.561">Age stratification</ref><term type="broader" key="ocm:560"><ref type="context" target="info:fedora/context:siba.560">Social Stratification</ref></term></term><term key="ocm:641"><ref type="context" target="info:fedora/context:siba.641">Citizenship</ref><term type="broader" key="ocm:640"><ref type="context" target="info:fedora/context:siba.640">State</ref></term></term><term key="ocm:485"><ref type="context" target="info:fedora/context:siba.485">Travel Services</ref><term type="broader" key="ocm:480"><ref type="context" target="info:fedora/context:siba.480">Travel and Transportation</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1929-12-16</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">A group of men pose in Uzun Mirko Street in front of the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B8">Beogradska opština</ref>, all holding a white sheet or brochure in their hands. In the front row are five men in rich <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=N3">national garb</ref> from Dalmatia, Croatia, Bosnia and Herzegovina, flanked by two men in top hats and dark coats on the left, and by a man in a plaid coat and another in a bowler hat to the right. Behind them, the heads of more men are visible, mostly in top hats or bowler hats, one wearing a Montenegrin cap.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph appeared on 18 December 1929 in the newspapers Vreme and Politika in the frame of reports on King Aleksandar's 41st birthday celebrations. It features delegates from the Sava and the Littoral <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B3">banovina</ref>s, who were selected, along with several hundred others from all regions of Yugoslavia, to attend a formal dinner given in the hotels 'Srpski Kralj' and 'Kasina'. The delegates congratulated the King on his birthday, expressing their allegiance, loyalty and sincere commitment to Yugoslavia.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1929-12-16"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Uzun Mirkova ulica</note></placeName></ab>
+    <listBibl><bibl>Svečani ručak kod 'Kralja' i 'Kasine' i prijem u Dvoru. Politika 7767, 18 December 1929, 3.</bibl><bibl>  Rodjendan Nj. V. Kralja. Vreme 2868, 18 December 1929, 1.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4054.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.292">Special Garments</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.554">Status, Role, and Prestige</ref><ref type="context" target="info:fedora/context:vase.ocm.550">Individuation and Mobility</ref><ref type="context" target="info:fedora/context:vase.ocm.561">Age stratification</ref><ref type="context" target="info:fedora/context:vase.ocm.560">Social Stratification</ref><ref type="context" target="info:fedora/context:vase.ocm.641">Citizenship</ref><ref type="context" target="info:fedora/context:vase.ocm.640">State</ref><ref type="context" target="info:fedora/context:vase.ocm.485">Travel Services</ref><ref type="context" target="info:fedora/context:vase.ocm.480">Travel and Transportation</ref></ab></div>
+    </back>
+  </text>
+</TEI>

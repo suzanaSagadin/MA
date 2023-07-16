@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Süleyman Adem Brothers hairdressers shop</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1112</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">ASRI BERBER VE PERUKAR SALONU</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:170"><ref type="context" target="info:fedora/context:siba.170">History and Culture Change</ref></term><term key="ocm:446"><ref type="context" target="info:fedora/context:siba.446">Sales Promotion</ref><term type="broader" key="ocm:440"><ref type="context" target="info:fedora/context:siba.440">Marketing</ref></term></term><term key="ocm:890"><ref type="context" target="info:fedora/context:siba.890">Gender Roles and Issues</ref></term><term key="ocm:512"><ref type="context" target="info:fedora/context:siba.512">Daily Routine</ref><term type="broader" key="ocm:510"><ref type="context" target="info:fedora/context:siba.510">Living Standards and Routines</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1928</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Hair salon’s entrance and shop window. The name on the window reads 'Asrî berber salonu - Süleyman Adem biraderler' (Modern hair salon - Süleyman Adem Brothers). Behind the elaborate shop window, various unidentifiable objects and a female mannequin sporting a modern short haircut can be seen. A corpulent man in a suit is standing at in the entrance, partly concealed by the window. Next to him, three men in white work coats with dark collars are vaguely visible inside the shop. A plaque fixed over the entrance has the inscription 'Asrî nezahet perukar salonu' (Modern and decent hair salon). A painting on the wall to the right of the window offers a shave (‘traş’) for twenty kuruş. It is half covered by a sign advertising the shop.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The plaque above the entrance advertising the shop as ‘Perukar salonu’ suggests that the shop also produced wigs. However, ‘perukar’ by this time was used as a modern, more attractive replacement for the term ‘berber’ (barber). This hairdresser used both terms, ‘perukar’ on the plate and ‘berber salonu’ on the shop window, both preceded by the attribute ‘modern’ (asrî).</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1928"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1112.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.170">History and Culture Change</ref><ref type="context" target="info:fedora/context:vase.ocm.446">Sales Promotion</ref><ref type="context" target="info:fedora/context:vase.ocm.440">Marketing</ref><ref type="context" target="info:fedora/context:vase.ocm.890">Gender Roles and Issues</ref><ref type="context" target="info:fedora/context:vase.ocm.512">Daily Routine</ref><ref type="context" target="info:fedora/context:vase.ocm.510">Living Standards and Routines</ref></ab></div>
+    </back>
+  </text>
+</TEI>

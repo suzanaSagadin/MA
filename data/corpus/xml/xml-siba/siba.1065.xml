@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Street scene in Aksaray</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1065</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">AKSARAY- TRAMVAY- OTOMOBIL- NGTF</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:363"><ref type="context" target="info:fedora/context:siba.363">Streets and Traffic</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term><term key="ocm:760"><ref type="context" target="info:fedora/context:siba.760">Death</ref></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1927-01-12</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">A tram is travelling down the tracks in front of the Pertevniyal Valide Sultan Mosque, followed by a car. Pedestrians are walking the road on both sides. To the left, the road stops short and the cobblestones give way to a plain field. A pile of cobblestones and some loose ones mark this area as a construction site. To the right, a woman is opening a shop window in a two-storey building. She and the man next to her look in the direction of the camera.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph accompanied an article in Cumhuriyet with the title, ‘Who is responsible for the tram accident?’, reflecting on an accident that took place on the same street two days earlier. An almost identical picture, taken only seconds later from the same angle, appeard in Son Saat the day before.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1927-01-12"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Aksaray, Fatih</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1061" /><ptr target="siba.1062" /><ptr target="siba.1063" /><ptr target="siba.1064" /></linkGrp><listBibl><bibl>Tramvay kazasından kim masuldır?, Cumhuriyet, 14 January 1927, 1. – Son Saat, 13 January 1927, 1.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1065.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.363">Streets and Traffic</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref><ref type="context" target="info:fedora/context:vase.ocm.760">Death</ref></ab></div>
+    </back>
+  </text>
+</TEI>

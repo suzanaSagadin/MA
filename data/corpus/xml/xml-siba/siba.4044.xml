@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preparing for the lucky draw</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4044</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0070</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:525"><ref type="context" target="info:fedora/context:siba.525">Gambling</ref><term type="broader" key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term></term><term key="ocm:353"><ref type="context" target="info:fedora/context:siba.353">Building Interiors and Arrangement</ref><term type="broader" key="ocm:350"><ref type="context" target="info:fedora/context:siba.350">Equipment and Maintenance of BLDGS</ref></term></term><term key="ocm:344"><ref type="context" target="info:fedora/context:siba.344">Public Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:301"><ref type="context" target="info:fedora/context:siba.301">Ornament</ref><term type="broader" key="ocm:300"><ref type="context" target="info:fedora/context:siba.300">Adornment</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1929-06-16</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Indoor shot of two schoolgirls, one standing on a table, the other on a chair. Between them is a large wooden drum with a rotating device, containing a number of identical white items. The girl on the chair, left of the drum, is wearing a festive white dress with a necklace and has a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B15">Bubikopf</ref> hairstyle. The girl on the table, to the right of the machine, is dressed in a pleated skirt and a white blouse. Her hair is tied in two plaits. Both girls look very earnest, with their eyes wide open. Behind the table and drum, men and schoolchildren have tightly assembled, looking equally sober. A clock on the wall to the left shows five minutes past five.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">On 16 June 1929, the festival of Pentecost, the newspaper Vreme organized a lottery in its premises in Poenkareva Street. Sisters Marija and Hedviga Hmelar were selected to assist and the newspaper reported extensively the following day, along with this photograph. The happy winners were Vinko Mihić from Skopje, who received the first prize of 20,000 dinars, and Hela Afandari from Belgrade, who won the second prize of 10,000 dinars.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1929-06-16"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref></placeName></ab>
+    <listBibl><bibl>Premiju od 20.000 dinara dobio je g.Vinko Mihić, stolar iz Skoplja. Vreme 2686, 17 June 1929, 3.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4044.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.525">Gambling</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref><ref type="context" target="info:fedora/context:vase.ocm.353">Building Interiors and Arrangement</ref><ref type="context" target="info:fedora/context:vase.ocm.350">Equipment and Maintenance of BLDGS</ref><ref type="context" target="info:fedora/context:vase.ocm.344">Public Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.301">Ornament</ref><ref type="context" target="info:fedora/context:vase.ocm.300">Adornment</ref></ab></div>
+    </back>
+  </text>
+</TEI>

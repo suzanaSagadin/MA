@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="motivtitle">Visit of worker’s accommodation</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>Picturing Migrants Lives - Jovan Ritopečki’s photographic documentation of Yugoslav labour migration in Austria (1970–89)</edition>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="VB">
+                  <forename>Vida</forename>
+                  <surname>Bakondy</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data acquisition</resp>
+               <persName xml:id="DS">
+                  <forename>Darko</forename>
+                  <surname>Stojanov-Leitner</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="MS">
+                  <forename>Martina</forename>
+                  <surname>Scholger</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>data modeling and encoding</resp>
+               <persName xml:id="SS">
+                  <forename>Suzana</forename>
+                  <surname>Sagadin</surname>
+               </persName>
+            </respStmt>
+            <!--Vida fragen, ob es so passt-->
+            <funder>
+               <orgName ref="https://www.fwf.ac.at/">Fonds zur Förderung wissenschaftlicher Forschung</orgName>
+               <num>FWF T 1083-G</num>
+            </funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><!--Mit Vida besprechen-->
+               <ref target="https://www.oeaw.ac.at"/>
+               <orgName ref="http://d-nb.info/gnd/1001454-8">Austrian Academy of Sciences</orgName>
+            </publisher>
+            <authority>
+               <ref target="https://informationsmodellierung.uni-graz.at"/>
+               <orgName ref="http://d-nb.info/gnd/1137284463">Institute Centre for Information Modelling - Austrian Centre for Digital Humanities</orgName>
+            </authority>
+            <distributor>
+               <ref target="https://gams.uni-graz.at"/>
+               <orgName>GAMS - Humanities’ Asset Management System</orgName>
+            </distributor>
+            <availability><!--Mit Vida reden-->
+               <licence n="text" target="https://creativecommons.org/licenses/by/4.0">Creative Commons BY 4.0</licence>
+               <licence n="facsimile"
+                        target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</licence>
+            </availability>
+            <date ana="dcterms:issued" when="2023">2023</date>
+            <pubPlace>Graz, Austria</pubPlace>
+            <idno type="PID">o:vismig.m.2017.1</idno>
+            <ref target="context:vismig.s.2017" type="context" subtype="Series">Delegates of the Socialist Alliance of the Working People of Yugoslavia - Vienna - Yugoslav workers</ref>
+         </publicationStmt>
+         <sourceDesc>
+            <ab type="series_description">This photo series documents the visit of representatives of a Yugoslav delegation… The pictures are taken in three different rooms or locations and three different settings (accomodation, work/training and leisure time).</ab>
+            <ab type="copyright">NL Jovan Ritopečki</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="context:vismig" type="context">vismig</ref>
+               <!--Projektbeschreibung-->
+            </p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <persName role="Photographer">
+               <forename>Jovan</forename>
+               <surname>Ritopečki</surname>
+               <ref target="context:vismig.pn.ritopecki" type="context">Ritopečki, Jovan</ref>
+            </persName>
+            <date ana="dcterms:created" type="creation" when="1972">1972</date>
+            <country type="contemporary">Austria</country>
+            <placeName>
+               <ref target="context:vismig.gn.vienna" type="context">Vienna</ref>
+            </placeName>
+         </creation>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         <textClass>
+            <keywords resp="VB">
+               <term key="S018">
+                  <ref target="context:vismig.vb.s018" type="context">Männer</ref>
+               </term>
+               <term key="S025">
+                  <ref target="context:vismig.vb.s025" type="context">Privater Raum</ref>
+               </term>
+               <term key="S037">
+                  <ref target="context:vismig.vb.s037" type="context">Wohnen</ref>
+               </term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="1"
+                  url="../img/2017_img1.jpg"
+                  xml:id="IMAGE.1"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="2"
+                  url="../img/2017_img2.jpg"
+                  xml:id="IMAGE.2"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="3"
+                  url="../img/2017_img3.jpg"
+                  xml:id="IMAGE.3"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="4"
+                  url="../img/2017_img4.jpg"
+                  xml:id="IMAGE.4"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="5"
+                  url="../img/2017_img5.jpg"
+                  xml:id="IMAGE.5"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="6"
+                  url="../img/2017_img6.jpg"
+                  xml:id="IMAGE.6"/>
+      </surface>
+      <surface>
+         <graphic mimeType="image/jpeg"
+                  n="7"
+                  url="../img/2017_img7.jpg"
+                  xml:id="IMAGE.7"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <listObject>
+            <object type="motiv" xml:id="m.2017.1">
+               <objectIdentifier>
+                  <idno type="invNo"/>
+               </objectIdentifier>
+               <objectContents>
+                  <ab type="description">We see the living quarters of several workers (all men on the pictures). There are beds (for 5 people), including one bunk bed, as well as two cooking stove and dinner table. Each picture shows 2-3 workers and 1-3 visitors. The workers show their living conditions, and the visitor also try the workers’ food. The group is often having conversation. The room looks spacious, but also in bad condition. The workers also dry their clothes on a wire between a sleeping bed and another item (that is out of the frame). A map of Yugoslavia can be seen on the wall, as well as a mirror. It is unclear whether the accommodation space is rented or if it is the company’s property.</ab>
+               </objectContents>
+               <physDesc>
+                  <objectDesc>
+                     <p>Motiv beinhaltet TODO Fotos und gehört zur Serie TODO.</p>
+                  </objectDesc>
+               </physDesc>
+               <object type="image" facs="#IMAGE.1">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2017.1/IMAGE.1</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.2">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2017.1/IMAGE.2</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.3">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2017.1/IMAGE.3</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.4">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2017.1/IMAGE.4</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.5">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2017.1/IMAGE.5</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.6">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2017.1/IMAGE.6</idno>
+                  </objectIdentifier>
+               </object>
+               <object type="image" facs="#IMAGE.7">
+                  <objectIdentifier>
+                     <idno>o:vismig.m.2017.1/IMAGE.7</idno>
+                  </objectIdentifier>
+               </object>
+            </object>
+         </listObject>
+      </body>
+   </text>
+</TEI>

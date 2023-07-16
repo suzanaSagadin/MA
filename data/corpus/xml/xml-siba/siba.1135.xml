@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Military parade on Beyazıt Square</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1135</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">BEYAZITTA CUMHURIYET BAYRAMI - 29 EKIM</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:527"><ref type="context" target="info:fedora/context:siba.527">Rest Days and Holidays</ref><term type="broader" key="ocm:520"><ref type="context" target="info:fedora/context:siba.520">Recreation</ref></term></term><term key="ocm:701"><ref type="context" target="info:fedora/context:siba.701">Military Organization</ref><term type="broader" key="ocm:700"><ref type="context" target="info:fedora/context:siba.700">Armed Forces</ref></term></term><term key="ocm:714"><ref type="context" target="info:fedora/context:siba.714">Uniform and Accouterment</ref><term type="broader" key="ocm:710"><ref type="context" target="info:fedora/context:siba.710">Military Technology</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1930-10-29-1935-10-29</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">An infantry formation is parading on <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B10">Beyazıt meydanı</ref> in front of the Beyazıt Mosque on the occasion of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=C14">Cumhuriyet bayramı</ref>. An officer heads the formation, saluting and looking to the left towards the University Gate of which only a part can be seen. He is followed by three soldiers wearing light uniforms and soft caps. The soldier in the middle is carrying the Turkish flag trimmed with a golden fringe. His two escorts each carry a bayonet. Behind them follows a long column of officers in rows of six. All are wearing the same dark uniforms with white belts and hard caps. To their left, soldiers in elaborate uniforms, some holding bayonets, secure the parade area. In the background, a university building is seen on the left, and Beyazıt Mosque on the right.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The parading soldiers are most probably students of the military academy. The soldiers in the elaborate uniforms in front of the gate are probably guardsmen attached to the state and military leaders inspecting the parade. With the exception of 1934 and 1938, when the official parade was restricted to <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=T2">Taksim</ref> Square, the parade in Istanbul during the twenties and thirties followed a well-established scheme: The parading soldiers and students would gather and form up in front of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=D1">Darülfünun</ref> (İstanbul Üniversitesi), thereafter starting the parade on <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B10">Beyazıt meydanı</ref> at around 11 a.m. The parade would then set out to Hagia Sophia, cross Galata Bridge and finally reach <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=T2">Taksim</ref> Square via <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=I4">İstiklal Caddesi</ref>.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1930-10-29" notAfter="1935-10-29"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Beyazıt, Fatih</note></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1135.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.527">Rest Days and Holidays</ref><ref type="context" target="info:fedora/context:vase.ocm.520">Recreation</ref><ref type="context" target="info:fedora/context:vase.ocm.701">Military Organization</ref><ref type="context" target="info:fedora/context:vase.ocm.700">Armed Forces</ref><ref type="context" target="info:fedora/context:vase.ocm.714">Uniform and Accouterment</ref><ref type="context" target="info:fedora/context:vase.ocm.710">Military Technology</ref></ab></div>
+    </back>
+  </text>
+</TEI>

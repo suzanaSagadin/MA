@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Female plea writer</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1110</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">ARZUHALCI KADIN - DAKTILO</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:460"><ref type="context" target="info:fedora/context:siba.460">Labor</ref></term><term key="ocm:670"><ref type="context" target="info:fedora/context:siba.670">Law</ref></term><term key="ocm:562"><ref type="context" target="info:fedora/context:siba.562">Gender Status</ref><term type="broader" key="ocm:560"><ref type="context" target="info:fedora/context:siba.560">Social Stratification</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1930-01</date>
+      <persName role="Photographer"><forename>Faik</forename><surname>Şenol</surname><ref type="context" target="info:fedora/context:siba.pn.2fd10fe1">Şenol, Faik</ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">A lady in a coat with fur collar and cuffs and wearing a dark hat is sitting in front of a typewriter at a small table next to a wall. She is seen in profile, turning her head towards the camera with a stern look. She is holding something in her hands, and several sheets of paper are scattered in front of her. Opposite her sit two men: the one by the wall is barely visible, the other is wearing a jacket of coarse cloth and turning his head to the lady, cap in hand.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph accompanied an article printed in Akşam on 1 February 1930. The woman is a plea writer (arzuhalci). Akşam claims that the number of female plea writers has grown with the introduction of the Latin alphabet and typewriters to Turkey. The article reads: ‘They (women) are believed to be working faster and more cleanly with the typewriter and enjoy a large clientele, so that their number is gradually growing’. Plea writers were numerous especially in the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=Y1">Yeni cami</ref> area. They either sat next to the park that belonged to the mosque or on its steps, waiting for customers.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1930-01"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Yeni cami</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1108" /><ptr target="siba.1109" /><ptr target="siba.1288" /></linkGrp><listBibl><bibl>Kadın arzuhalciler çoğaldı. Akşam, 1 February 1930, 1.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1110.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.460">Labor</ref><ref type="context" target="info:fedora/context:vase.ocm.670">Law</ref><ref type="context" target="info:fedora/context:vase.ocm.562">Gender Status</ref><ref type="context" target="info:fedora/context:vase.ocm.560">Social Stratification</ref></ab></div>
+    </back>
+  </text>
+</TEI>

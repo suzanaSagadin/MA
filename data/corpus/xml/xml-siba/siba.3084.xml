@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fire brigade festivities in Taksim Stadium</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.3084</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Yapı Kredi tarih arşivi, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Selahattin Giz</name>
+          <idno type="invNo">3/0613A</idno>
+        </ab>
+        <ab type="copyright">Yapı Kredi bank</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:372"><ref type="context" target="info:fedora/context:siba.372">Fire</ref><term type="broader" key="ocm:370"><ref type="context" target="info:fedora/context:siba.370">Energy and Power</ref></term></term><term key="ocm:702"><ref type="context" target="info:fedora/context:siba.702">Recruitment and Training</ref><term type="broader" key="ocm:700"><ref type="context" target="info:fedora/context:siba.700">Armed Forces</ref></term></term><term key="ocm:650"><ref type="context" target="info:fedora/context:siba.650">Government Activities</ref></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1937-08</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref></persName><persName role="Press Photographer"><forename>Selahattin </forename><surname>Giz</surname><ref type="context" target="info:fedora/context:siba.pn.dce0efc3">Giz, Selahattin </ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">A small wooden hut is set up in the centre of the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=T3">Taksim stadı</ref> playing field. To its left, three firemen in uniform and helmets are arranging a fire hose. About a dozen more men, barefoot and dressed in light three-quarter pants, long-sleeved jerseys and with a shawl wrapped around their heads, are in action around the hut. Two are standing on the roof fixing another hose. Others are tearing down planks from it, more are watching. Behind them is a tall structure set up for more demonstrations, but unattended. The stands around the field are crowded.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph was shot in the context of an article that appeared in Cumhuriyet in August 1937 reporting on festivities linked to the fire brigade.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1937-08"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Taksim</note></placeName></ab>
+    <listBibl><bibl>Dünkü itfaiye töreni. Cumhuriyet, 15 August 1937, 7.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.3084.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.372">Fire</ref><ref type="context" target="info:fedora/context:vase.ocm.370">Energy and Power</ref><ref type="context" target="info:fedora/context:vase.ocm.702">Recruitment and Training</ref><ref type="context" target="info:fedora/context:vase.ocm.700">Armed Forces</ref><ref type="context" target="info:fedora/context:vase.ocm.650">Government Activities</ref></ab></div>
+    </back>
+  </text>
+</TEI>

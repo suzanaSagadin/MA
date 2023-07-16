@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>"At Lake Ochrida"</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.936</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Личен Архив Биляна Брайкова Карастоянова</orgName>
+          <orgName xml:lang="en">Bilyana Braykova Karastoyanova</orgName>
+          <idno type="invNo">BK_059</idno>
+          <ptr target="Personal Archive of Bilyana Braykova Karastoyanova" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:226">
+            <ref target="info:fedora/context:vase.226" type="context">Fishing</ref>
+            <term key="ocm:220" type="broader">
+              <ref target="info:fedora/context:vase.220" type="context">Food Quest</ref>
+            </term>
+          </term>
+          <term key="ocm:227">
+            <ref target="info:fedora/context:vase.227" type="context">Fishing Gear</ref>
+            <term key="ocm:220" type="broader">
+              <ref target="info:fedora/context:vase.220" type="context">Food Quest</ref>
+            </term>
+          </term>
+          <term key="ocm:460">
+            <ref target="info:fedora/context:vase.460" type="context">Labor</ref>
+          </term>
+          <term key="ocm:500">
+            <ref target="info:fedora/context:vase.500" type="context">Water, Air, and Space Transportation</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <name ref="http://geonames.org/782150" type="fcode:LK">Lake Ohrid</name>
+                <location>
+                  <geo>20.75,41.0</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-08-09" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1942 before</date>
+        <persName>
+          <forename>Bogdan Dimitrov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.70dd88ab" type="context">Karastoyanov, Bogdan Dimitrov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">Panorama of a landscape with a lake and mountains. In the foreground a person is working on a boat which has been pulled ashore between some fishing nets hung up on racks.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The photograph is part of a 1942 calendar with photographs by the brothers <ref target="info:fedora/context:vase.pn.70dd88ab">Bogdan Dimitrov Karastoyanov</ref> and <ref target="info:fedora/context:vase.pn.c5c735fb">Bozhidar Dimitrov Karastoyanov</ref>.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date notAfter="1942" />
+        <country type="contemporary">Macedonia</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.38d41ac3" type="context">Lake Ohrid</ref>
+        </placeName>  
+    </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <linkGrp>
+        <ptr target="vase.932" />
+        <ptr target="vase.933" />
+        <ptr target="vase.934" />
+        <ptr target="vase.935" />
+        <ptr target="vase.937" />
+        <ptr target="vase.938" />
+        <ptr target="vase.939" />
+      </linkGrp>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.936-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

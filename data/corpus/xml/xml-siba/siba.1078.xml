@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Panorama of the Golden Horn and the Tophane Ford factory</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1078</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">TOPHANE- FORD OTOMOBIL FABRIKASI- 02</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:348"><ref type="context" target="info:fedora/context:siba.348">Industrial Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:439"><ref type="context" target="info:fedora/context:siba.439">Foreign Trade</ref><term type="broader" key="ocm:430"><ref type="context" target="info:fedora/context:siba.430">Exchange</ref></term></term><term key="ocm:501"><ref type="context" target="info:fedora/context:siba.501">Boats</ref><term type="broader" key="ocm:500"><ref type="context" target="info:fedora/context:siba.500">Water, Air, and Space Transportation</ref></term></term><term key="ocm:470"><ref type="context" target="info:fedora/context:siba.470">Business and Industrial Organization</ref></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1929-1934</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">View from the hillside above Tophane towards the Golden Horn and Sultanahmet. The foreground features the roofs and gardens of several houses and the <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=T9">Tophane Ford fabrikası</ref> buildings with a water tank tower. Two steamboats anchored at the plants quay. The the right margin is dominated by the dome and minarets of the Nusretiye mosque. In the background, steamboats can be seen on the Golden Horn, one of them bearing the name ‘American–Export–Lines’, as well as a panorama view of Topkapı Palace, Hagia Sophia and the Sultan Ahmet mosque.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment"></ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1929" notAfter="1934"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Tophane, Beyoğlu</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1079" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1078.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.348">Industrial Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.439">Foreign Trade</ref><ref type="context" target="info:fedora/context:vase.ocm.430">Exchange</ref><ref type="context" target="info:fedora/context:vase.ocm.501">Boats</ref><ref type="context" target="info:fedora/context:vase.ocm.500">Water, Air, and Space Transportation</ref><ref type="context" target="info:fedora/context:vase.ocm.470">Business and Industrial Organization</ref></ab></div>
+    </back>
+  </text>
+</TEI>

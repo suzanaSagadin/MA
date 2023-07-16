@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Public prayer in the grounds of the Shipka Monastery</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.180</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национален Военноисторически Музей</orgName>
+          <orgName xml:lang="en">National Museum of Military History Sofia</orgName>
+          <idno type="invNo">45</idno>
+          <ptr target="http://www.militarymuseum.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:346">
+            <ref target="info:fedora/context:vase.346" type="context">Religious and Educational Structures</ref>
+            <term key="ocm:340" type="broader">
+              <ref target="info:fedora/context:vase.340" type="context">Structures</ref>
+            </term>
+          </term>
+          <term key="ocm:700">
+            <ref target="info:fedora/context:vase.700" type="context">Armed Forces</ref>
+          </term>
+          <term key="ocm:714">
+            <ref target="info:fedora/context:vase.714" type="context">Uniform and Accouterment</ref>
+            <term key="ocm:710" type="broader">
+              <ref target="info:fedora/context:vase.710" type="context">Military Technology</ref>
+            </term>
+          </term>
+          <term key="ocm:720">
+            <ref target="info:fedora/context:vase.720" type="context">War</ref>
+          </term>
+          <term key="ocm:648">
+            <ref target="info:fedora/context:vase.648" type="context">International Relations</ref>
+            <term key="ocm:640" type="broader">
+              <ref target="info:fedora/context:vase.640" type="context">State</ref>
+            </term>
+          </term>
+          <term key="ocm:765">
+            <ref target="info:fedora/context:vase.765" type="context">Mourning</ref>
+            <term key="ocm:760" type="broader">
+              <ref target="info:fedora/context:vase.760" type="context">Death</ref>
+            </term>
+          </term>
+          <term key="ocm:780">
+            <ref target="info:fedora/context:vase.780" type="context">Religious Practices</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <name ref="http://geonames.org/6625209" type="fcode:PASS">Shipka Saddle</name>
+                <location>
+                  <geo>-60.131,-62.664</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2014-01-23" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">
+        <roleName>Photographer</roleName>
+        <date>1902</date>
+        <persName>
+          <forename>Dimitar Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c700660e" type="context">Karastoyanov, Dimitar Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">High angle panorama photograph of a ceremony in front of a cathedral.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The Russian-Orthodox "Christ's Birth" cathedral, also referred to as "Shipka Monastery", was build to commemorate the victims of the Russo-Ottoman War of 1877 - 1878. The sanctification of the cathedral in 1902 coincided with the 25th anniversary of the Battle of Shipka Pass.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">194</height>
+          <width unit="mm">272</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">194</height>
+          <width unit="mm">255</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1902" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.938d34b2" type="context">Shipka</ref>
+          <note>Cathedral "Christus Birth"</note>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <linkGrp>
+        <ptr target="vase.175" />
+        <ptr target="vase.176" />
+        <ptr target="vase.177" />
+        <ptr target="vase.178" />
+        <ptr target="vase.179" />
+        <ptr target="vase.189" />
+        <ptr target="vase.181" />
+        <ptr target="vase.182" />
+        <ptr target="vase.183" />
+        <ptr target="vase.184" />
+        <ptr target="vase.185" />
+        <ptr target="vase.186" />
+        <ptr target="vase.187" />
+        <ptr target="vase.188" />
+      </linkGrp>
+      <listBibl>
+        <bibl>Kassabova, Anelia (2013): Inclusion and Exclusion: The Role of Photography in the Nation-Building Process in Bulgaria from Approximately 1860 to World War I. In: Demski, Dagnosław, Ildikó Sz. Kristóf, and Kamila Baraniecka-Olszewska (Eds.): Competing Eyes: Visual Encounters with Alterity in Central and Eastern Europe. Budapest: L‘ Harmattan, 127.</bibl>
+      </listBibl>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.180-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.180-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>'Slava' ceremony for the 'Gvozdeni Puk' Second Infantry Division, 1930</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4038</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0055</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:701"><ref type="context" target="info:fedora/context:siba.701">Military Organization</ref><term type="broader" key="ocm:700"><ref type="context" target="info:fedora/context:siba.700">Armed Forces</ref></term></term><term key="ocm:221"><ref type="context" target="info:fedora/context:siba.221">Annual Cycle</ref><term type="broader" key="ocm:220"><ref type="context" target="info:fedora/context:siba.220">Food Quest</ref></term></term><term key="ocm:624"><ref type="context" target="info:fedora/context:siba.624">Local Officials</ref><term type="broader" key="ocm:620"><ref type="context" target="info:fedora/context:siba.620">Community</ref></term></term><term key="ocm:629"><ref type="context" target="info:fedora/context:siba.629">Inter-ethnic Relations</ref><term type="broader" key="ocm:620"><ref type="context" target="info:fedora/context:siba.620">Community</ref></term></term><term key="ocm:186"><ref type="context" target="info:fedora/context:siba.186">Cultural Identity and Pride</ref><term type="broader" key="ocm:180"><ref type="context" target="info:fedora/context:siba.180">Total Culture</ref></term></term><term key="ocm:796"><ref type="context" target="info:fedora/context:siba.796">Organized Ceremonial</ref><term type="broader" key="ocm:790"><ref type="context" target="info:fedora/context:siba.790">Ecclesiatical Organization</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1930-04-25</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">View of a military ceremony in a large courtyard surrounded by barracks. Soldiers are lined up in the right half of the yard in approximately ten rows, headed by officers, all standing to attention. Three religious leaders are positioned in front of them, each standing behind a table covered with a white cloth, and two with other utensils. The one nearest to the camera is an Islamic <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=I1">imam</ref>. He is holding a book in both hands and seems to be reading aloud. To his left, a Roman Catholic priest is waiting solemnly, his hands folded in front of him. The table before him features, among a few smaller items, two candles on tall candlesticks. At some distance on the opposite side of the yard, two bearded Orthodox priests stand very close to their table, which bears a richly decorated <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=S13">slava</ref> candle, a large item (probably the 'slava' cake) and a head covering. A second head covering is deposited on the ground under the table. The scene is being watched by various spectators, mostly officers, while a small group of women and children can also be discerned in the background. The yard is richly decorated for the occasion with garlands and colourful <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K9">kelim</ref> rugs.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The 'Knez Mihailo' Second Infantry Division of the Royal Serbian Army lost half of its fighters during the wars of 1912 to 1918. After its reformation as part of the Royal Yugoslav Army, it was given the honorary name 'Gvozdeni puk' (steel division) for its bravery and sacrifice during the Great War. The division’s commemoration day <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=S13">slava</ref> continued to be held on 19 April, the anniversary of the withdrawal of Ottoman forces in 1868, celebrated as 'Predaja gradova' (surrender of the fortresses). On this day, the Ottoman garrisons left the then Princedom of Serbia for good, symbolically handing over the keys of all fortresses on its territory to Serbian Prince Mihailo Obrenović, after whom the division was named. Serbia remained under formal Ottoman suzerainty until 1878 and was elevated to a kingdom in 1882. — The photograph was published in the newspaper Vreme on 26 April 1930, a day after the ceremony took place that year. It had been postponed for a few days due to Easter, with Holy Saturday falling on 19 April 1930. – The original glass plate is partially damaged.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1930-04-25"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Banjica</note></placeName></ab>
+    <listBibl><bibl>Slava drugog pešadijskog puka. Vreme 2991, 26 April 1930, 5.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4038.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.701">Military Organization</ref><ref type="context" target="info:fedora/context:vase.ocm.700">Armed Forces</ref><ref type="context" target="info:fedora/context:vase.ocm.221">Annual Cycle</ref><ref type="context" target="info:fedora/context:vase.ocm.220">Food Quest</ref><ref type="context" target="info:fedora/context:vase.ocm.624">Local Officials</ref><ref type="context" target="info:fedora/context:vase.ocm.620">Community</ref><ref type="context" target="info:fedora/context:vase.ocm.629">Inter-ethnic Relations</ref><ref type="context" target="info:fedora/context:vase.ocm.620">Community</ref><ref type="context" target="info:fedora/context:vase.ocm.186">Cultural Identity and Pride</ref><ref type="context" target="info:fedora/context:vase.ocm.180">Total Culture</ref><ref type="context" target="info:fedora/context:vase.ocm.796">Organized Ceremonial</ref><ref type="context" target="info:fedora/context:vase.ocm.790">Ecclesiatical Organization</ref></ab></div>
+    </back>
+  </text>
+</TEI>

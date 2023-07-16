@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Elegant people walking in Kalemegdan Park</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4793</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej primenjene umetnosti, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Aca Simić</name>
+          <idno type="invNo">N 21580</idno>
+        <ptr target="http://mpu.rs" /></ab>
+        <ab type="copyright">The Museum of Applied Art</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:292"><ref type="context" target="info:fedora/context:siba.292">Special Garments</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term><term key="ocm:517"><ref type="context" target="info:fedora/context:siba.517">Leisure Time Activities</ref><term type="broader" key="ocm:510"><ref type="context" target="info:fedora/context:siba.510">Living Standards and Routines</ref></term></term><term key="ocm:565"><ref type="context" target="info:fedora/context:siba.565">Classes</ref><term type="broader" key="ocm:560"><ref type="context" target="info:fedora/context:siba.560">Social Stratification</ref></term></term><term key="ocm:103"><ref type="context" target="info:fedora/context:siba.103">Place Names</ref><term type="broader" key="ocm:100"><ref type="context" target="info:fedora/context:siba.100">Orientation</ref></term></term><term key="ocm:854"><ref type="context" target="info:fedora/context:siba.854">Infant Care</ref><term type="broader" key="ocm:850"><ref type="context" target="info:fedora/context:siba.850">Infancy and Childhood</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1927</date>
+      <persName role="Press Photographer Politika"><forename>Aleksandar-Aca</forename><surname>Simić</surname><ref type="context" target="info:fedora/context:siba.pn.9c67532d">Simić, Aleksandar-Aca</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Elegantly dressed people walking in <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K3">Kalemegdan</ref> Park on a sunny day, some of them with prams and accompanied by small children in short trousers. The less elegant among them lean against the railing of the terrace enjoying the view towards the river, or watching the elegant people.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">Comment on the backside: "Beograd-Kalemegdan. Prvi prolećni sunčani dan na kalemegdanskom šetalistu. Snimak: A. Simić (1927)".</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="positive"><height unit="mm">170</height><width unit="mm">125</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1927"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4793.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.292">Special Garments</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.517">Leisure Time Activities</ref><ref type="context" target="info:fedora/context:vase.ocm.510">Living Standards and Routines</ref><ref type="context" target="info:fedora/context:vase.ocm.565">Classes</ref><ref type="context" target="info:fedora/context:vase.ocm.560">Social Stratification</ref><ref type="context" target="info:fedora/context:vase.ocm.103">Place Names</ref><ref type="context" target="info:fedora/context:vase.ocm.100">Orientation</ref><ref type="context" target="info:fedora/context:vase.ocm.854">Infant Care</ref><ref type="context" target="info:fedora/context:vase.ocm.850">Infancy and Childhood</ref></ab></div>
+    </back>
+  </text>
+</TEI>

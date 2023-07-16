@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Generator in the old electrical power station</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4789</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej primenjene umetnosti, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Aca Simić</name>
+          <idno type="invNo">N 21576</idno>
+        <ptr target="http://mpu.rs" /></ab>
+        <ab type="copyright">The Museum of Applied Art</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:348"><ref type="context" target="info:fedora/context:siba.348">Industrial Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1926</date>
+      <persName role="Press Photographer Politika"><forename>Aleksandar-Aca</forename><surname>Simić</surname><ref type="context" target="info:fedora/context:siba.pn.9c67532d">Simić, Aleksandar-Aca</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">View of the generator in the old electrical power station.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">Inscription on the back: "Beograd. Stara beogradska električna centrala" and "Snimak: A. Simić (1926)".</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="positive"><height unit="mm">180</height><width unit="mm">131</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1926"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4789.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.348">Industrial Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref></ab></div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Passers-by in Kralja Petra Street</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Mehmed A. Akšamija</name><resp>editor</resp></respStmt><respStmt><name>Kristina Ilić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4899</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Alija M. Akšamija private collection, Sarajevo</orgName>
+          <name xml:lang="en" type="collection">Sarajevski ciklus 1938./39. – Slučajni prolaznici u pokretu I</name>
+          <idno type="invNo">A.M.A. P 19 39</idno>
+        </ab>
+        <ab type="copyright">Mehmed A. Akšamija</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:103"><ref type="context" target="info:fedora/context:siba.103">Place Names</ref><term type="broader" key="ocm:100"><ref type="context" target="info:fedora/context:siba.100">Orientation</ref></term></term><term key="ocm:131"><ref type="context" target="info:fedora/context:siba.131">Location</ref><term type="broader" key="ocm:130"><ref type="context" target="info:fedora/context:siba.130">Geography</ref></term></term><term key="ocm:237"><ref type="context" target="info:fedora/context:siba.237">Animal By-Products</ref><term type="broader" key="ocm:230"><ref type="context" target="info:fedora/context:siba.230">Animal Husbandry</ref></term></term><term key="ocm:461"><ref type="context" target="info:fedora/context:siba.461">Labor and Leisure</ref><term type="broader" key="ocm:460"><ref type="context" target="info:fedora/context:siba.460">Labor</ref></term></term><term key="ocm:563"><ref type="context" target="info:fedora/context:siba.563">Ethnic Stratification</ref><term type="broader" key="ocm:560"><ref type="context" target="info:fedora/context:siba.560">Social Stratification</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1939</date>
+      <persName role="Photographer"><forename>Alija M.</forename><surname>Akšamija</surname><ref type="context" target="info:fedora/context:siba.pn.be7b6d09">Akšamija, Alija M.</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">Scene in King Peter Street (Kralja Petra, today M. Mustafe Bašeskije). In the centre of the picture is the blurred figure of a pedestrian. He is passing a man in a jacket and hat, seen from the back. On the sidewalk opposite are three young men in suits, heads uncovered, two of them carrying leather briefcases under their arms. Behind them, a wooden fence is completely plastered with identical posters advertising ‘Bata’ shoes. The upper half of the photograph is dominated by a large advertisement for Božidar S. Mlinarević’s ‘First Yugoslav furrier’s workshop’.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The advertisment reads: ‘Vesta fabrika kapa, šubara i šešira. Prva jugoslovenska krznarska radnja Božidar S. Mlinarević. Ustanovljena 1909. Bogato stovarište gotovih mantlova. Diječiji  kaputa, boa od lisica, kunica, tvorova, nercova te drugih na skladištu kožica u svima bojama za kragne, manžete, postave. Šubara od perzijanera od besarapskog i poluperzijane i od janjećih koža. Primam na izradu mantleva dječijih kaputa, boa od lisica i sve krznarske stvari. Preuzimam na bojenje čišćenje svakog bijelog krzna. Naročita pažnja lovcima: Izrađujem tepihe sa glavom od medveda, vuka, vepra, divokoze, jazavca i srne.’ Analogue photographic process, negative-positive (Agfa Isopan 17 DIN). Original preserved as a positive on silver bromide paper, stored as a print and a digital record.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="positive"><height unit="mm">180</height><width unit="mm">180</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1939"></date>
+      <country type="contemporary">Bosnia and Herzegovina</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.814f17d1" type="context">Sarajevo</ref><note>Ulica M. Mustafe Bašeskije</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.4901" /><ptr target="siba.4902" /><ptr target="siba.4903" /><ptr target="siba.4904" /><ptr target="siba.4906" /></linkGrp><listBibl><bibl>Akšamija, Mehmed A. (2015): Alija M. Akšamija – Monografija arhivografije. Sarajevo: BANU. Vol. I, 72.</bibl></listBibl><linkGrp type="series"><ptr target="siba.4902" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4899.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.103">Place Names</ref><ref type="context" target="info:fedora/context:vase.ocm.100">Orientation</ref><ref type="context" target="info:fedora/context:vase.ocm.131">Location</ref><ref type="context" target="info:fedora/context:vase.ocm.130">Geography</ref><ref type="context" target="info:fedora/context:vase.ocm.237">Animal By-Products</ref><ref type="context" target="info:fedora/context:vase.ocm.230">Animal Husbandry</ref><ref type="context" target="info:fedora/context:vase.ocm.461">Labor and Leisure</ref><ref type="context" target="info:fedora/context:vase.ocm.460">Labor</ref><ref type="context" target="info:fedora/context:vase.ocm.563">Ethnic Stratification</ref><ref type="context" target="info:fedora/context:vase.ocm.560">Social Stratification</ref></ab></div>
+    </back>
+  </text>
+</TEI>

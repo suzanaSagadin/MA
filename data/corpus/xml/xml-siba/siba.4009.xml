@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eagle from Košutnjak and his captor</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4009</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0009</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:223"><ref type="context" target="info:fedora/context:siba.223">Fowling</ref><term type="broader" key="ocm:220"><ref type="context" target="info:fedora/context:siba.220">Food Quest</ref></term></term><term key="ocm:230"><ref type="context" target="info:fedora/context:siba.230">Animal Husbandry</ref></term><term key="ocm:551"><ref type="context" target="info:fedora/context:siba.551">Personal Names</ref><term type="broader" key="ocm:550"><ref type="context" target="info:fedora/context:siba.550">Individuation and Mobility</ref></term></term><term key="ocm:820"><ref type="context" target="info:fedora/context:siba.820">Ideas about Nature and Man</ref></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1929-05-29</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">Indoor shot of a young man posing with a large eagle on his lap. The man is sitting on a chair with his body almost completely hidden by the eagle’s spread wings. He looks determinedly into the camera, holding the bird’s throat in his left hand. The bird’s head is also turned towards the camera. Another young man is standing in the right corner of the room, dressed in a dark suit, a shirt and a flat cap.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The bird is alive and probably trying to escape from the man’s grip. The man is Vladimir Grubač, a railway official originating from Nikšić, who caught the bird of prey in the woods at Košutnjak Hill on the fringes of Belgrade with the aid of a trap and a field mouse lure. According to his statement, the eagle had a wingspan of two metres, weighed 18 kilogrammes and was supposedly over one hundred years old. The photograph appeared in the newspaper Vreme, in the section titled 'Belgrade Chronicle'.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1929-05-29"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Košutnjak</note></placeName></ab>
+    <listBibl><bibl>Redak lov jednog železničkog činovnika. Vreme 2668, 30 May 1929, 9.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4009.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.223">Fowling</ref><ref type="context" target="info:fedora/context:vase.ocm.220">Food Quest</ref><ref type="context" target="info:fedora/context:vase.ocm.230">Animal Husbandry</ref><ref type="context" target="info:fedora/context:vase.ocm.551">Personal Names</ref><ref type="context" target="info:fedora/context:vase.ocm.550">Individuation and Mobility</ref><ref type="context" target="info:fedora/context:vase.ocm.820">Ideas about Nature and Man</ref></ab></div>
+    </back>
+  </text>
+</TEI>

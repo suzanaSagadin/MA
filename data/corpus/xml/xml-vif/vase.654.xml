@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A "living picture" - a birthday gift for Prince / Knyaz Ferdinand</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Visualizing Family, Gender Relations, and the Body. The Balkans approx. 1860-1950</edition>
+        <respStmt xml:id="AK">
+          <name>Anelia Kassabova</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:vase.654</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Национална Библиотека "Св. св. Кирил и Методий"</orgName>
+          <orgName xml:lang="en">St. Cyril and St. Methodius National Library</orgName>
+          <idno type="invNo">C IV  516</idno>
+          <ptr target="http://www.nationallibrary.bg/" />
+        </ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:290">
+            <ref target="info:fedora/context:vase.290" type="context">Clothing</ref>
+          </term>
+          <term key="ocm:300">
+            <ref target="info:fedora/context:vase.300" type="context">Adornment</ref>
+          </term>
+          <term key="ocm:431">
+            <ref target="info:fedora/context:vase.431" type="context">Gift Giving</ref>
+            <term key="ocm:430" type="broader">
+              <ref target="info:fedora/context:vase.430" type="context">Exchange</ref>
+            </term>
+          </term>
+          <term key="ocm:530">
+            <ref target="info:fedora/context:vase.530" type="context">Arts</ref>
+          </term>
+          <term key="ocm:551">
+            <ref target="info:fedora/context:vase.551" type="context">Personal Names</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:554">
+            <ref target="info:fedora/context:vase.554" type="context">Status, Role, and Prestige</ref>
+            <term key="ocm:550" type="broader">
+              <ref target="info:fedora/context:vase.550" type="context">Individuation and Mobility</ref>
+            </term>
+          </term>
+          <term key="ocm:560">
+            <ref target="info:fedora/context:vase.560" type="context">Social Stratification</ref>
+          </term>
+          <term key="ocm:640">
+            <ref target="info:fedora/context:vase.640" type="context">State</ref>
+          </term>
+          <term key="ocm:648">
+            <ref target="info:fedora/context:vase.648" type="context">International Relations</ref>
+            <term key="ocm:640" type="broader">
+              <ref target="info:fedora/context:vase.640" type="context">State</ref>
+            </term>
+          </term>
+          <term key="ocm:890">
+            <ref target="info:fedora/context:vase.890" type="context">Gender Roles and Issues</ref>
+          </term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Bulgaria</country>
+                <settlement>Sofia</settlement>
+                <name ref="http://geonames.org/727011" type="fcode:PPLC">Sofia</name>
+                <location>
+                  <geo>23.32415,42.69751</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2014-01-23" who="#AK" />
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photograph</ab>
+      <ab subtype="creation" type="lido:event">        
+<roleName>Court photographer</roleName>
+        <date>1890</date>
+        <persName>
+          <forename>Ivan Anastasov</forename>
+          <surname>Karastoyanov</surname>
+          <ref target="info:fedora/context:vase.pn.c3834c" type="context">Karastoyanov, Ivan Anastasov</ref>
+        </persName>
+      </ab>
+      <ab type="lido:objectDescriptionSet">An oval framed full length shot of a group of people, surrounded by greenery, sitting and standing around a pedestal with a buste of a man in military uniform. On both sides of the monument two men in military uniforms are standing, a third on the left is pointing to the buste. Behind the monument six young women in filmy dresses are standing; the woman in the center of the last row is holding a crown over the buste, the others are holding a long band. On the right of the monument an elderly woman in urban clothes with insignia of honour and a hat with a veil is seated, resting her right hand on the pedestal of the buste. Next to her and in the first row three women and seven men are standing and seated on the ground - all in folk costumes, mostly in Bulgarian traditional ones, one wearing the folk costume "à la Turca".</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">A "living picture" of the initiative of Clémentine of Orléans (French: Marie Clémentine Léopoldine Caroline Clotilde d'Orléans) (1817 – 1907), Princess of Saxe-Coburg and Gotha and Duchess in Saxony, mother of Ferdinand (1861 – 1948), born Ferdinand Maximilian Karl Leopold Maria of Saxe-Coburg and Gotha-Koháry, who was the ruler of Bulgaria from 1887 to 1918, first as Knyaz (prince regnant, 1887–1908) and later as Tsar (1908–1918). Princess Clémentine in the center of the photographed, all around her are persons from the upper class: Mara Belcheva, Earl Amédée de Foras, Mayor Stoyanov, Zhekova, Toncheva, Sultana Racho Petrova, Mayor Markov, Ana Stanchova et al.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+        <dimensions type="artefact">
+          <height unit="mm">214</height>
+          <width unit="mm">303</width>
+        </dimensions>
+        <dimensions type="image">
+          <height unit="mm">193</height>
+          <width unit="mm">249</width>
+        </dimensions>
+      </ab>
+      <ab type="lido:subject">
+        <date when="1890" />
+        <country type="contemporary">Bulgaria</country>
+        <placeName key="#GID.1">
+          <ref target="info:fedora/context:vase.gn.4c5a002" type="context">Sofia</ref>
+        </placeName>
+      </ab>
+      <ab subtype="archival_notes" type="lido:objectDescriptionSet" />
+      <listBibl>
+        <bibl>Kassabova, Anelia (2013): Inclusion and Exclusion: The Role of Photography in the Nation-Building Process in Bulgaria from Approximately 1860 to World War I. In: Demski, Dagnosław, Ildikó Sz. Kristóf, and Kamila Baraniecka-Olszewska (Eds.): Competing Eyes: Visual Encounters with Alterity in Central and Eastern Europe. Budapest: L‘ Harmattan, 136.</bibl>
+      </listBibl>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///vase.654-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+        <figure>
+          <graphic url="file:///vase.654-IMAGE.2.jpg" xml:id="IMAGE.2" />
+        </figure>
+      </div>
+    </back>
+  </text>
+</TEI>

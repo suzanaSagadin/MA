@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Couple with bicycle</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4792</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Muzej primenjene umetnosti, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Aca Simić</name>
+          <idno type="invNo">N 21579</idno>
+        <ptr target="http://mpu.rs" /></ab>
+        <ab type="copyright">The Museum of Applied Art</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:291"><ref type="context" target="info:fedora/context:siba.291">Normal Garb</ref><term type="broader" key="ocm:290"><ref type="context" target="info:fedora/context:siba.290">Clothing</ref></term></term><term key="ocm:489"><ref type="context" target="info:fedora/context:siba.489">Transportation</ref><term type="broader" key="ocm:480"><ref type="context" target="info:fedora/context:siba.480">Travel and Transportation</ref></term></term><term key="ocm:562"><ref type="context" target="info:fedora/context:siba.562">Gender Status</ref><term type="broader" key="ocm:560"><ref type="context" target="info:fedora/context:siba.560">Social Stratification</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>Unknown</date>
+      <persName role="Press Photographer Politika"><forename>Aleksandar-Aca</forename><surname>Simić</surname><ref type="context" target="info:fedora/context:siba.pn.9c67532d">Simić, Aleksandar-Aca</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">A young woman in a dress is trying to ride a bicycle on a cobbled street, losing her balance. A man is walking behind her supporting the carrier.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">With a comment on the back side written in ink.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="positive"><height unit="mm">147</height><width unit="mm">196</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date>Unknown</date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4792.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.291">Normal Garb</ref><ref type="context" target="info:fedora/context:vase.ocm.290">Clothing</ref><ref type="context" target="info:fedora/context:vase.ocm.489">Transportation</ref><ref type="context" target="info:fedora/context:vase.ocm.480">Travel and Transportation</ref><ref type="context" target="info:fedora/context:vase.ocm.562">Gender Status</ref><ref type="context" target="info:fedora/context:vase.ocm.560">Social Stratification</ref></ab></div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Horse market</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1025</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Vehbi Koç ve araştırmaları merkezi, Ankara</orgName>
+          <name xml:lang="en" type="collection">Ankara</name>
+          <idno type="invNo">0016</idno>
+        <ptr target="http://www.vekam.org.tr" /></ab>
+        <ab type="copyright">VEKAM Vehbi Koç and Ankara Research Centre</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:365"><ref type="context" target="info:fedora/context:siba.365">Public Utilities</ref><term type="broader" key="ocm:360"><ref type="context" target="info:fedora/context:siba.360">Settelments</ref></term></term><term key="ocm:432"><ref type="context" target="info:fedora/context:siba.432">Buying and Selling</ref><term type="broader" key="ocm:430"><ref type="context" target="info:fedora/context:siba.430">Exchange</ref></term></term><term key="ocm:571"><ref type="context" target="info:fedora/context:siba.571">Social Relationships and Groups</ref><term type="broader" key="ocm:570"><ref type="context" target="info:fedora/context:siba.570">Interpersonal Relations</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1925</date>
+      <persName role="Photographer"><surname>unknown</surname><ref type="context" target="info:fedora/context:siba.pn.unknown">unknown</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">A market scene showing men sitting on wooden stools or standing along a cobbled bazaar street, working or trading. Most of them are dressed in simple clothes, wearing a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=F4">fes</ref>. To the right is a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=K2">kahvehane</ref> with a signboard in Arabic letters: 'Salowos Zakozova 76'. One single woman in a <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=C5">çarşaf</ref> is standing under its roof, watching the scene.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph was probably taken near the horse market.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="artefact"><height unit="mm">180</height><width unit="mm">250</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date when="1925"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.752b37d2" type="context">Ankara</ref></placeName></ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1025.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.365">Public Utilities</ref><ref type="context" target="info:fedora/context:vase.ocm.360">Settelments</ref><ref type="context" target="info:fedora/context:vase.ocm.432">Buying and Selling</ref><ref type="context" target="info:fedora/context:vase.ocm.430">Exchange</ref><ref type="context" target="info:fedora/context:vase.ocm.571">Social Relationships and Groups</ref><ref type="context" target="info:fedora/context:vase.ocm.570">Interpersonal Relations</ref></ab></div>
+    </back>
+  </text>
+</TEI>

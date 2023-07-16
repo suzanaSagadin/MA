@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Choking on gas</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.3106</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Yapı Kredi tarih arşivi, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Selahattin Giz</name>
+          <idno type="invNo">4/0125B</idno>
+        </ab>
+        <ab type="copyright">Yapı Kredi bank</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:700"><ref type="context" target="info:fedora/context:siba.700">Armed Forces</ref></term><term key="ocm:701"><ref type="context" target="info:fedora/context:siba.701">Military Organization</ref><term type="broader" key="ocm:700"><ref type="context" target="info:fedora/context:siba.700">Armed Forces</ref></term></term><term key="ocm:702"><ref type="context" target="info:fedora/context:siba.702">Recruitment and Training</ref><term type="broader" key="ocm:700"><ref type="context" target="info:fedora/context:siba.700">Armed Forces</ref></term></term><term key="ocm:720"><ref type="context" target="info:fedora/context:siba.720">War</ref></term><term key="ocm:411"><ref type="context" target="info:fedora/context:siba.411">Weapons</ref><term type="broader" key="ocm:410"><ref type="context" target="info:fedora/context:siba.410">Tools and Appliances</ref></term></term><term key="ocm:507"><ref type="context" target="info:fedora/context:siba.507">Aviation</ref><term type="broader" key="ocm:500"><ref type="context" target="info:fedora/context:siba.500">Water, Air, and Space Transportation</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1939-08</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref></persName><persName role="Press Photographer"><forename>Selahattin </forename><surname>Giz</surname><ref type="context" target="info:fedora/context:siba.pn.dce0efc3">Giz, Selahattin </ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">In the foreground, a man in a dark jacket and trousers, a flat cap and rubber boots, is lying on the paving stones of <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B10">Beyazıt meydanı</ref>, pressing a handkerchief to his mouth. He has a plate around his neck, reading: ‘Boğucu gazli’ (choking on gas). Except for him, the square is empty. The university gate and the mosque dominate the background.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The photograph was shot in the context of two articles that appeared in Cumhuriyet in August 1939 reporting on military defence operations against air raids and chemical weapons attacks. Cumhuriyet covered the military exercise in great detail, announcing which action was to take place in which part of town and at what time. The exercise on <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=B10">Beyazıt meydanı</ref> envisaged that an enemy squadron had dropped red and white gas bombs. Military personnel were to intervene, render first aid to the injured and transport them to medical facilities.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1939-08"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Beyazıt, Fatih</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.3210" /><ptr target="siba.3211" /></linkGrp><listBibl><bibl>Dün sabah yapılan hava taarruzu tecrübelerinden muhtelif intıbalar. Cumhuriyet, 20 August 1939, 1, 7. – Hava hücumundan korunmak için. Cumhuriyet, 24 August 1939, 7.</bibl></listBibl><linkGrp type="series"><ptr target="siba.3102" /><ptr target="siba.3103" /><ptr target="siba.3104" /><ptr target="siba.3105" /><ptr target="siba.3107" /><ptr target="siba.3082" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.3106.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.700">Armed Forces</ref><ref type="context" target="info:fedora/context:vase.ocm.701">Military Organization</ref><ref type="context" target="info:fedora/context:vase.ocm.700">Armed Forces</ref><ref type="context" target="info:fedora/context:vase.ocm.702">Recruitment and Training</ref><ref type="context" target="info:fedora/context:vase.ocm.700">Armed Forces</ref><ref type="context" target="info:fedora/context:vase.ocm.720">War</ref><ref type="context" target="info:fedora/context:vase.ocm.411">Weapons</ref><ref type="context" target="info:fedora/context:vase.ocm.410">Tools and Appliances</ref><ref type="context" target="info:fedora/context:vase.ocm.507">Aviation</ref><ref type="context" target="info:fedora/context:vase.ocm.500">Water, Air, and Space Transportation</ref></ab></div>
+    </back>
+  </text>
+</TEI>

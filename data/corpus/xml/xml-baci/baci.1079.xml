@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Advertisement for the feature film ‘The Thief’</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>BACI – Balkan Cinema</edition>
+        <respStmt>
+          <name>Karl Kaser</name>
+          <resp>editor</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre for Southeast European History, University Graz</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:baci.1079</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Jugoslovenska kinoteka</orgName>
+          <name type="collection" xml:lang="en">Fototeka</name>
+          <idno type="invNo">Commercial material 55</idno>
+          <ptr target="http://www.kinoteka.org.rs/wp/" />
+        </ab>
+        <ab type="copyright">Jugoslovenska kinoteka, Belgrade</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/">
+          <term key="ocm:546">
+            <ref target="info:fedora/context:baci.546" type="context">Motion Picture Industry</ref>
+            <term key="ocm:540" type="broader">
+              <ref target="info:fedora/context:baci.540" type="context">Commercialized Entertainment</ref>
+            </term>
+          </term>
+          <term key="ocm:447">
+            <ref target="info:fedora/context:baci.447" type="context">Advertising</ref>
+            <term key="ocm:440" type="broader">
+              <ref target="info:fedora/context:baci.440" type="context">Marketing</ref>
+            </term>
+          </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Leaflet</ab>
+      <ab subtype="creation" type="lido:event">
+        <date>1952 after</date>
+      </ab>
+      <ab type="lido:objectDescriptionSet">The leaflet features a framed graphic illustration of two men. Both are wearing hats and coats of the same type. The man on the left has glasses and a cravat instead of a necktie – this is the only difference between them. They are the same man. A skyscraper stands in the background. The name and digits ‘Lehner 53’ are indicated in the top left corner. In the top right appear the names of the distribution company ‘Lovćen film’ based in Herceg Novi, of film director Russel Rouse and production company ‘United Artist’. The original English title, ‘The Thief’, and the Serbo-Croatian version, ‘Špijun’ (The spy), are printed in the leaflet's lower section, as well as the names of the main actors: Ray Milland, Rita Gam and Martin Gabel.</ab>
+      <ab subtype="comment" type="lido:objectDescriptionSet">The meaning of ‘Lehner 53’ cannot be identified. The film was released in 1952.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>
+      </ab>
+      <ab type="lido:subject">
+        <date notBefore="1952" />
+        <country type="contemporary">unknown</country>
+        <country type="historical">Yugoslavia</country>
+        <placeName xml:id="SID.1">
+          <ref target="info:fedora/context:baci.gn.unknown" type="context">Unknown</ref>
+        </placeName>
+      </ab>
+    </body>
+    <back>
+      <div type="lido:resourceSet">
+        <figure>
+          <graphic url="file:///baci.1079-IMAGE.1.jpg" xml:id="IMAGE.1" />
+        </figure>
+      </div>
+      <div type="ocm-contexts">
+        <ab>
+          <ref target="info:fedora/context:vase.ocm.546" type="context">Motion Picture Industry</ref>
+          <ref target="info:fedora/context:vase.ocm.540" type="context">Commercialized Entertainment</ref>
+          <ref target="info:fedora/context:vase.ocm.447" type="context">Advertising</ref>
+          <ref target="info:fedora/context:vase.ocm.440" type="context">Marketing</ref>
+        </ab>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Enthusiastic greengrocer in Tophane</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Joël László</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.3507</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Yapı Kredi tarih arşivi, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Selahattin Giz</name>
+          <idno type="invNo">11/0131B</idno>
+        </ab>
+        <ab type="copyright">Yapı Kredi bank</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:240"><ref type="context" target="info:fedora/context:siba.240">Agriculture</ref></term><term key="ocm:460"><ref type="context" target="info:fedora/context:siba.460">Labor</ref></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1931-06</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">A smiling man is waving a bundle of vegetables in each hand. He is wearing a plaid shirt and waistcoat. His hair is uncombed. There is an energetic and cheery air about him. In the background there is a row of market stands and the silhouettes of vendors are discernible.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The picture appeared in the newspaper Yeni Gün as part of a series with the title, ‘İstanbul'un Köşe, Bucağı’ (Corners and nooks of Istanbul), authored by Osman Cemal (Kaygılı). The legend reads: ‘An enthusiastic greengrocer at the Tuesday Market’. The article features the Tophane area and the Tuesday Market – an important market for products like dry goods, haberdashery, used furniture and cheap footwear. The market ceased to exist in its old form after reconstruction work to widen streets in 1958.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1931-06"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Tophane, Beyoğlu</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1066" /><ptr target="siba.1068" /><ptr target="siba.1069" /><ptr target="siba.3389" /><ptr target="siba.3510" /><ptr target="siba.3511" /><ptr target="siba.3512" /><ptr target="siba.3514" /><ptr target="siba.3515" /></linkGrp><listBibl><bibl>İstanbul'un En Kalabalık Bekâr Yatağı: Tophane... Yeni Gün, 7 June 1931, 9. – (Kaygılı), Osman Cemal (2003): Köşe Bucak İstanbul. İstanbul: Diger.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.3507.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.240">Agriculture</ref><ref type="context" target="info:fedora/context:vase.ocm.460">Labor</ref></ab></div>
+    </back>
+  </text>
+</TEI>

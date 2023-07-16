@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Confectionery stand on Eminönü Square</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Yorick Tanner</name><resp>editor</resp></respStmt><respStmt><name>Cengiz Kahraman</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.1113</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Cengiz Kahraman, Istanbul</orgName>
+          <name xml:lang="en" type="collection">Private collection</name>
+          <idno type="invNo">ASURE SATICISI - YENICAMI - EKIM  -NGTF</idno>
+        </ab>
+        <ab type="copyright">Cengiz Kahraman</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:432"><ref type="context" target="info:fedora/context:siba.432">Buying and Selling</ref><term type="broader" key="ocm:430"><ref type="context" target="info:fedora/context:siba.430">Exchange</ref></term></term><term key="ocm:260"><ref type="context" target="info:fedora/context:siba.260">Food Consumption</ref></term><term key="ocm:252"><ref type="context" target="info:fedora/context:siba.252">Food Preparation</ref><term type="broader" key="ocm:250"><ref type="context" target="info:fedora/context:siba.250">Food Processing</ref></term></term><term key="ocm:415"><ref type="context" target="info:fedora/context:siba.415">Utensils</ref><term type="broader" key="ocm:410"><ref type="context" target="info:fedora/context:siba.410">Tools and Appliances</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic negative</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1924</date>
+      <persName role="Press Photographer"><forename>Namık</forename><surname>Görgüç</surname><ref type="context" target="info:fedora/context:siba.pn.7d5d8ec5">Görgüç, Namık</ref></persName></ab>
+      <ab type="lido:objectDescriptionSet">A man in a dark coat and a felt cap is standing in front of the display of an Aşure stand. He is holding a spoon in his right hand and eating something with his left. The market stand is in front of him with displays of Aşure and a large metal kettle. A man in a felt cap and apron is busy with the kettle and at the same time looks towards the customer and the camera. In the background, a wall belonging to <ref target="http://gams.uni-graz.at/o:siba.glossar?mode=Y1">Yeni cami</ref>.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">Aşure is a dessert made of beans, chickpeas, wheat, rice, raisins, walnuts, pomegranate and sugar. It is widespread in Turkey and the Middle East.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      </ab>
+      <ab type="lido:subject">
+        <date when="1924"></date>
+      <country type="contemporary">Turkey</country><country type="historical">Turkey</country><placeName><ref target="info:fedora/context:siba.gn.2e1ef902" type="context">Istanbul</ref><note>Eminönü, Fatih</note></placeName></ab>
+    <linkGrp type="relations"><ptr target="siba.1113" /><ptr target="siba.1068" /><ptr target="siba.1144" /></linkGrp></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.1113.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.432">Buying and Selling</ref><ref type="context" target="info:fedora/context:vase.ocm.430">Exchange</ref><ref type="context" target="info:fedora/context:vase.ocm.260">Food Consumption</ref><ref type="context" target="info:fedora/context:vase.ocm.252">Food Preparation</ref><ref type="context" target="info:fedora/context:vase.ocm.250">Food Processing</ref><ref type="context" target="info:fedora/context:vase.ocm.415">Utensils</ref><ref type="context" target="info:fedora/context:vase.ocm.410">Tools and Appliances</ref></ab></div>
+    </back>
+  </text>
+</TEI>

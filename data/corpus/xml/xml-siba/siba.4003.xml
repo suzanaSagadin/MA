@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The 'Professors’ Colony' residential buildings</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>SIBA – A Visual Approach to Explore Everyday Life in Turkish and Yugoslav Cities, 1920s and 1930s </edition>
+      <respStmt><name>Milanka Matić</name><resp>editor</resp></respStmt><respStmt><name>Nataša Mišković</name><resp>editor</resp></respStmt></editionStmt>
+      <publicationStmt>
+        <publisher>Middle Eastern Studies, University of Basel</publisher>
+        <authority>Centre for Information Modelling in the Humanities, University Graz</authority>
+        <idno type="PID">o:siba.4003</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <ab type="lido:repositorySet">
+          <orgName>Borba fotodokumentacija, Belgrade</orgName>
+          <name xml:lang="en" type="collection">Vreme</name>
+          <idno type="invNo">Borba0003</idno>
+        </ab>
+        <ab type="copyright">Photoarchive Borba</ab>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="http://www.yale.edu/hraf/OCM/2004/"> <term key="ocm:341"><ref type="context" target="info:fedora/context:siba.341">Architecture</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:344"><ref type="context" target="info:fedora/context:siba.344">Public Structures</ref><term type="broader" key="ocm:340"><ref type="context" target="info:fedora/context:siba.340">Structures</ref></term></term><term key="ocm:621"><ref type="context" target="info:fedora/context:siba.621">Community Structure</ref><term type="broader" key="ocm:620"><ref type="context" target="info:fedora/context:siba.620">Community</ref></term></term><term key="ocm:875"><ref type="context" target="info:fedora/context:siba.875">Teachers</ref><term type="broader" key="ocm:870"><ref type="context" target="info:fedora/context:siba.870">Education</ref></term></term></keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="lido:objectWorkType">Photographic plate</ab>
+      <ab type="lido:event" subtype="creation">
+        <date>1925-1930</date>
+      <persName role="Press Photographer Vreme"><forename>Svetozar </forename><surname>Grdijan</surname><ref type="context" target="info:fedora/context:siba.pn.d2666bab">Grdijan, Svetozar </ref><certainty target="persName" cert="medium" locus="value" /></persName></ab>
+      <ab type="lido:objectDescriptionSet">View of three residential buildings decorated with flags along Stojan Novaković Street, on the corner of Jaša Prodanović street. The corner building features a commemorative plaque framed with a floral decoration next to one of the first-floor windows. Directly above, two women are leaning out of a second-floor window. Two girls are playing on the pavement next to the house entrance, one of them is sitting on a windowsill. In the lower right corner, a young man is leaning on a fence and looking towards the corner building.</ab>
+      <ab type="lido:objectDescriptionSet" subtype="comment">The so-called 'Professors’ Colony' (Profesorska kolonija) was the first group of residential buildings commissioned by the Association of University Professors in Belgrade. The site is bordered by Jovan Cvijić Street, Despot Stefan Boulevard, Mitropolit Petar and Zdravko Čelar streets. It was designed and built by the architect Svetozar Jovanović (1892-1971), professor at the Technical Faculty and one of the Colony’s first inhabitants, on the initiative of Vladimir K. Petković, Dean of the Faculty of Philosophy, between 1926 and 1929. Many prominent Belgrade University professors also lived there, such as Milutin Milanković, Vladimir Ćorović, Milan Budimir and others.</ab>
+      <ab type="lido:objectMeasurementsSet">
+        <seg type="lido:eventMaterialsTech">Not specified</seg>
+        <seg type="format">Not specified</seg>		
+      <dimensions type="negative"><height unit="mm">90</height><width unit="mm">130</width></dimensions></ab>
+      <ab type="lido:subject">
+        <date notBefore="1925" notAfter="1930"></date>
+      <country type="contemporary">Serbia</country><country type="historical">Yugoslavia</country><placeName><ref target="info:fedora/context:siba.gn.650f150e" type="context">Belgrade</ref><note>Palilula</note></placeName></ab>
+    <listBibl><bibl>Maksimović, Branko (1983): Ideje i stvarnost urbanizma Beograda 1830-1941. Beograd: Zavod za zaštitu kulture grada Beograda.</bibl></listBibl></body>
+    <back>
+      <div type="lido:resourceSet"><figure><graphic url="siba.4003.jpg" xml:id="IMAGE.1" /></figure></div>
+      <div type="ocm-contexts"><ab><ref type="context" target="info:fedora/context:vase.ocm.341">Architecture</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.344">Public Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.340">Structures</ref><ref type="context" target="info:fedora/context:vase.ocm.621">Community Structure</ref><ref type="context" target="info:fedora/context:vase.ocm.620">Community</ref><ref type="context" target="info:fedora/context:vase.ocm.875">Teachers</ref><ref type="context" target="info:fedora/context:vase.ocm.870">Education</ref></ab></div>
+    </back>
+  </text>
+</TEI>
