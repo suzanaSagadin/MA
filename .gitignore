@@ -1,0 +1,6 @@
+data/datasets/
+*.jpg
+*.jpeg
+*.png
+*.tiff
+.venv/
