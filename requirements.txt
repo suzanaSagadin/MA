@@ -4,12 +4,12 @@ matplotlib
 Pillow
 torch
 torchvision
+scikit-learn
+matplotlib
 tqdm
-logging
-shutil
 datetime
-os
-time
-cv2
+git+https://github.com/openai/CLIP.git
+flask
+opencv-python
 detectron2
 
