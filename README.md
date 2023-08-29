@@ -1,6 +1,34 @@
 # README
 
-This MA-project contains Python code for training and evaluating machine learning models for various tasks including clustering, image classification, and object detection. The project is structured as follows:
+This code repository is a part of the master's thesis titled "Einsatz von Computer-Vision-Methoden zur Analyse historischer Fotobestände" for the Master of Arts (MA) degree at the Karl-Franzens-Universität Graz. The project aims to investigate various Computer Vision methods for analyzing historical photograph collections.
+
+**Title of Thesis:**  
+Einsatz von Computer-Vision-Methoden zur Analyse historischer Fotobestände
+
+**Subtitle:**  
+Forschungsstand, Möglichkeiten und Grenzen
+
+**University:**  
+Karl-Franzens-Universität Graz
+
+**Author:**  
+Suzana SAGADIN
+
+**Supervisor:**  
+Mag. Dr. phil. Martina Scholger
+
+**Institution:**  
+Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities
+
+**Year:**  
+2023
+
+
+---
+
+## About the repo
+
+This repo contains Python code for training and evaluating machine learning models for various tasks including clustering, image classification, and object detection. The project is structured as follows:
 
 ## Main Directory Structure
 
