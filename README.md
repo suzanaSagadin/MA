@@ -1,15 +1,15 @@
 # README
 
-This code repository is a part of the master's thesis titled "Einsatz von Computer-Vision-Methoden zur Analyse historischer Fotobestände" for the Master of Arts (MA) degree at the Karl-Franzens-Universität Graz. The project aims to investigate various Computer Vision methods for analyzing historical photograph collections.
+This code repository is a part of the master's thesis titled "Einsatz von Computer-Vision-Methoden zur Analyse historischer Fotobestände" for the Master of Arts (MA) degree at the University of Graz. The project aims to investigate various Computer Vision methods for analyzing historical photograph collections.
 
 **Title of Thesis:**  
-Einsatz von Computer-Vision-Methoden zur Analyse historischer Fotobestände
+Einsatz von Computer-Vision-Methoden zur Analyse historischer Fotobestände (Use of Computer Vision Methods for the Analysis of Historical Photo Collections) 
 
 **Subtitle:**  
-Forschungsstand, Möglichkeiten und Grenzen
+Forschungsstand, Möglichkeiten und Grenzen (State of Research, Opportunities, and Limitations)
 
 **University:**  
-Karl-Franzens-Universität Graz
+University of Graz
 
 **Author:**  
 Suzana SAGADIN
@@ -18,7 +18,7 @@ Suzana SAGADIN
 Mag. Dr. phil. Martina Scholger
 
 **Institution:**  
-Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities
+Department Centre for Information Modelling - Austrian Centre for Digital Humanities
 
 **Year:**  
 2023
